@@ -22,7 +22,7 @@ Every reel has a voiceover AND original background music. Silent reels are not a
    - `file_name`: `post_NNN_vo` (or `post_NNN_vo_v2` for a rework).
    It saves `audio/<file_name>.wav` in this repo through Make's GitHub connection. `git pull --rebase` and use it. Default voice is Sadaltager on gemini-2.5-flash-preview-tts; keep the same voice so the page sounds consistent. If the scenario is missing or fails, check the execution with executions_get-detail once, then fall back to music only and report it.
 3. **Build.** Write a spec file `posts/post_NNN.json` (format in the docstring of `tools/bth_reel.py`: out, voice, mood, seed, and one entry per beat with its spoken line `say` and on-screen `lines`), then run `python3 tools/bth_reel.py posts/post_NNN.json`. It renders the frames in the brand style, times each frame to its spoken line using the pauses in the voiceover, adds a slow push-in, cross-fades and a progress bar, composes original music (`tools/bth_music.py`; moods: drive, chill, bright, dark; use the post number as the seed), ducks the music under the voice and exports a 1080x1920 H.264/AAC MP4. On-screen text should be shorter than the spoken line: the key number or phrase in big type, a short grey line for context. The `say` text must match the script sent to the voiceover, beat for beat.
-4. Keep reels 35–58 s (YouTube Shorts must stay under 60 s); check with ffprobe.
+4. Keep reels 35–58 s (YouTube Shorts must stay under 60 s) and under 4.6 MB, because Make's free plan refuses files over 5 MB. The builder shrinks the file automatically; confirm both with ffprobe and ls before delivering.
 5. Look at 2–3 key frames with the Read tool before publishing to the dashboard.
 
 ## YouTube thumbnail and tags (every reel)
