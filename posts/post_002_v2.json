@@ -1,0 +1,26 @@
+{
+  "out": "posts/post_002_v2.mp4",
+  "voice": "audio/post_002_vo_v2.wav",
+  "mood": "drive",
+  "seed": 2,
+  "beats": [
+    {"say": "KKR bid twenty-five point two crore rupees for Cameron Green. So why does he only take home eighteen?",
+     "lines": [["KKR bid", "w"], ["₹25.20 crore.", "y"], ["Green takes home", "W"], ["₹18 crore.", "Y"], ["Where did the rest go?", "g"]]},
+    {"say": "Blame an IPL rule most fans have never heard of.",
+     "lines": [["Blame one", "w"], ["IPL rule", "y"], ["most fans have never heard of.", "g"]]},
+    {"say": "At a mini-auction, an overseas player's salary is capped.",
+     "lines": [["At a mini-auction,", "w"], ["overseas pay", "w"], ["is capped.", "y"]]},
+    {"say": "The cap is the lower of two numbers: the top retention price, eighteen crore, or the biggest bid at the last mega auction.",
+     "lines": [["The cap is the lower of:", "W"], ["₹18 crore", "y"], ["the top retention price", "g"], ["or", "W"], ["the top bid", "y"], ["at the last mega auction", "g"]]},
+    {"say": "So Green's pay stops at eighteen crore. Toh baaki ka seven point two crore kahan gaya? Straight to the BCCI, for player welfare.",
+     "lines": [["₹7.2 crore", "y"], ["goes to the BCCI", "w"], ["for player welfare.", "W"]]},
+    {"say": "And here's the twist. KKR's purse still gets charged the full twenty-five point two crore.",
+     "lines": [["The twist:", "Y"], ["KKR's purse", "w"], ["is still charged", "w"], ["the full ₹25.20 crore.", "Y"]]},
+    {"say": "Why the rule? To stop overseas stars from skipping the mega auction and cashing in at the smaller one.",
+     "lines": [["Why the rule?", "y"], ["To stop overseas stars skipping the mega auction", "W"], ["and cashing in at the smaller one.", "g"]]},
+    {"say": "The next test: the IPL 2027 mini-auction in Goa, on December sixteenth.",
+     "lines": [["Next test:", "Y"], ["IPL 2027", "w"], ["mini-auction", "w"], ["Goa, December 16", "y"]]},
+    {"say": "Fair rule, or unfair on the players? Tell me in the comments, and follow for a new breakdown every day.",
+     "lines": [["Fair rule", "w"], ["or unfair", "y"], ["on the players?", "w"], ["Tell us in the comments. Follow for a new breakdown every day.", "g"]]}
+  ]
+}
