@@ -25,6 +25,15 @@ Every reel has a voiceover AND original background music. Silent reels are not a
 4. Keep reels 35–58 s (YouTube Shorts must stay under 60 s); check with ffprobe.
 5. Look at 2–3 key frames with the Read tool before publishing to the dashboard.
 
+## YouTube thumbnail and tags (every reel)
+- Make a cover with `python3 tools/bth_thumb.py '{"kicker": "...", "big": "...", "sub": "...", "hook": "..."}' posts/post_NNN_thumb.jpg`.
+  - kicker: 1–3 word topic tag (e.g. "IPL auction", "UPI record").
+  - big: the single most surprising number or claim, 2–4 words; use "|" to split into two lines (e.g. "₹25.2 cr bid|₹18 cr paid").
+  - sub: a short curiosity line that makes people want the answer (a question works best).
+  - hook: one grey line of context. Look at the result with the Read tool; every fact on it must be in the reel.
+- `youtube_tags`: 8–14 comma-separated search phrases people actually type (topic, people/brands, the general niche), always ending with "Behind The Hype,shorts".
+- The publishing scenario already sets: public, NOT made for kids, Education category, English (India) audio, AI-media disclosure, embedding allowed, subscribers notified.
+
 ## Carousels / photos
 1080x1350 JPEG (quality 92). Carousel 5–8 slides: hook, one idea per slide, takeaway + "Follow @behind.the.hype.in for a new breakdown every day".
 
@@ -34,6 +43,6 @@ Hook line, 2–4 short lines of value, a question for comments, blank line, 8–
 ## Delivery
 1. Push media to this repo under posts/ (public URL: https://raw.githubusercontent.com/hypebehindthe-spec/bth-media/main/posts/<file>).
 2. Upload the same files to the dashboard as assets (Artifact tool: action publish, url https://claude.ai/artifact/1woM1FGHPUQU3JzWR7DAr3, asset true, file_path).
-3. Write/update the row in the dashboard's "posts" collection (ArtifactData tool). Row: { number, title, type ("Reel"|"Carousel"|"Photo"), status "pending", caption, media [{kind, src "/_blob/..."}], publish {post_type, media_url | carousel_files, youtube_title, youtube_description}, sources, createdAt }. For a rework: pass if_version, set status "pending", remove "note" with {"__delete__": true}, keep the same number.
+3. Write/update the row in the dashboard's "posts" collection (ArtifactData tool). Row: { number, title, type ("Reel"|"Carousel"|"Photo"), status "pending", caption, media [{kind, src "/_blob/..."}] (for reels: the video first, then the thumbnail image so the owner can review both), publish {post_type, media_url | carousel_files, youtube_title, youtube_description, youtube_tags, thumbnail_url (raw GitHub URL of the thumbnail JPEG)}, sources, createdAt }. For a rework: pass if_version, set status "pending", remove "note" with {"__delete__": true}, keep the same number.
 4. Never run the Instagram/YouTube publishing scenario yourself — the owner's Approve button does that.
 5. Tell the owner in one short message what's ready (SendUserMessage if available). If any step failed, say exactly which.
