@@ -1,0 +1,24 @@
+{
+  "out": "posts/post_003_v2.mp4",
+  "voice": "audio/post_003_vo_v2.wav",
+  "mood": "bright",
+  "seed": 3,
+  "beats": [
+    {"say": "India now moves over one lakh crore rupees on UPI. Every single day.",
+     "lines": [["India moves", "w"], ["₹1 lakh crore", "y"], ["on UPI.", "w"], ["Every single day.", "g"]]},
+    {"say": "October twenty twenty-six set a record: twenty-five point four seven billion UPI payments.",
+     "lines": [["October 2026:", "Y"], ["25.47 billion", "y"], ["UPI payments.", "w"], ["A new record.", "g"]]},
+    {"say": "Worth thirty-one point five three lakh crore rupees, in a single month.",
+     "lines": [["Worth", "w"], ["₹31.53 lakh crore", "y"], ["in a single month.", "g"]]},
+    {"say": "That's about eight hundred and twenty-two million payments a day. Roughly nine thousand five hundred, every second.",
+     "lines": [["822 million", "y"], ["payments a day.", "w"], ["About 9,500", "Y"], ["every second.", "g"]]},
+    {"say": "And for the first time ever, the daily average crossed one lakh crore rupees.",
+     "lines": [["First time ever:", "Y"], ["the daily average crossed", "W"], ["₹1 lakh crore.", "y"], ["₹1,01,707 crore a day in October", "g"]]},
+    {"say": "Here's the twist. NPCI plans a zero point four percent fee on some merchant payments above two thousand rupees.",
+     "lines": [["The twist:", "Y"], ["a 0.4% fee", "y"], ["on select merchant payments above ₹2,000.", "W"], ["Planned by NPCI", "g"]]},
+    {"say": "It's been pushed to after Diwali, with no new date yet. Toh abhi ke liye, UPI free hi hai.",
+     "lines": [["Pushed to", "w"], ["after Diwali.", "y"], ["No new date yet. For now, UPI stays free.", "g"]]},
+    {"say": "So, should UPI stay free for merchants, or is a small fee fair? Tell me in the comments, and follow for a new breakdown every day.",
+     "lines": [["Free forever", "w"], ["or a small fee?", "y"], ["Tell us in the comments. Follow for a new breakdown every day.", "g"]]}
+  ]
+}

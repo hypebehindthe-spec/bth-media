@@ -81,22 +81,50 @@ def segments(voice, beats):
                          capture_output=True, text=True).stderr
     starts = [float(x) for x in re.findall(r"silence_start: ([\d.]+)", log)]
     ends = [float(x) for x in re.findall(r"silence_end: ([\d.]+)", log)]
-    mids = [(s + e) / 2 for s, e in zip(starts, ends) if 0.5 < s < dur - 0.5]
+    # merge pauses that touch, then keep (midpoint, length)
+    raw = sorted(zip(starts, ends))
+    merged = []
+    for a, b in raw:
+        if merged and a - merged[-1][1] < 0.05:
+            merged[-1][1] = b
+        else:
+            merged.append([a, b])
+    sil = [((a + b) / 2, b - a) for a, b in merged if 0.5 < a < dur - 0.5]
     words = [max(1, len(b["say"].split())) for b in beats]
-    tot, acc, cuts = sum(words), 0, []
-    for w in words[:-1]:
-        acc += w
-        target = dur * acc / tot
-        best = min(mids, key=lambda m: abs(m - target)) if mids else target
-        if abs(best - target) > 3.0:
-            best = target
-        cuts.append(best)
-    cuts = sorted(set(round(c, 3) for c in cuts))
-    while len(cuts) < len(beats) - 1:  # duplicates collapsed: fall back to proportional
+    rate = dur / sum(words)
+    exp = [w * rate for w in words]
+    k, m = len(beats) - 1, len(sil)
+    cuts = None
+    if m >= k:
+        # choose k pauses in order; each segment should last about as long as its words suggest,
+        # and longer pauses (paragraph breaks) are preferred
+        INF = float("inf")
+        pts = [(0.0, 0.0)] + sil
+        best = [[INF] * (m + 1) for _ in range(k + 1)]
+        back = [[-1] * (m + 1) for _ in range(k + 1)]
+        best[0][0] = 0.0
+        for j in range(1, k + 1):
+            for i in range(1, m + 1):
+                for q in range(0, i):
+                    if best[j - 1][q] == INF:
+                        continue
+                    seg = pts[i][0] - pts[q][0]
+                    c = best[j - 1][q] + abs(seg - exp[j - 1]) / exp[j - 1] - 2.5 * pts[i][1]
+                    if c < best[j][i]:
+                        best[j][i], back[j][i] = c, q
+        tail = lambda i: abs((dur - pts[i][0]) - exp[-1]) / exp[-1]
+        i = min(range(1, m + 1), key=lambda x: best[k][x] + tail(x) if best[k][x] < INF else INF)
+        if best[k][i] < INF:
+            picked = []
+            for j in range(k, 0, -1):
+                picked.append(pts[i][0])
+                i = back[j][i]
+            cuts = picked[::-1]
+    if cuts is None:
         acc, cuts = 0, []
         for w in words[:-1]:
             acc += w
-            cuts.append(dur * acc / tot)
+            cuts.append(dur * acc / sum(words))
     edges = [0.0] + cuts + [dur]
     return [edges[i + 1] - edges[i] for i in range(len(beats))], dur
 
