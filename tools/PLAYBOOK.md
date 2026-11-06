@@ -20,14 +20,10 @@ Every reel has a voiceover AND original background music. Silent reels are not a
    - `script`: all spoken lines joined with a blank line between beats (the pauses are used for timing),
    - `style`: a one-line direction, e.g. "Warm, confident Indian-English male storyteller, like a sharp business YouTuber. Natural pace, slight smile, light emphasis on numbers.",
    - `file_name`: `post_NNN_vo` (or `post_NNN_vo_v2` for a rework).
-   It saves `audio/<file_name>.wav` in this repo. `git pull` and use it. If the scenario is missing or fails, check the execution with executions_get-detail once, then fall back to music only and report it.
-3. **Timing.** Run `ffmpeg -i vo.wav -af silencedetect=noise=-35dB:d=0.3 -f null -` and use the silence midpoints as cut points so each frame appears while its line is spoken. If the count of segments doesn't match the beats, split time in proportion to each line's word count.
-4. **Music.** `python3 tools/bth_music.py <mood> <seconds> music.wav <seed>` — moods: drive (sport/business tension), chill (explainers), bright (gadgets/upbeat), dark (dramatic money stories). Use the post number as the seed so tracks vary. It's synthesised from scratch, so it is copyright-free.
-5. **Mix.** Voice loudness-normalised (`loudnorm=I=-16:TP=-1.5`), music under it with sidechain ducking, e.g.
-   `[1:a]volume=0.22[m];[m][0:a]sidechaincompress=threshold=0.03:ratio=8:attack=20:release=300[md];[0:a][md]amix=inputs=2:duration=first:normalize=0,aresample=48000`
-   then a 0.6 s music tail fade at the end.
-6. **Video.** 1080x1920, H.264, yuv420p, 30 fps, AAC 48 kHz stereo 128k, `-movflags +faststart -preset veryfast`, 35–58 s (YouTube Shorts must stay under 60 s). Frames get a subtle slow zoom or a progress bar plus quick cross-fades so nothing looks static. Check duration and audio stream with ffprobe.
-7. Look at 2–3 key frames with the Read tool before publishing to the dashboard.
+   It saves `audio/<file_name>.wav` in this repo through Make's GitHub connection. `git pull --rebase` and use it. Default voice is Sadaltager on gemini-2.5-flash-preview-tts; keep the same voice so the page sounds consistent. If the scenario is missing or fails, check the execution with executions_get-detail once, then fall back to music only and report it.
+3. **Build.** Write a spec file `posts/post_NNN.json` (format in the docstring of `tools/bth_reel.py`: out, voice, mood, seed, and one entry per beat with its spoken line `say` and on-screen `lines`), then run `python3 tools/bth_reel.py posts/post_NNN.json`. It renders the frames in the brand style, times each frame to its spoken line using the pauses in the voiceover, adds a slow push-in, cross-fades and a progress bar, composes original music (`tools/bth_music.py`; moods: drive, chill, bright, dark; use the post number as the seed), ducks the music under the voice and exports a 1080x1920 H.264/AAC MP4. On-screen text should be shorter than the spoken line: the key number or phrase in big type, a short grey line for context. The `say` text must match the script sent to the voiceover, beat for beat.
+4. Keep reels 35–58 s (YouTube Shorts must stay under 60 s); check with ffprobe.
+5. Look at 2–3 key frames with the Read tool before publishing to the dashboard.
 
 ## Carousels / photos
 1080x1350 JPEG (quality 92). Carousel 5–8 slides: hook, one idea per slide, takeaway + "Follow @behind.the.hype.in for a new breakdown every day".
