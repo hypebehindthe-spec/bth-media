@@ -179,8 +179,41 @@ def build(spec_path):
     subprocess.run(["ffmpeg", "-v", "error", "-y", "-i", voice, "-i", music, "-i", video, "-filter_complex", mix,
                     "-map", "2:v", "-map", "[aout]", "-c:v", "copy", "-c:a", "aac", "-b:a", "128k", "-ar", "48000",
                     "-ac", "2", "-movflags", "+faststart", "-shortest", out], check=True)
-    print(json.dumps({"out": out, "duration": round(dur, 2), "segments": [round(s, 2) for s in segs]}))
+    cap_size(out)
+    print(json.dumps({"out": out, "duration": round(dur, 2), "segments": [round(s, 2) for s in segs],
+                      "bytes": os.path.getsize(out)}))
+
+
+MAX_BYTES = 4_600_000  # Make's free plan refuses files over 5 MB
+
+
+def cap_size(path):
+    """Re-encode with a 2-pass bitrate target if the file is too big for Make."""
+    if os.path.getsize(path) <= MAX_BYTES:
+        return
+    dur = float(subprocess.check_output(["ffprobe", "-v", "error", "-show_entries", "format=duration",
+                                         "-of", "csv=p=0", path]).decode().strip())
+    for budget in (4_300_000, 3_800_000):
+        vkbps = int((budget * 8 / dur - 112_000) / 1000)
+        tmp = path + ".tmp.mp4"
+        log = path + ".2pass"
+        subprocess.run(["ffmpeg", "-v", "error", "-y", "-i", path, "-c:v", "libx264", "-preset", "veryfast",
+                        "-b:v", f"{vkbps}k", "-pass", "1", "-passlogfile", log, "-an", "-f", "mp4", os.devnull], check=True)
+        subprocess.run(["ffmpeg", "-v", "error", "-y", "-i", path, "-c:v", "libx264", "-preset", "veryfast",
+                        "-b:v", f"{vkbps}k", "-pass", "2", "-passlogfile", log, "-pix_fmt", "yuv420p",
+                        "-c:a", "aac", "-b:a", "96k", "-ar", "48000", "-ac", "2", "-movflags", "+faststart", tmp], check=True)
+        for f in os.listdir(os.path.dirname(path) or "."):
+            if f.startswith(os.path.basename(log)):
+                os.remove(os.path.join(os.path.dirname(path) or ".", f))
+        os.replace(tmp, path)
+        if os.path.getsize(path) <= MAX_BYTES:
+            return
+    raise SystemExit(f"{path} is still over {MAX_BYTES} bytes")
 
 
 if __name__ == "__main__":
-    build(sys.argv[1])
+    if len(sys.argv) > 2 and sys.argv[1] == "--cap":
+        cap_size(sys.argv[2])
+        print(os.path.getsize(sys.argv[2]))
+    else:
+        build(sys.argv[1])
