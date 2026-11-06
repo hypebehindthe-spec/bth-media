@@ -32,7 +32,10 @@ Every reel has a voiceover AND original background music. Silent reels are not a
   - sub: a short curiosity line that makes people want the answer (a question works best).
   - hook: one grey line of context. Look at the result with the Read tool; every fact on it must be in the reel.
 - `youtube_tags`: 8–14 comma-separated search phrases people actually type (topic, people/brands, the general niche), always ending with "Behind The Hype,shorts".
-- The publishing scenario already sets: public, NOT made for kids, Education category, English (India) audio, AI-media disclosure, embedding allowed, subscribers notified.
+- The publishing scenario already sets: public, NOT made for kids, Education category, English (India) audio, embedding allowed, subscribers notified. The AI-content label is off: a stock AI narrator over our own text graphics doesn't need it. Never add realistic AI images or video of real people or events without telling the owner, because those do need the label.
+
+## Stay clear of YouTube's "inauthentic content" rule
+YouTube demonetises channels that look mass-produced. Keep every reel clearly original: a researched angle and our own commentary (not just reading facts), varied structure and hooks from day to day, a different music seed and mood, no more than one upload a day, and never reuse a script.
 
 ## Carousels / photos
 1080x1350 JPEG (quality 92). Carousel 5–8 slides: hook, one idea per slide, takeaway + "Follow @behind.the.hype.in for a new breakdown every day".
