@@ -1,0 +1,129 @@
+{
+ "out": "posts/post_004_v2.mp4",
+ "voice": "audio/post_004_vo_v2.wav",
+ "mood": "chill",
+ "seed": 44,
+ "beats": [
+  {
+   "say": "This Dhanteras, India paid about twelve percent more for the same gold.",
+   "lines": [
+    [
+     "Same gold.",
+     "w"
+    ],
+    [
+     "12% pricier.",
+     "y"
+    ],
+    [
+     "Dhanteras 2026 vs 2025",
+     "g"
+    ]
+   ]
+  },
+  {
+   "say": "Jewellers estimate sixty thousand crore in sales. Up fifteen to twenty percent in value, flat in volume.",
+   "lines": [
+    [
+     "₹60,000 crore",
+     "y"
+    ],
+    [
+     "in Dhanteras sales",
+     "W"
+    ],
+    [
+     "Value up 15-20%. Volume flat.",
+     "s"
+    ],
+    [
+     "Early estimate, GJC",
+     "g"
+    ]
+   ]
+  },
+  {
+   "say": "Ten grams cost one lakh forty-eight thousand eight hundred in Delhi. Last Dhanteras? One lakh thirty-two thousand four hundred.",
+   "lines": [
+    [
+     "₹1,48,800",
+     "y"
+    ],
+    [
+     "for 10 grams in Delhi",
+     "W"
+    ],
+    [
+     "Last Dhanteras: ₹1,32,400",
+     "s"
+    ],
+    [
+     "Incl. taxes, All India Sarafa Association",
+     "g"
+    ]
+   ]
+  },
+  {
+   "say": "Wait, it gets better. That's still nineteen percent below January's record. That dip pulled buyers back.",
+   "lines": [
+    [
+     "19% below",
+     "y"
+    ],
+    [
+     "January's record",
+     "W"
+    ],
+    [
+     "of ₹1,83,000. The dip pulled buyers back.",
+     "s"
+    ]
+   ]
+  },
+  {
+   "say": "Zoom out. July to September, jewellery demand fell twenty percent by weight, but rose sixteen percent by value.",
+   "lines": [
+    [
+     "20% less gold.",
+     "w"
+    ],
+    [
+     "16% more spent.",
+     "y"
+    ],
+    [
+     "India jewellery demand, Jul-Sep 2026",
+     "s"
+    ],
+    [
+     "World Gold Council",
+     "g"
+    ]
+   ]
+  },
+  {
+   "say": "India isn't buying more gold. It's paying more for it. Send this to whoever bought gold this year, and follow for more.",
+   "lines": [
+    [
+     "Not more gold.",
+     "w"
+    ],
+    [
+     "Pricier gold.",
+     "y"
+    ],
+    [
+     "Send this to whoever bought gold this year.",
+     "s"
+    ]
+   ]
+  }
+ ],
+ "cuts": [
+  4.48,
+  11.38,
+  18.02,
+  24.27,
+  30.38
+ ]
+}
