@@ -48,6 +48,17 @@ Every reel has a voiceover AND original background music. Silent reels are not a
 ## Stay clear of YouTube's "inauthentic content" rule
 YouTube demonetises channels that look mass-produced. Keep every reel clearly original: a researched angle and our own commentary (not just reading facts), varied structure and hooks from day to day, a different music seed and mood, no more than one upload a day, and never reuse a script.
 
+## Topics come from the outlier matrix (tools/IDEAS.md)
+- Pick each new post from tools/IDEAS.md: a timely news hook first if one fits a pattern there, otherwise the next unused idea, rotating subtopic and format day to day. Mark it "made (pNNN)" and push.
+- Put a rupee number in the hook and the YouTube title whenever the story has one; origin stories with a twist and "X vs Y: which makes more?" are the proven patterns.
+- Winners (see IDEAS.md) get remade within 2 weeks with a new hook and a different example. Never repost the same video.
+
+## Research scan (weekly, Mondays)
+Run the publishing scenario 8381063 ONLY with post_type "research" (scenarios_run, responsive true):
+- `media_url`: comma-separated Instagram usernames to study (business/creator accounts only; personal accounts come back empty). Current list: zerodhaonline, labourlawadvisor, marketingmind.in, thebetterindia — add or swap handles that fit the pillars; drop any that return nothing twice.
+- `youtube_tags`: 5–6 comma-separated search phrases (Shorts, India, last 45 days, by views), e.g. "business case study india,indian startup story,how company makes money india,which makes more money india" plus one timely phrase for the week.
+Results land in data store 248952 under keys `rs_ig_<username>` (posts as `type|views|likes|comments|time|link|caption` joined by ";;") and `rs_yt_<query>` (detail = `videoIds##views##channelIds##titles` with titles split by "~~"; media_id = `channelIds##subs##videoCounts##channelViews`). Compute outlier scores in Python (method in IDEAS.md), update the scan table and add/replace ideas in the matrix. Costs roughly 60–80 Make credits per scan.
+
 ## Format mix
 - Reels about 5 of 7 days. Once a week make the reel a "guess the number" (ask on beat 1, reveal on the last beat) to pull comments.
 - Once a week a data carousel (Instagram re-shows carousels to people who scrolled past the first slide).
