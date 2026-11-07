@@ -1,0 +1,207 @@
+{
+ "out": "posts/post_004.mp4",
+ "voice": "audio/post_004_vo.wav",
+ "mood": "chill",
+ "seed": 4,
+ "beats": [
+  {
+   "say": "This Dhanteras, India spent about sixty thousand crore on gold. But here's the catch.",
+   "lines": [
+    [
+     "About",
+     "w"
+    ],
+    [
+     "₹60,000 crore",
+     "y"
+    ],
+    [
+     "on gold this Dhanteras.",
+     "W"
+    ],
+    [
+     "But here's the catch.",
+     "g"
+    ]
+   ]
+  },
+  {
+   "say": "Sales grew fifteen to twenty percent by value. By volume? Basically flat.",
+   "lines": [
+    [
+     "Sales by value:",
+     "W"
+    ],
+    [
+     "up 15-20%",
+     "y"
+    ],
+    [
+     "By volume:",
+     "W"
+    ],
+    [
+     "basically flat.",
+     "w"
+    ],
+    [
+     "Early estimate, GJC",
+     "g"
+    ]
+   ]
+  },
+  {
+   "say": "We spent more, and took home the same gold. Why? Price.",
+   "lines": [
+    [
+     "More money.",
+     "w"
+    ],
+    [
+     "Same gold.",
+     "y"
+    ],
+    [
+     "Why? The price.",
+     "g"
+    ]
+   ]
+  },
+  {
+   "say": "The day before Dhanteras, ten grams cost one lakh forty-eight thousand eight hundred in Delhi.",
+   "lines": [
+    [
+     "10 grams of gold:",
+     "W"
+    ],
+    [
+     "₹1,48,800",
+     "y"
+    ],
+    [
+     "Delhi, 5 November, incl. taxes",
+     "g"
+    ]
+   ]
+  },
+  {
+   "say": "Last Dhanteras? One lakh thirty-two thousand four hundred. About twelve percent more in a year.",
+   "lines": [
+    [
+     "Last Dhanteras:",
+     "W"
+    ],
+    [
+     "₹1,32,400",
+     "w"
+    ],
+    [
+     "About 12% more",
+     "y"
+    ],
+    [
+     "in just one year.",
+     "g"
+    ]
+   ]
+  },
+  {
+   "say": "Wait, it gets better. That's still nineteen percent below January's record.",
+   "lines": [
+    [
+     "Still 19% below",
+     "y"
+    ],
+    [
+     "January's record",
+     "W"
+    ],
+    [
+     "of ₹1,83,000.",
+     "w"
+    ],
+    [
+     "29 January 2026",
+     "g"
+    ]
+   ]
+  },
+  {
+   "say": "That dip, plus festive bonuses, brought buyers back. Thoda sasta laga, toh log aa gaye.",
+   "lines": [
+    [
+     "The dip",
+     "y"
+    ],
+    [
+     "plus festive bonuses",
+     "W"
+    ],
+    [
+     "brought buyers back.",
+     "w"
+    ],
+    [
+     "What jewellers told PTI",
+     "g"
+    ]
+   ]
+  },
+  {
+   "say": "Zoom out. July to September, jewellery demand fell twenty percent by weight, but rose sixteen percent by value.",
+   "lines": [
+    [
+     "July to September:",
+     "Y"
+    ],
+    [
+     "20% less",
+     "w"
+    ],
+    [
+     "jewellery by weight.",
+     "g"
+    ],
+    [
+     "16% more",
+     "y"
+    ],
+    [
+     "by value.",
+     "g"
+    ],
+    [
+     "World Gold Council",
+     "g"
+    ]
+   ]
+  },
+  {
+   "say": "So India isn't buying more gold. It's paying more for it. Did you buy any? Tell me below, and follow for a new breakdown every day.",
+   "lines": [
+    [
+     "Not more gold.",
+     "w"
+    ],
+    [
+     "Pricier gold.",
+     "y"
+    ],
+    [
+     "Did you buy any this year? Follow for a new breakdown every day.",
+     "g"
+    ]
+   ]
+  }
+ ],
+ "cuts": [
+  5.54,
+  10.54,
+  14.63,
+  20.08,
+  26.69,
+  29.63,
+  34.76,
+  41.1
+ ]
+}

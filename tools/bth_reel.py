@@ -11,6 +11,7 @@ spec.json:
     ...
   ]
 }
+Optional "cuts": [seconds, ...] (one per beat boundary) overrides the automatic pause matching.
 Line styles: "w" big white, "y" big yellow, "W" medium white, "Y" medium yellow, "g" small grey, "s" small white.
 """
 import json, os, re, subprocess, sys, tempfile
@@ -74,9 +75,12 @@ def render_frame(beat, idx, total, path):
     img.save(path)
 
 
-def segments(voice, beats):
+def segments(voice, beats, manual=None):
     dur = float(subprocess.check_output(["ffprobe", "-v", "error", "-show_entries", "format=duration",
                                          "-of", "csv=p=0", voice]).decode().strip())
+    if manual:  # optional spec "cuts": beat boundaries in seconds, checked by hand against the pauses
+        edges = [0.0] + list(manual) + [dur]
+        return [edges[i + 1] - edges[i] for i in range(len(beats))], dur
     log = subprocess.run(["ffmpeg", "-i", voice, "-af", "silencedetect=noise=-35dB:d=0.2", "-f", "null", "-"],
                          capture_output=True, text=True).stderr
     starts = [float(x) for x in re.findall(r"silence_start: ([\d.]+)", log)]
@@ -138,7 +142,7 @@ def build(spec_path):
     tmp = tempfile.mkdtemp()
     for i, b in enumerate(beats, 1):
         render_frame(b, i, len(beats), f"{tmp}/f{i:02d}.png")
-    segs, dur = segments(voice, beats)
+    segs, dur = segments(voice, beats, spec.get("cuts"))
     XF = 0.25
     # per-beat clips with a slow push-in
     clips = []
