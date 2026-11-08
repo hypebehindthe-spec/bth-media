@@ -5,7 +5,7 @@ How the daily run picks topics. Refreshed by the weekly research scan (see PLAYB
 ## Method
 - **Outlier score** = a video's views ÷ that channel's average views per video (YouTube: channel viewCount ÷ videoCount). For Instagram creators: reel views (or likes when views are hidden) ÷ that creator's median over their last 25 posts.
 - Study only **5x+ outliers**: copy the *pattern* (hook shape, title structure, story arc, number in the title), never the subject, script or footage.
-- Ignore outliers that don't fit the page (vlogs, celebrity gossip, motivational clips) and anything about quick commerce or its companies (owner works at Blinkit).
+- Ignore outliers that don't fit the page (vlogs, celebrity gossip, motivational clips). Quick commerce and food delivery are fine, from public information only.
 
 ## Scan 1 — 7 Nov 2026 (Shorts from India, last 45 days, by views)
 
@@ -80,6 +80,7 @@ Every idea still needs its numbers verified before it's made; drop it if they ca
 | 34 | Deals (M&A) | F4 | "Synergy": where a merger's promised savings actually come from (a real deal's stated target) | idea |
 | 35 | Deals (M&A) | F5 | Tata Steel–Corus: India's biggest overseas buy of 2007 and what happened next | idea |
 | 36 | Deals (M&A) | F6 | Why 26% is the magic number in Indian deals (blocking power, open offers) | idea |
+| 37 | Deals (M&A) | F3 | Guess what Uber offered for Delivery Hero (~$14.8B, July 2026): what it gets and which regulators must agree | idea |
 
 Timely posts made outside the matrix (news hook + proven pattern):
 - p005 (8 Nov, Diwali): Guess the number — one town (Sivakasi) makes 85–90% of India's fireworks; prices up 30–50% this Diwali. Pattern: F3 + festival money number.
