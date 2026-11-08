@@ -4,7 +4,7 @@ Read this before making or reworking any post. The owner's notes on a specific p
 
 ## Brand
 - Instagram @behind.the.hype.in · YouTube Shorts @behindthehype_in_speed
-- Promise: the story behind everything India is hyped about. Pillars: business of sport (IPL, cricket, F1), gadget economics, viral brands & startups, economics in 60 seconds.
+- Promise: the story behind everything India is hyped about. Pillars: business of sport (IPL, cricket, F1), gadget economics, viral brands & startups, economics in 60 seconds, deals (mergers & acquisitions in India and worldwide).
 - Language: ALL on-screen text, headlines, captions and YouTube titles/descriptions in clear English. Never write the word "Hinglish" anywhere. The voiceover may drop in an occasional Hindi phrase for flavour, but stays mostly English.
 - The owner works at Blinkit: quick-commerce topics use public information only, never insider claims, and never criticise Blinkit's competitors.
 - Every number must be confirmed in a reputable source (filings, major business press, official bodies); keep URLs in the row's `sources`. Drop anything you can't verify.
@@ -53,10 +53,19 @@ YouTube demonetises channels that look mass-produced. Keep every reel clearly or
 - Put a rupee number in the hook and the YouTube title whenever the story has one; origin stories with a twist and "X vs Y: which makes more?" are the proven patterns.
 - Winners (see IDEAS.md) get remade within 2 weeks with a new hook and a different example. Never repost the same video.
 
+## Deals (M&A) pillar (owner request, 8 Nov)
+Trending and lesser-known ("hidden") mergers and acquisitions, India and global. Aim for about one deal post a week, more when a big deal breaks.
+- Every Monday, as part of the research scan, search the news for the past 7 days' deals (Indian and global; also smaller deals the mainstream missed: a quiet stake buy, an open offer, a deal blocked or approved by a regulator). Add the best 1–2 to the IDEAS.md matrix under "Deals (M&A)".
+- Every deal post explains the deal through these lenses, picking the 1–2 that make the story: **the money** (price, cash vs shares, how it's funded, debt taken on); **valuation** (the multiple paid, e.g. price ÷ revenue or ÷ profit, and the premium over the share price before the news; compute in Python); **synergy** (the cost savings or extra sales the buyer has said it expects, and by when; say it's the company's own target); **regulation** (CCI, RBI, SEBI open offer, foreign regulators such as the US FTC or the EU; what still needs approval); **why it matters to an ordinary viewer** (prices, jobs, a brand they use).
+- Say whether a deal is announced, approved or completed. Rumoured deals only if reported by a major outlet, and say "reported".
+- Educational only: no buy/sell/hold views, no "this stock will rise", no price targets. If a post discusses a listed company's shares, the caption ends with "Educational, not investment advice."
+- Never cover quick-commerce or food-delivery deals or companies (the owner works at Blinkit), and don't call any deal a failure unless the companies' own write-downs or results show it.
+- Make the jargon plain on screen: "paid 4x its yearly sales", not "4x EV/Sales".
+
 ## Research scan (weekly, Mondays)
 Run the publishing scenario 8381063 ONLY with post_type "research" (scenarios_run, responsive true):
 - `media_url`: comma-separated Instagram usernames to study (business/creator accounts only; personal accounts come back empty). Current list: zerodhaonline, labourlawadvisor, marketingmind.in, thebetterindia — add or swap handles that fit the pillars; drop any that return nothing twice.
-- `youtube_tags`: 5–6 comma-separated search phrases (Shorts, India, last 45 days, by views), e.g. "business case study india,indian startup story,how company makes money india,which makes more money india" plus one timely phrase for the week.
+- `youtube_tags`: 5–6 comma-separated search phrases (Shorts, India, last 45 days, by views), e.g. "business case study india,indian startup story,how company makes money india,which makes more money india,acquisition explained" plus one timely phrase for the week.
 Results land in data store 248952 under keys `rs_ig_<username>` (posts as `type|views|likes|comments|time|link|caption` joined by ";;") and `rs_yt_<query>` (detail = `videoIds##views##channelIds##titles` with titles split by "~~"; media_id = `channelIds##subs##videoCounts##channelViews`). Compute outlier scores in Python (method in IDEAS.md), update the scan table and add/replace ideas in the matrix. Costs roughly 60–80 Make credits per scan.
 
 ## Format mix

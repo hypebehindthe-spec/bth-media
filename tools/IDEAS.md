@@ -36,7 +36,8 @@ How the daily run picks topics. Refreshed by the weekly research scan (see PLAYB
 3. "X vs Y: which makes more money?" works at scale (8.9M).
 4. "Most people get this wrong" / "X vs Y difference" works on Instagram for everyday systems.
 
-## Idea matrix (5 subtopics × 6 formats = 30)
+## Idea matrix (6 subtopics × 6 formats)
+Subtopic 6, Deals (M&A), was added by the owner on 8 Nov: trending and lesser-known mergers and acquisitions, in India and globally. Rules are in the PLAYBOOK "Deals (M&A)" section.
 Formats: **F1** Tiny start → crores · **F2** X vs Y: which makes more? · **F3** Guess the number (comment bait) · **F4** Where your ₹ goes (price breakdown) · **F5** Rise and fall · **F6** "Most people get this wrong"
 
 Every idea still needs its numbers verified before it's made; drop it if they can't be.
@@ -73,6 +74,12 @@ Every idea still needs its numbers verified before it's made; drop it if they ca
 | 28 | Everyday money | F4 | "No-cost EMI": where the interest hides | idea |
 | 29 | Everyday money | F5 | Byju's: from India's most valuable startup to near zero (public facts only) | idea |
 | 30 | Everyday money | F6 | Banks earned ₹ thousands of crores from minimum-balance fines | idea |
+| 31 | Deals (M&A) | F1 | Sun Pharma: from a small Gujarat start to buying US-based Organon for ~$11.75B | idea |
+| 32 | Deals (M&A) | F2 | What Sun Pharma paid vs what Organon earns: the deal's multiple, explained simply | idea |
+| 33 | Deals (M&A) | F3 | Guess what Emirates NBD paid for 60% of RBL Bank (~$3B), and why it gets only 26% of the votes | idea |
+| 34 | Deals (M&A) | F4 | "Synergy": where a merger's promised savings actually come from (a real deal's stated target) | idea |
+| 35 | Deals (M&A) | F5 | Tata Steel–Corus: India's biggest overseas buy of 2007 and what happened next | idea |
+| 36 | Deals (M&A) | F6 | Why 26% is the magic number in Indian deals (blocking power, open offers) | idea |
 
 Timely posts made outside the matrix (news hook + proven pattern):
 - p005 (8 Nov, Diwali): Guess the number — one town (Sivakasi) makes 85–90% of India's fireworks; prices up 30–50% this Diwali. Pattern: F3 + festival money number.
