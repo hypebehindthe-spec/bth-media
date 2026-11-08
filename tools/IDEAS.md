@@ -74,6 +74,9 @@ Every idea still needs its numbers verified before it's made; drop it if they ca
 | 29 | Everyday money | F5 | Byju's: from India's most valuable startup to near zero (public facts only) | idea |
 | 30 | Everyday money | F6 | Banks earned ₹ thousands of crores from minimum-balance fines | idea |
 
+Timely posts made outside the matrix (news hook + proven pattern):
+- p005 (8 Nov, Diwali): Guess the number — one town (Sivakasi) makes 85–90% of India's fireworks; prices up 30–50% this Diwali. Pattern: F3 + festival money number.
+
 Status values: idea → made (pNNN) → winner / dud (after its 48-hour numbers) → remade (pNNN).
 
 ## Winners log

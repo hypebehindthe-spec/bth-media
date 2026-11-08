@@ -1,0 +1,21 @@
+{
+ "out": "posts/post_005.mp4",
+ "voice": "audio/post_005_vo.wav",
+ "mood": "bright",
+ "seed": 58,
+ "beats": [
+  {"say": "Guess what share of India's firecrackers come from just one town.",
+   "lines": [["ONE town.", "w"], ["What % of India's crackers?", "y"], ["Guess before the end", "g"]]},
+  {"say": "It's Sivakasi, Tamil Nadu. Over a thousand licensed factories. About three lakh workers.",
+   "lines": [["1,070+", "y"], ["licensed factories", "W"], ["Sivakasi, Tamil Nadu. About 3 lakh workers.", "s"], ["Business Standard", "g"]]},
+  {"say": "Seven thousand crore a year, and most of it sells around Diwali.",
+   "lines": [["₹7,000 crore", "y"], ["a year", "W"], ["Most of it sold around Diwali", "s"], ["Estimated annual turnover", "g"]]},
+  {"say": "Wait, it gets better. This Diwali, crackers cost thirty to fifty percent more.",
+   "lines": [["30-50%", "y"], ["costlier this Diwali", "W"], ["Indian Fireworks Association", "g"]]},
+  {"say": "Why? At one point, sulphur jumped from seventy-five rupees a kilo to one forty.",
+   "lines": [["₹140", "y"], ["a kg of sulphur", "W"], ["Up from ₹75. Raw materials up about 30%.", "s"], ["Fireworks makers, via Business Standard", "g"]]},
+  {"say": "The answer? About eighty-five to ninety percent. Nearly nine in ten. Did you guess right? Comment below.",
+   "lines": [["85-90%", "y"], ["of India's fireworks", "W"], ["Nearly 9 in 10. Did you guess right?", "s"]]}
+ ],
+ "cuts": [3.8, 9.28, 13.22, 17.65, 22.37]
+}
