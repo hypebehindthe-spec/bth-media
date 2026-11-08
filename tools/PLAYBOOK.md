@@ -26,6 +26,7 @@ Every reel has a voiceover AND original background music. Silent reels are not a
 
 ### Pipeline
 1. **Script.** Each beat = one on-screen frame + one spoken line. Conversational and human: contractions, short sentences, a natural reaction now and then ("Wait, it gets better."). On-screen text max 4 short lines per beat: the key number or phrase in big type ("y"/"w"), a short context line ("s" or "W"), source in small grey ("g").
+   **Hook gate (from 9 Nov).** Before recording, write 5 hook options (the spoken first line), each built on a different formula from `tools/ytkit/hooks.json`, put them in a text file one per line and run `python3 -I tools/ytkit/hookscore.py hooks.txt`. Use the top scorer unless it breaks a brand or accuracy rule; if the best is still "WEAK", rewrite it to fix the weakest property the tool names (often: say "you" early, name what's at stake, leave the answer open) and score again. Save the chosen hook's score on the dashboard row as "hookScore" and note it in PERFORMANCE.md so we learn whether the score predicts skip rate. A score is a check, not a promise.
 2. **Voice.** Find the Make scenario named "BTH – Voiceover" (Make tool scenarios_list, teamId 3492645; currently id 8424575). Run it once (scenarios_run, responsive true) with:
    - `script`: all spoken lines joined with a blank line between beats (the pauses are used for timing),
    - `style`: a one-line direction, e.g. "Energetic, confident Indian-English male storyteller, like a sharp business YouTuber. Brisk pace, punchy delivery, first line hits hard, light emphasis on numbers.",
@@ -40,7 +41,7 @@ Every reel has a voiceover AND original background music. Silent reels are not a
 ## YouTube thumbnail and tags (every reel)
 - Make a cover with `python3 tools/bth_thumb.py '{"kicker": "...", "big": "...", "sub": "...", "hook": "..."}' posts/post_NNN_thumb.jpg`.
   - kicker: 1–3 word topic tag (e.g. "IPL auction", "UPI record").
-  - big: the single most surprising number or claim, 2–4 words; use "|" to split into two lines (e.g. "₹25.2 cr bid|₹18 cr paid").
+  - big: the single most surprising number or claim, 2–4 words; use "|" to split into two lines (e.g. "₹25.2 cr bid|₹18 cr paid"). Keep it to 3 words or fewer where possible and do NOT repeat the YouTube title's words: the thumbnail says what the title doesn't.
   - sub: a short curiosity line that makes people want the answer (a question works best).
   - hook: one grey line of context. Look at the result with the Read tool; every fact on it must be in the reel.
 - `youtube_tags`: 8–14 comma-separated search phrases people actually type (topic, people/brands, the general niche), always ending with "Behind The Hype,shorts".
@@ -93,7 +94,7 @@ Instagram search reads captions and on-screen text, so write for search, not has
 - One question that's easy to answer in a word or a number.
 - Blank line, then 3–5 hashtags: #behindthehype plus 2–4 specific ones. No hashtag walls.
 - Under 1,000 characters.
-Reels also get `youtube_title` (under 70 characters, search keyword first, ends with " #Shorts") and `youtube_description` (2–3 lines with the keywords, 3–5 hashtags, "Follow on Instagram @behind.the.hype.in").
+Reels also get `youtube_title` (aim for 60 characters or fewer including " #Shorts", search keyword first; lint it with `python3 -I tools/ytkit/title.py --title "..." --thumb "<thumbnail big text>"` and fix every "x" it reports) and `youtube_description` (2–3 lines with the keywords, 3–5 hashtags, "Follow on Instagram @behind.the.hype.in").
 
 ## Delivery
 1. Push media to this repo under posts/ (public URL: https://raw.githubusercontent.com/hypebehindthe-spec/bth-media/main/posts/<file>).
