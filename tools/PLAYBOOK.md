@@ -19,9 +19,12 @@ Every reel has a voiceover AND original background music. Silent reels are not a
 - **Short.** 25–35 s (hard max 40). 5–7 beats, 70–100 spoken words. One surprising fact, one twist, one takeaway — cut everything else. Watch-through matters more than completeness.
 - **Frame 1 is the hook and the Instagram cover** (the publisher uses frame 0). It must read on its own in under a second: the payoff claim or a tension, e.g. "Same gold. 12% pricier." Never a setup line, never "Today we look at...".
 - **Spoken hook = the claim**, said in the first 2 seconds. Rotate hook types day to day: shocking number, "X vs Y", "Why does...?", "Nobody talks about...", "You paid ___ for ___".
+- **Frame 1 text ≠ spoken line.** The on-screen hook and the spoken first line make the same promise in different words, so a muted viewer and a listening viewer each get the full hook (from youtube-agent-skill's Shorts rules).
+- **Hold the answer back.** The hook opens a question the viewer can't close; the payoff comes in the last third. Don't answer your own hook in the same sentence.
 - **Pick topics people forward.** Before choosing, ask: would someone send this to a friend or argue about it? Favour money in the viewer's pocket, price comparisons (India vs abroad, then vs now), famous brands, cricketers and films, and things everyone is talking about this week. Plain "news recap" is the weakest choice.
 - **Be first.** When a topic is tied to a date (festival, match, launch, results), the post must be ready before or on that day, not after. Say "time-sensitive: approve today" in the owner message.
 - **Rotate the ending.** Alternate: "Send this to whoever...", a one-line question that invites a comment, "Follow for a daily breakdown". Don't use the same ending two days running.
+- **Loop the ending when it fits.** Write the last line so it leads back into the first (e.g. it ends on the question frame 1 asks), so a replay feels natural. Replays count as watch time on both platforms.
 - Vary mood and seed every day; never reuse a script.
 
 ### Pipeline
@@ -77,7 +80,7 @@ From time to time, a brief decode of a company's latest quarterly or yearly resu
 Run the publishing scenario 8381063 ONLY with post_type "research" (scenarios_run, responsive true):
 - `media_url`: comma-separated Instagram usernames to study (business/creator accounts only; personal accounts come back empty). Current list: zerodhaonline, labourlawadvisor, marketingmind.in, thebetterindia — add or swap handles that fit the pillars; drop any that return nothing twice.
 - `youtube_tags`: 5–6 comma-separated search phrases (Shorts, India, last 45 days, by views), e.g. "business case study india,indian startup story,how company makes money india,which makes more money india,acquisition explained" plus one timely phrase for the week.
-Results land in data store 248952 under keys `rs_ig_<username>` (posts as `type|views|likes|comments|time|link|caption` joined by ";;") and `rs_yt_<query>` (detail = `videoIds##views##channelIds##titles` with titles split by "~~"; media_id = `channelIds##subs##videoCounts##channelViews`). Compute outlier scores in Python (method in IDEAS.md), update the scan table and add/replace ideas in the matrix. Costs roughly 60–80 Make credits per scan.
+Results land in data store 248952 under keys `rs_ig_<username>` (posts as `type|views|likes|comments|time|link|caption` joined by ";;") and `rs_yt_<query>` (detail = `videoIds##views##channelIds##titles` with titles split by "~~"; media_id = `channelIds##subs##videoCounts##channelViews`). Compute outlier scores in Python (method in IDEAS.md); for YouTube, a channel's median views over its recent Shorts is a better baseline than its lifetime average when that data is available, and skip channels with fewer than 4 data points, update the scan table and add/replace ideas in the matrix. Costs roughly 60–80 Make credits per scan.
 
 ## Format mix
 - Reels about 5 of 7 days. Once a week make the reel a "guess the number" (ask on beat 1, reveal on the last beat) to pull comments.
