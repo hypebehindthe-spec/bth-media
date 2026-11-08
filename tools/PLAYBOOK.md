@@ -4,7 +4,7 @@ Read this before making or reworking any post. The owner's notes on a specific p
 
 ## Brand
 - Instagram @behind.the.hype.in · YouTube Shorts @behindthehype_in_speed
-- Promise: the story behind everything India is hyped about. Pillars: business of sport (IPL, cricket, F1), gadget economics, viral brands & startups, economics in 60 seconds, deals (mergers & acquisitions in India and worldwide).
+- Promise: the story behind everything India is hyped about. Pillars: business of sport (IPL, cricket, F1), gadget economics, viral brands & startups, economics in 60 seconds, deals (mergers & acquisitions in India and worldwide), results decoded (company quarterly and yearly reports in brief).
 - Language: ALL on-screen text, headlines, captions and YouTube titles/descriptions in clear English. Never write the word "Hinglish" anywhere. The voiceover may drop in an occasional Hindi phrase for flavour, but stays mostly English.
 - The owner works at Blinkit. Every topic is allowed, including quick commerce, food delivery and their deals, as long as it uses only publicly available information (filings, official statements, major press). Never insider information or claims, and never anything that hints at what the owner knows from work.
 - Every number must be confirmed in a reputable source (filings, major business press, official bodies); keep URLs in the row's `sources`. Drop anything you can't verify.
@@ -61,6 +61,15 @@ Trending and lesser-known ("hidden") mergers and acquisitions, India and global.
 - Educational only: no buy/sell/hold views, no "this stock will rise", no price targets. If a post discusses a listed company's shares, the caption ends with "Educational, not investment advice."
 - Quick-commerce and food-delivery deals are fine (owner, 8 Nov), using public information only. Don't call any deal a failure unless the companies' own write-downs or results show it.
 - Make the jargon plain on screen: "paid 4x its yearly sales", not "4x EV/Sales".
+
+## Results decoded (owner request, 8 Nov)
+From time to time, a brief decode of a company's latest quarterly or yearly results. Aim for about one every 1–2 weeks, more during results season (mid-Jan to mid-Feb, mid-Apr to mid-May, mid-Jul to mid-Aug, mid-Oct to mid-Nov for Indian companies), and always within 1–3 days of the results coming out.
+- Pick companies viewers know and use (brands, banks, telecom, airlines, IT, carmakers, listed startups, quick commerce included) or a global giant with an India angle. Every Monday, as part of the research scan, check which well-known companies report that week and add 1–2 to the IDEAS.md matrix under "Results decoded".
+- Source: the company's own results filing or investor presentation (BSE/NSE, or SEC for global companies), with major business press as a cross-check. Public information only.
+- Structure (30–40 s): the headline number everyone will quote → the number that tells the real story (margin, a segment, cash flow, a one-off gain, cost per user, debt) → one line on why → what to watch next quarter.
+- Always state the period and the basis exactly: "Q2 FY27 (Jul–Sep 2026), consolidated, vs the same quarter last year". Never mix periods. Compute every growth rate and margin in Python from the filed figures.
+- Educational only: no buy/sell/hold views, no share-price predictions. The caption ends with "Educational, not investment advice." Say plainly what management said versus what the numbers show.
+- On screen, plain words: "kept ₹12 of every ₹100 of sales as profit", not "12% PAT margin".
 
 ## Research scan (weekly, Mondays)
 Run the publishing scenario 8381063 ONLY with post_type "research" (scenarios_run, responsive true):

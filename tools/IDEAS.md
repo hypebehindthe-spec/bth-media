@@ -38,6 +38,7 @@ How the daily run picks topics. Refreshed by the weekly research scan (see PLAYB
 
 ## Idea matrix (6 subtopics × 6 formats)
 Subtopic 6, Deals (M&A), was added by the owner on 8 Nov: trending and lesser-known mergers and acquisitions, in India and globally. Rules are in the PLAYBOOK "Deals (M&A)" section.
+Subtopic 7, Results decoded, was added by the owner on 8 Nov: brief decodes of a famous company's latest quarterly or yearly results, made within 1–3 days of the results. Rules are in the PLAYBOOK "Results decoded" section. These are filled from the weekly results calendar, so they jump the queue when due.
 Formats: **F1** Tiny start → crores · **F2** X vs Y: which makes more? · **F3** Guess the number (comment bait) · **F4** Where your ₹ goes (price breakdown) · **F5** Rise and fall · **F6** "Most people get this wrong"
 
 Every idea still needs its numbers verified before it's made; drop it if they can't be.
@@ -81,6 +82,9 @@ Every idea still needs its numbers verified before it's made; drop it if they ca
 | 35 | Deals (M&A) | F5 | Tata Steel–Corus: India's biggest overseas buy of 2007 and what happened next | idea |
 | 36 | Deals (M&A) | F6 | Why 26% is the magic number in Indian deals (blocking power, open offers) | idea |
 | 37 | Deals (M&A) | F3 | Guess what Uber offered for Delivery Hero (~$14.8B, July 2026): what it gets and which regulators must agree | idea |
+| 38 | Results decoded | F2 | Headline vs real story: a famous company's latest quarter (pick from this week's results calendar) | idea |
+| 39 | Results decoded | F4 | Where every ₹100 of a well-known company's sales goes: costs, tax, profit (from its latest annual report) | idea |
+| 40 | Results decoded | F6 | "Record profit" but… the one-off that made it: a company whose latest headline number had a one-time gain | idea |
 
 Timely posts made outside the matrix (news hook + proven pattern):
 - p005 (8 Nov, Diwali): Guess the number — one town (Sivakasi) makes 85–90% of India's fireworks; prices up 30–50% this Diwali. Pattern: F3 + festival money number.
