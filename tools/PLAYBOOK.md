@@ -88,7 +88,7 @@ Results land in data store 248952 under keys `rs_ig_<username>` (posts as `type|
 - No quote posts and no AI presenter/character: they look mass-produced and blur what the page is for.
 
 ## Carousels / photos
-1080x1350 JPEG (quality 92). Carousel 5–8 slides: hook, one idea per slide, takeaway + "Follow @behind.the.hype.in for a new breakdown every day".
+1080x1350 JPEG (quality 92); build with `python3 tools/bth_carousel.py posts/post_NNN_carousel.json` (see p006 for the spec). Carousel 5–8 slides: hook, one idea per slide, takeaway + "Follow @behind.the.hype.in for a new breakdown every day".
 
 ## Captions
 Instagram search reads captions and on-screen text, so write for search, not hashtags.
