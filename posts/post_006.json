@@ -1,0 +1,27 @@
+{
+ "out": "posts/post_006.mp4",
+ "voice": "audio/post_006_vo_fit.wav",
+ "mood": "drive",
+ "seed": 83,
+ "cuts": [8.11, 15.5, 21.36, 28.3, 33.84],
+ "beats": [
+  {"say": "You won't believe this. Tata Steel's India business made more profit than all of Tata Steel. So what's eating fourteen hundred crore?",
+   "art": ["🏭", "coin:₹"], "bg": "sun",
+   "lines": [["Tata Steel results", "Y"], ["India > the whole company?", "w"], ["₹5,055 cr vs ₹3,666 cr", "s"]]},
+  {"say": "The headline first. July to September, the whole group made three thousand six hundred and sixty-six crore. Up eighteen percent.",
+   "art": ["📰", "📈"], "bg": "sky",
+   "lines": [["The headline", "Y"], ["₹3,666 cr", "y"], ["Group profit, Jul-Sep 2026. Up 18%.", "s"], ["Tata Steel Q2 FY27, consolidated", "g"]]},
+  {"say": "But the India business alone? Five thousand and fifty-five crore. Nearly fourteen hundred crore more.",
+   "art": ["🏭", "🔥"], "bg": "mint",
+   "lines": [["India alone", "Y"], ["₹5,055 cr", "y"], ["₹1,389 cr MORE than the whole group", "s"], ["Business Standard", "g"]]},
+  {"say": "So who's eating it? Mostly Britain. The UK plant lost seven hundred and nineteen crore, before interest and tax.",
+   "art": ["📉", "🏭"], "bg": "coral",
+   "lines": [["The UK unit", "Y"], ["-₹719 cr", "y"], ["Operating loss in one quarter", "s"], ["EBITDA, before interest and tax", "g"]]},
+  {"say": "That's from Corus, the steelmaker Tata bought in two thousand seven for about twelve billion dollars.",
+   "art": ["🤝", "🏗️"], "bg": "lilac",
+   "lines": [["Bought in 2007", "Y"], ["$12 billion", "y"], ["Corus: UK and Dutch steel plants", "s"], ["£6.2 billion, all cash", "g"]]},
+  {"say": "India makes the money. Europe still eats a chunk. Send this to the friend who only reads the headline.",
+   "art": ["coin:₹", "🍽️"], "bg": "sun", "count": false,
+   "lines": [["Profit up 18%?", "W"], ["India carries the group.", "w"], ["Send this to someone who only reads headlines", "s"]]}
+ ]
+}

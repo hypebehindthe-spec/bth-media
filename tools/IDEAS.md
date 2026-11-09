@@ -101,7 +101,7 @@ Pruned 9 Nov (weak in the scans or too abstract): 12 railways, 14 iPhone India v
 | 33 | Deals (M&A) | F3 | Guess what Emirates NBD paid for 60% of RBL Bank (~$3B), and why it gets only 26% of the votes | idea |
 | 35 | Deals (M&A) | F5 | Tata Steel–Corus: India's biggest overseas buy of 2007 and what happened next | idea (p006 touched it; wait 2+ weeks) |
 | 37 | Deals (M&A) | F3 | Guess what Uber offered for Delivery Hero (~$14.8B, July 2026): what it gets and which regulators must agree | idea |
-| 38 | Results decoded | F2 | Headline vs real story: a famous company's latest quarter (pick from this week's results calendar) | made (p006, data carousel: Tata Steel Q2, India profit > group profit) |
+| 38 | Results decoded | F2 | Headline vs real story: a famous company's latest quarter (pick from this week's results calendar) | made (p006, illustrated reel: Tata Steel Q2, India profit > group profit; carousel version kept as post_006_s1-8.jpg, unused) |
 | 40 | Results decoded | F6 | "Record profit" but… the one-off that made it: a company whose latest headline number had a one-time gain | idea |
 | 41 | Deals (M&A) | F2 | Adani Ports pays €2.56B for Evos: 11.7x its yearly operating profit, all borrowed (verify in major press) | idea |
 | 42 | Results decoded | F6 | Domino's India: more stores, less profit? Jubilant FoodWorks Q2 (verify from BSE filing) | idea |

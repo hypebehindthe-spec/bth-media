@@ -8,6 +8,7 @@ Updated by the daily run on Mondays and Thursdays from the Make "insights" pull.
 | 003 | India now moves ₹1 lakh crore a day on UPI | Reel | v1 slideshow | Big number | – | 50.1 | 88 | 84 | 2.5 | 89.2 | 0 | 0 | 11 | 2026-11-09 (Make insights) |
 | 004 | ₹60,000 crore on Dhanteras gold. Same amount of gold. | Reel | v1 slideshow | Big number + catch | – | 48.0 | 118 | 102 | 6.4 | 74.5 | 0 | 0 | 16 | 2026-11-09 (Make insights) |
 | 005 | Guess: one town makes what % of India's Diwali crackers? | Reel | v2 | Guess the number | – | 39.5 | 120 | 108 | 3.8 | 78.4 | 0 | 0 | 111 | 2026-11-09 (Make insights, only ~19 h old) |
+| 006 | Tata Steel Q2: India made more profit than all of Tata Steel | Reel | illustrated (1 of 3) | Shocking number + why | 58 WORKABLE | 39.3 | | | | | | | | pending |
 
 ## What's working / what isn't (9 Nov, 4 reels)
 - Instagram is flat: every reel lands at 88–123 views, all from cold audiences. Median 119 views, average skip rate 79.5%. Nothing has broken out yet, and no reel has a single share or save.
