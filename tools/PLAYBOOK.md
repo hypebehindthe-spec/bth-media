@@ -78,7 +78,7 @@ From time to time, a brief decode of a company's latest quarterly or yearly resu
 
 ## Performance dashboard (owner request, 9 Nov)
 "Behind The Hype performance" (Dashboard artifact https://claude.ai/artifact/JwC3Z7xK7iKJYQj2iAfrX3) is where the owner checks numbers; don't paste stats into chats or notifications beyond one line. Live Instagram/YouTube numbers come straight from Make data store 248952, so every insights pull shows up on its own. Two attached files need the run to keep them current (ArtifactData on that url; upload the new JSON with Artifact publish asset:true, then `update` the dataset's `url`, `name`, `updated` {at, by} and `edit` {via:"claude", at}):
-- `datasets/posts` (bth_posts.json): one row per reel {post, number, title, style, hook_type, hook_score, length_s, published_at, ig_media_id, youtube_id}. Add each new reel when it's made (ids null) and fill the ids once it is published (from the dashboard row's youtubeId and the data store's pNNN_instagram record, or match by publish time).
+- `datasets/posts` (bth_posts.json): one row per reel {post, short (a 1–2 word name the owner will recognise, e.g. "KKR", "UPI", "Dhanteras", "Tata Steel"), number, title, style, hook_type, hook_score, length_s, published_at, ig_media_id, youtube_id}. Add each new reel when it's made (ids null) and fill the ids once it is published (from the dashboard row's youtubeId and the data store's pNNN_instagram record, or match by publish time).
 - `datasets/history` (bth_history.json): on every learn day append one row per published reel {post, checked (YYYY-MM-DD), ig_views, reach, avg_watch_s, skip_rate, shares, saves, yt_views}.
 Never change the page (files/index.html) unless the owner asks for a change to the dashboard.
 
