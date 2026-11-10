@@ -107,6 +107,7 @@ Pruned 9 Nov (weak in the scans or too abstract): 12 railways, 14 iPhone India v
 | 42 | Results decoded | F6 | Domino's India: more stores, less profit? Jubilant FoodWorks Q2 (verify from BSE filing) | idea |
 | 43 | Brand origins | F1 | Pulse candy: a ₹1 sweet that became a ₹ hundreds-of-crores brand (verify DS Group figures) | idea |
 | 44 | Results decoded | F2 | Results-day decode for the next famous name this week (title starts "<Company> Q2 results") | idea |
+| 45 | Results decoded | F2 | Kalyan Jewellers or MRF Q2 FY27 (both report 10 Nov): decode on 11-12 Nov if the filing has a story (gold price vs volumes; rubber costs) | idea |
 
 Timely posts made outside the matrix (news hook + proven pattern):
 - p005 (8 Nov, Diwali): Guess the number — one town (Sivakasi) makes 85–90% of India's fireworks; prices up 30–50% this Diwali. Pattern: F3 + festival money number.
