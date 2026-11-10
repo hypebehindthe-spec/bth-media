@@ -1,0 +1,27 @@
+{
+ "out": "posts/post_007.mp4",
+ "voice": "audio/post_007_vo_fit.wav",
+ "mood": "bright",
+ "seed": 127,
+ "cuts": [7.09, 12.97, 17.04, 22.74, 28.80],
+ "beats": [
+  {"say": "Your PVR ticket versus your popcorn: which one earns the cinema more per hundred rupees? Guess before I tell you.",
+   "art": ["🍿", "🎟️"], "bg": "coral",
+   "lines": [["Guess", "Y"], ["Ticket or popcorn?", "w"], ["Which makes PVR more per ₹100?", "s"]]},
+  {"say": "Start with the ticket. Of every hundred rupees, about forty-three goes to the people who made the film.",
+   "art": ["🎟️", "🎬"], "bg": "sky",
+   "lines": [["The ticket", "Y"], ["₹43 of ₹100", "y"], ["goes to the film's makers", "s"], ["PVR INOX film costs vs ticket sales, Jul-Sep 2026", "g"]]},
+  {"say": "So PVR keeps around fifty-seven. Decent. Now the popcorn.",
+   "art": ["coin:₹", "🎟️"], "bg": "mint",
+   "lines": [["PVR keeps", "Y"], ["₹57", "y"], ["of every ₹100 of tickets", "s"]]},
+  {"say": "In just three months, we spent six hundred and sixty-eight crore on food at PVR INOX. Up eighteen percent.",
+   "art": ["🍿", "🥤", "📈"], "bg": "sun",
+   "lines": [["Food sales", "Y"], ["₹668 cr", "y"], ["in 3 months. Up 18%.", "s"], ["PVR INOX Q2 FY27, consolidated", "g"]]},
+  {"say": "And the corn, the butter, the cups? Only about twenty-one rupees of every hundred.",
+   "art": ["🌽", "🧈", "🥤"], "bg": "lilac",
+   "lines": [["Ingredients", "Y"], ["₹21", "y"], ["of every ₹100 of food", "s"], ["Corn, butter, cups, cola", "g"]]},
+  {"say": "So the popcorn keeps about seventy-eight. Before rent and staff, sure. But the snack beats the ticket. So, what was your guess?",
+   "art": ["🍿", "coin:₹"], "bg": "coral",
+   "lines": [["Popcorn keeps", "Y"], ["₹78", "y"], ["of every ₹100. Ticket: ₹57.", "s"], ["Before rent and staff", "g"]]}
+ ]
+}

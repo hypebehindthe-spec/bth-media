@@ -83,7 +83,7 @@ Pruned 9 Nov (weak in the scans or too abstract): 12 railways, 14 iPhone India v
 | 7 | Who earns more | F1 | Mumbai's dabbawalas: a near-zero-error system with no app | idea |
 | 8 | Who earns more | F2 | Toll plaza vs petrol pump: which makes more money? | idea |
 | 9 | Who earns more | F3 | Guess what India's busiest toll plaza collects in a day | idea |
-| 10 | Who earns more | F4 | A ₹200 movie ticket vs ₹300 popcorn: where the cinema really earns | idea |
+| 10 | Who earns more | F4 | A ₹200 movie ticket vs ₹300 popcorn: where the cinema really earns | made (p007, illustrated guess reel: PVR INOX Q2 FY27, keeps ₹57 per ₹100 of tickets vs ₹78 per ₹100 of food) |
 | 11 | Who earns more | F5 | Kingfisher Airlines: king of good times to grounded | idea |
 | 13 | Prices in India | F1 | ₹10 Campa Cola: how a dead brand came back to start a price war | idea |
 | 15 | Prices in India | F3 | Guess what 10 g of gold cost in 2000 | idea |
