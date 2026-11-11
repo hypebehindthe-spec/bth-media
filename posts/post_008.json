@@ -1,0 +1,27 @@
+{
+ "out": "posts/post_008.mp4",
+ "voice": "audio/post_008_vo.wav",
+ "mood": "chill",
+ "seed": 211,
+ "cuts": [],
+ "beats": [
+  {"say": "Nobody tells you this: seventy-three crore of Kalyan Jewellers' new profit came from something you can never wear.",
+   "art": ["💍", "🏞️"], "bg": "lilac",
+   "lines": [["Kalyan results", "Y"], ["Profit up 64%?", "w"], ["Not all of it is jewellery", "s"]]},
+  {"say": "The headline first. July to September, Kalyan made four hundred and twenty-seven crore in profit. Up sixty-four percent.",
+   "art": ["📰", "📈"], "bg": "sun",
+   "lines": [["The headline", "Y"], ["₹427 cr", "y"], ["Profit, Jul-Sep 2026. Up 64%.", "s"], ["Kalyan Jewellers Q2 FY27, consolidated", "g"]]},
+  {"say": "But sales? Up thirty-one percent. So where did the extra profit come from?",
+   "art": ["💍", "🛍️"], "bg": "sky",
+   "lines": [["Sales", "Y"], ["31%", "y"], ["growth, to ₹10,323 cr", "s"], ["Profit grew twice as fast. Why?", "g"]]},
+  {"say": "Kalyan sold a piece of land in Coimbatore. A one-time gain of seventy-three crore.",
+   "art": ["🏞️", "📜"], "bg": "mint",
+   "lines": [["The one-off", "Y"], ["₹73 cr", "y"], ["from selling land in Coimbatore", "s"], ["Exceptional gain, company's own filing", "g"]]},
+  {"say": "Take that out, and profit before tax grew thirty-nine percent. Not sixty.",
+   "art": ["✂️", "📊"], "bg": "coral",
+   "lines": [["Without the land", "Y"], ["39%", "y"], ["pre-tax profit growth, not 60%", "s"], ["₹487 cr vs ₹350 cr a year ago", "g"]]},
+  {"say": "Still a strong quarter. But of every hundred rupees you spend there, Kalyan keeps about four. Follow for a daily breakdown.",
+   "art": ["coin:₹", "💍"], "bg": "sun",
+   "lines": [["Still strong", "Y"], ["₹4", "y"], ["kept as profit from every ₹100 of sales", "s"], ["Follow for a daily breakdown", "g"]]}
+ ]
+}
