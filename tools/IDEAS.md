@@ -108,6 +108,7 @@ Pruned 9 Nov (weak in the scans or too abstract): 12 railways, 14 iPhone India v
 | 43 | Brand origins | F1 | Pulse candy: a ₹1 sweet that became a ₹ hundreds-of-crores brand (verify DS Group figures) | idea |
 | 44 | Results decoded | F2 | Results-day decode for the next famous name this week (title starts "<Company> Q2 results") | idea |
 | 45 | Results decoded | F2 | Kalyan Jewellers or MRF Q2 FY27 (both report 10 Nov): decode on 11-12 Nov if the filing has a story (gold price vs volumes; rubber costs) | made (p008, illustrated reel 3 of 3: Kalyan profit +64% includes ₹73 cr Coimbatore land gain; pre-tax growth 39% without it) |
+| 46 | Results decoded | F2 | Tata Power Q2 FY27 (11 Nov): profit +49%, but solar & wind unit profit +8% while coal & hydro 2.6x (Mundra back at full power) | made (p009, v2 reel; remake of winner p006's results-decode pattern) |
 
 Timely posts made outside the matrix (news hook + proven pattern):
 - p005 (8 Nov, Diwali): Guess the number — one town (Sivakasi) makes 85–90% of India's fireworks; prices up 30–50% this Diwali. Pattern: F3 + festival money number.
@@ -119,3 +120,6 @@ A post is a **winner** when, after 48 hours, its views are 2x+ the page's median
 
 | Post | Why it won | Remake | Result |
 |---|---|---|---|
+| p006 Tata Steel Q2 (results decode, illustrated) | YouTube 249 views at 61 h, about 4x the page's YouTube median (60); IG skip 71.8% vs page avg 76.3% (12 Nov) | p009 Tata Power Q2 (new company, coal vs green hook, v2) | pending |
+| p005 Sivakasi guess the number (v2) | YouTube 133 views, 2.2x the YouTube median (12 Nov) | due by 22 Nov: a new guess-the-number reel on a different everyday number (idea 3, 9 or 15) | – |
+| p007 PVR guess + X vs Y (illustrated) | Watch: YouTube 325 and IG skip 70.9% at only 37 h; confirm on Monday once 48 h old | – | – |

@@ -1,0 +1,23 @@
+{
+ "out": "posts/post_009.mp4",
+ "voice": "audio/post_009_vo.wav",
+ "mood": "dark",
+ "seed": 347,
+ "cuts": [7.1, 12.27, 15.8, 19.47, 27.13],
+ "beats": [
+  {"say": "Tata Power's profit jumped 49% this quarter, and you'd never guess which plant you have to thank.",
+   "lines": [["Tata Power", "W"], ["Profit +49%", "y"], ["Guess which plant did it", "s"]]},
+  {"say": "July to September, its profit hit thirteen hundred and sixty-six crore rupees.",
+   "lines": [["₹1,366 crore", "y"], ["profit, Jul-Sep 2026", "W"], ["Up from ₹919 crore a year ago", "s"], ["Company filing, consolidated, owners' share", "g"]]},
+  {"say": "Solar and wind? Profit up just eight percent.",
+   "lines": [["+8%", "y"], ["solar & wind profit", "W"], ["₹1,140 cr to ₹1,230 cr", "s"], ["Segment profit before interest and tax", "g"]]},
+  {"say": "Coal and hydro? Up more than two and a half times.",
+   "lines": [["2.6x", "y"], ["coal & hydro profit", "W"], ["₹413 cr to ₹1,067 cr", "s"], ["Segment profit before interest and tax", "g"]]},
+  {"say": "Mundra, its giant coal plant in Gujarat, was shut for an overhaul last July. Now it's back at full power.",
+   "count": false,
+   "lines": [["Mundra", "y"], ["shut in July 2025, now at full power", "W"], ["Fuel bill: ₹1,347 cr to ₹4,633 cr", "s"], ["Company filing, Business Standard", "g"]]},
+  {"say": "But it runs on a government order that ends December thirty-first. So, solar company or coal company? Tell me below.",
+   "count": false,
+   "lines": [["31 Dec", "y"], ["Mundra's government order ends", "W"], ["Solar company or coal company?", "s"], ["Tell me in the comments", "g"]]}
+ ]
+}
