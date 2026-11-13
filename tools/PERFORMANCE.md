@@ -12,6 +12,7 @@ Updated by the daily run on Mondays and Thursdays from the Make "insights" pull.
 | 007 | Guess: PVR ticket or popcorn, which earns more per ₹100? | Reel | illustrated (2 of 3) | Guess + X vs Y | 70 WORKABLE | 35.7 | 121 | 100 | 7.4 | 70.9 | 0 | 0 | 325 | 2026-11-12 (37 h) |
 | 008 | Kalyan Jewellers Q2: profit up 64%, but ₹73 cr came from land | Reel | illustrated (3 of 3) | Shocking number + catch | 60 WORKABLE | 36.4 | 142 | 119 | 4.7 | 73.6 | 1 | 0 | 60 | 2026-11-12 (13 h) |
 | 009 | Tata Power Q2: profit +49%, solar & wind +8%, coal & hydro 2.6x | Reel | illustrated (rebuilt from v2 on owner's note) | X vs Y (solar vs coal) + guess | 56 WORKABLE | 34.9 | | | | | | | | pending |
+| 010 | IRCTC Q2: sales +16%, profit -23%, blame the water | Reel | illustrated | You + shocking number ("Where your ₹ goes" twist) | 60 WORKABLE | 37.3 | | | | | | | | pending |
 
 ## What's working / what isn't (12 Nov, 7 reels)
 - Instagram reach is still flat: 88–142 views per reel (median 120), all cold audiences. p008 got the page's first share and the most views (142) in only 13 h.

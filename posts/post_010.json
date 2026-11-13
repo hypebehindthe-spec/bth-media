@@ -1,0 +1,39 @@
+{
+ "out": "posts/post_010.mp4",
+ "voice": "audio/post_010_vo_c.wav",
+ "mood": "drive",
+ "seed": 517,
+ "cuts": [7.33, 14.88, 23.54, 30.06],
+ "beats": [
+  {
+   "say": "You book your train tickets on IRCTC, but the thing that cost it a hundred and sixteen crore this quarter is a water bottle.",
+   "lines": [["IRCTC Q2", "Y"], ["Sales +16%", "y"], ["Profit -23%", "y"], ["Blame the water", "s"]],
+   "art": ["🚆", "💧"],
+   "bg": "sky"
+  },
+  {
+   "say": "July to September, its sales grew sixteen percent. Profit fell twenty-three percent, to two hundred and sixty-four crore rupees.",
+   "lines": [["₹264 crore", "y"], ["profit, Jul-Sep 2026", "W"], ["Down from ₹342 crore a year ago", "s"], ["Company filing, consolidated", "g"]],
+   "art": ["coin:₹", "📉"],
+   "bg": "coral"
+  },
+  {
+   "say": "Blame Rail Neer, its bottled water. A GST tribunal says IRCTC overcharged, so it set aside a hundred and sixteen crore, with interest.",
+   "lines": [["₹116 crore", "y"], ["set aside for Rail Neer", "W"], ["Without it, pre-tax profit grew", "s"], ["GST tribunal order, IRCTC is appealing", "g"]],
+   "art": ["💧", "⚖️"],
+   "bg": "mint"
+  },
+  {
+   "say": "Now the twist. Train food brought in six hundred and fifty-five crore, but kept just ten rupees of every hundred.",
+   "lines": [["₹10 of every ₹100", "y"], ["kept from train food", "W"], ["₹655 cr sales, ₹65 cr profit", "s"], ["Segment profit, Jul-Sep 2026", "g"]],
+   "art": ["🍛", "coin:₹"],
+   "bg": "lilac"
+  },
+  {
+   "say": "Ticket booking kept eighty-four. The website you curse every Tatkal morning is the real money machine. Send this to whoever books your tickets.",
+   "lines": [["₹84 of every ₹100", "y"], ["kept from online tickets", "W"], ["₹390 cr sales, ₹329 cr profit", "s"], ["Send this to your family's ticket booker", "g"]],
+   "art": ["🎫", "💻"],
+   "bg": "sun"
+  }
+ ]
+}

@@ -109,6 +109,7 @@ Pruned 9 Nov (weak in the scans or too abstract): 12 railways, 14 iPhone India v
 | 44 | Results decoded | F2 | Results-day decode for the next famous name this week (title starts "<Company> Q2 results") | idea |
 | 45 | Results decoded | F2 | Kalyan Jewellers or MRF Q2 FY27 (both report 10 Nov): decode on 11-12 Nov if the filing has a story (gold price vs volumes; rubber costs) | made (p008, illustrated reel 3 of 3: Kalyan profit +64% includes ₹73 cr Coimbatore land gain; pre-tax growth 39% without it) |
 | 46 | Results decoded | F2 | Tata Power Q2 FY27 (11 Nov): profit +49%, but solar & wind unit profit +8% while coal & hydro 2.6x (Mundra back at full power) | made (p009, v2 reel; remake of winner p006's results-decode pattern) |
+| 47 | Results decoded | F4 | IRCTC Q2 FY27 (12 Nov): sales +16%, profit -23% after a ₹116 cr Rail Neer GST provision; ticketing keeps ₹84 of every ₹100 vs food ₹10 | made (p010, illustrated reel) |
 
 Timely posts made outside the matrix (news hook + proven pattern):
 - p005 (8 Nov, Diwali): Guess the number — one town (Sivakasi) makes 85–90% of India's fireworks; prices up 30–50% this Diwali. Pattern: F3 + festival money number.
