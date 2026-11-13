@@ -14,6 +14,11 @@ Updated by the daily run on Mondays and Thursdays from the Make "insights" pull.
 | 009 | Tata Power Q2: profit +49%, solar & wind +8%, coal & hydro 2.6x | Reel | illustrated (rebuilt from v2 on owner's note) | X vs Y (solar vs coal) + guess | 56 WORKABLE | 34.9 | 113 | 104 | 4.7 | 76.7 | 0 | 1 | 185 | 2026-11-14 (34 h) |
 | 010 | IRCTC Q2: sales +16%, profit -23%, blame the water | Reel | illustrated | You + shocking number ("Where your ₹ goes" twist) | 60 WORKABLE | 37.3 | 143 | 107 | 10.7 | 47.7 | 0 | 0 | 74 | 2026-11-14 (8 h) |
 
+## Followers / subscribers (owner-reported)
+| Date | Instagram followers | YouTube subscribers | Note |
+|---|---|---|---|
+| 2026-11-14 | 1 (the owner) | 2 | After 10 posts / 9 Shorts. Views come entirely from non-followers. |
+
 ## What's working / what isn't (14 Nov, 9 reels, owner-requested pull)
 - Totals: Instagram 1,087 views (reach 940), median 120 per reel, every reel 88–143. Instagram shows each reel to a ~100-person cold test batch and stops there: skip rates of 70–89% and almost no shares mean no reel has earned a second push yet. Engagement across all 9: 3 likes, 1 share, 1 save, 0 comments.
 - p010 IRCTC is the first real break: 47.7% skip and 10.7 s average watch after only 8 h (page average otherwise ~76% and ~5 s). Hook: a brand everyone uses + a surprising culprit ("Blame the water"). Watch whether Instagram pushes it past ~140 views.
