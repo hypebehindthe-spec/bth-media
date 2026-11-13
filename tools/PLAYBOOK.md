@@ -82,6 +82,14 @@ From time to time, a brief decode of a company's latest quarterly or yearly resu
 - `datasets/history` (bth_history.json): on every learn day append one row per published reel {post, checked (YYYY-MM-DD), ig_views, reach, avg_watch_s, skip_rate, shares, saves, yt_views}.
 Never change the page (files/index.html) unless the owner asks for a change to the dashboard.
 
+## Story reels (from 14 Nov, learned from ZeroInOn)
+A new Bangalore history page (ZeroInOn) gets ~20x our Instagram views per reel with: one story about a person with a turning point ("He built H.A.L. Then lost it."), a well-known local place in the hook (Bellandur Lake, HAL Bangalore), cinematic scenes instead of text, and a long video with Shorts cut from it.
+- Two of every seven reels are story reels: a real founder, brand or place; who → what they built → the turn → what's left today. Same research and sourcing rules as everything else.
+- Hook = the person and the twist in under 8 words ("He sold detergent on a bicycle. Then beat HUL."). Put the city or landmark in the hook or title when the story has one (people share stories about their own city).
+- Write it as a story, not a list of numbers: one number at most per beat, a short line that pulls to the next beat ("And then the government called."), the twist in the last third.
+- Series: when a story has a natural second half, end Part 1 on the cliffhanger with "Part 2 tomorrow. Follow so you don't miss it." and make Part 2 the next day. Series give people a reason to follow/subscribe, which one-off facts don't.
+- Visuals: illustrated style with art that shows the scene (place, product, era); at most one stat card per story reel.
+
 ## Research scan (weekly, Mondays)
 Run the publishing scenario 8381063 ONLY with post_type "research" (scenarios_run, responsive true):
 - `media_url`: comma-separated Instagram usernames to study (business/creator accounts only; personal accounts come back empty). Current list: zerodhaonline, labourlawadvisor, marketingmind.in, thebetterindia — add or swap handles that fit the pillars; drop any that return nothing twice.

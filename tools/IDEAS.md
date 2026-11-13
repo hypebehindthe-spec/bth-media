@@ -116,6 +116,18 @@ Timely posts made outside the matrix (news hook + proven pattern):
 
 Status values: idea → made (pNNN) → winner / dud (after its 48-hour numbers) → remade (pNNN).
 
+## Story reel queue (from 14 Nov; person + turning point + twist; verify everything)
+| # | Story | Hook draft | Status |
+|---|---|---|---|
+| S1 | Karsanbhai Patel and Nirma | He sold detergent on a bicycle. Then beat HUL. | idea |
+| S2 | Vijay Mallya and Kingfisher Airlines | India's King of Good Times. Grounded in 7 years. | idea |
+| S3 | HMT watches | Every Indian wore one. Then Titan arrived. | idea |
+| S4 | Ambassador car (Hindustan Motors) | India's car for 50 years. Sold for ₹80 crore. | idea |
+| S5 | Lijjat Papad | 7 women, ₹80 loan. Now a ₹1,600 crore brand. | idea |
+| S6 | Rasna | A ₹1 pack that made every Indian summer. Then the founder's... | idea |
+| S7 | Campa Cola | Killed by Coca-Cola. Brought back by Ambani for ₹22 crore. | idea |
+| S8 | Bajaj Chetak | 10-year waiting list. Then Bajaj stopped making it. | idea |
+
 ## Winners log
 A post is a **winner** when, after 48 hours, its views are 2x+ the page's median or its skip rate is clearly below the page's average. Remake each winner within 2 weeks with a NEW hook and a different example (same pattern), and log it here.
 
