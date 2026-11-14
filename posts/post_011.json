@@ -1,0 +1,47 @@
+{
+ "out": "posts/post_011.mp4",
+ "voice": "audio/post_011_vo_c.wav",
+ "mood": "chill",
+ "seed": 611,
+ "cuts": [6.39, 13.88, 20.02, 26.12, 30.85],
+ "beats": [
+  {
+   "say": "You've seen the girl on your Nirma packet a thousand times, but you never asked why she's there. Why?",
+   "lines": [["THE NIRMA GIRL", "Y"], ["She's on every", "w"], ["packet.", "w"], ["Who was she?", "y"]],
+   "art": ["👧", "📦"],
+   "bg": "sky"
+  },
+  {
+   "say": "Nineteen sixty-nine, Gujarat. A chemist, Karsanbhai Patel, mixes washing powder at home after office hours.",
+   "lines": [["1969, Gujarat", "Y"], ["Karsanbhai Patel", "y"], ["a chemist with a government job", "s"], ["makes powder at home after office", "s"]],
+   "art": ["🧪", "🏠"],
+   "bg": "mint",
+   "count": false
+  },
+  {
+   "say": "He sells it door to door, on his bicycle. Three rupees fifty a kilo, when Surf cost thirteen.",
+   "lines": [["Door to door", "W"], ["on a bicycle", "y"], ["₹3.50 a kg. Surf: ₹13.", "s"]],
+   "art": ["🚲", "coin:₹"],
+   "bg": "sun",
+   "count": false
+  },
+  {
+   "say": "Then it needed a name. He chose his daughter's. Nirupama. At home, they called her Nirma.",
+   "lines": [["The name?", "W"], ["Nirupama", "y"], ["his daughter. At home: Nirma.", "s"]],
+   "art": ["👧", "❤️"],
+   "bg": "lilac"
+  },
+  {
+   "say": "Here's the part nobody tells you. Nirupama died young, in an accident.",
+   "lines": [["Nobody tells you this", "W"], ["She died young", "y"], ["in an accident", "s"]],
+   "art": ["🕊️"],
+   "bg": "sky"
+  },
+  {
+   "say": "So he put her on every packet. The girl in the white frock is a father's tribute. Full story on our channel.",
+   "lines": [["On every packet", "W"], ["a father's", "y"], ["tribute", "y"], ["Full story on our channel", "s"]],
+   "art": ["📦", "❤️"],
+   "bg": "coral"
+  }
+ ]
+}

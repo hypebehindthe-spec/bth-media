@@ -13,6 +13,7 @@ Updated by the daily run on Mondays and Thursdays from the Make "insights" pull.
 | 008 | Kalyan Jewellers Q2: profit up 64%, but ₹73 cr came from land | Reel | illustrated (3 of 3) | Shocking number + catch | 60 WORKABLE | 36.4 | 142 | 119 | 4.7 | 73.6 | 1 | 0 | 98 | 2026-11-14 (58 h) |
 | 009 | Tata Power Q2: profit +49%, solar & wind +8%, coal & hydro 2.6x | Reel | illustrated (rebuilt from v2 on owner's note) | X vs Y (solar vs coal) + guess | 56 WORKABLE | 34.9 | 113 | 104 | 4.7 | 76.7 | 0 | 1 | 185 | 2026-11-14 (34 h) |
 | 010 | IRCTC Q2: sales +16%, profit -23%, blame the water | Reel | illustrated | You + shocking number ("Where your ₹ goes" twist) | 60 WORKABLE | 37.3 | 143 | 107 | 10.7 | 47.7 | 0 | 0 | 74 | 2026-11-14 (8 h) |
+| 011 | Nirma girl: the 1969 story behind the packet | Reel (story Short from long_001) | illustrated | "You never asked" question | 65 WORKABLE | 37.4 | – | – | – | – | – | – | – | not yet published |
 
 ## Followers / subscribers (owner-reported)
 | Date | Instagram followers | YouTube subscribers | Note |
