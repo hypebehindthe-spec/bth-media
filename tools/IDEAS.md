@@ -119,7 +119,7 @@ Status values: idea → made (pNNN) → winner / dud (after its 48-hour numbers)
 ## Story reel queue (from 14 Nov; person + turning point + twist; verify everything)
 | # | Story | Hook draft | Status |
 |---|---|---|---|
-| S1 | Karsanbhai Patel and Nirma | He sold detergent on a bicycle. Then beat HUL. | idea |
+| S1 | Karsanbhai Patel and Nirma | He sold detergent on a bicycle. Then beat HUL. | made: long_001 (14 Nov). Shorts DUE: Sat 15 Nov "The girl on the Nirma packet was real" (name + tribute twist); Sun 16 Nov "HUL's secret plan to stop Nirma: STING" (₹3.50 vs ₹13, Wheel 1988). Reuse long/long_001.json facts and sources; end each with "Full story on our channel." |
 | S2 | Vijay Mallya and Kingfisher Airlines | India's King of Good Times. Grounded in 7 years. | idea |
 | S3 | HMT watches | Every Indian wore one. Then Titan arrived. | idea |
 | S4 | Ambassador car (Hindustan Motors) | India's car for 50 years. Sold for ₹80 crore. | idea |
