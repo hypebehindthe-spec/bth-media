@@ -71,8 +71,19 @@ def art_image(item, size):
             raise SystemExit(f"Emoji not available in Noto Color Emoji: {item!r}")
         im = im.crop(bb)
     im = im.resize((size, max(1, int(size * im.height / im.width))), Image.LANCZOS)
+    im.putalpha(im.getchannel("A").point(lambda v: 0 if v < 40 else v))  # drop the faint box some glyphs carry
     _cache[key] = im
     return im
+
+
+def soft_shadow(im, blur, opacity):
+    """Blurred drop shadow with room to fade out (an unpadded blur gets cut off at the image edge)."""
+    pad = blur * 3
+    sh = Image.new("RGBA", (im.width + 2 * pad, im.height + 2 * pad), (0, 0, 0, 0))
+    a = Image.new("L", sh.size, 0)
+    a.paste(im.getchannel("A").point(lambda v: int(v * opacity)), (pad, pad))
+    sh.putalpha(a)
+    return sh.filter(ImageFilter.GaussianBlur(blur)), pad
 
 
 def art_slots(n):
@@ -155,11 +166,9 @@ def render(img, beat, kicker, rows, t_in, idx, accent):
         s = max(8, int(size * max(0.05, p)))
         im = art_image(item, s)
         bob = int(10 * math.sin(t_in * 2.2 + k * 1.7))
-        sh = Image.new("RGBA", im.size, (0, 0, 0, 0))
-        sh.putalpha(im.getchannel("A").point(lambda v: int(v * 0.22)))
-        sh = sh.filter(ImageFilter.GaussianBlur(10))
+        sh, pad = soft_shadow(im, 10, 0.22)
         x, y = cx - im.width // 2, cy - im.height // 2 + bob
-        img.paste(sh, (x + 10, y + 18), sh)
+        img.paste(sh, (x + 10 - pad, y + 18 - pad), sh)
         img.paste(im, (x, y), im)
     # kicker pill
     if kicker:

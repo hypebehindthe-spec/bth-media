@@ -1,0 +1,77 @@
+{
+ "out": "long/long_001.mp4",
+ "title_bar": {"brand": "BEHIND THE HYPE", "line1": "HE TOOK ON HUL", "line2": "WITH A BICYCLE", "sub": "Nirma · Gujarat · 1969"},
+ "mood": "chill", "seed": 101,
+ "sections": [
+  {"chapter": "The secret plan", "bg": "sky", "voice": "audio/long_001_s1.wav", "beats": [
+   {"say": "In nineteen sixty-nine, a government lab assistant in Gujarat started making washing powder in a small room at home.",
+    "lines": [["1969, Gujarat", "Y"], ["A lab assistant", "w"], ["makes washing powder", "y"], ["in a small room at home", "s"]], "art": ["🧪", "🏠"]},
+   {"say": "Twenty years later, India's biggest soap company had a strategy with one goal. Stop him.",
+    "lines": [["Their plan:", "W"], ["S.T.I.N.G.", "y"], ["Strategy To Inhibit Nirma's Growth", "s"]], "art": ["🐝", "🏢"], "circle": 0},
+   {"say": "This is the story of Nirma. The man who took on a giant with a bicycle, and the real girl behind the girl on the packet.",
+    "lines": [["The story of", "W"], ["NIRMA", "y"], ["and the real girl on the packet", "s"]], "art": ["🚲", "👧"]}
+  ]},
+  {"chapter": "The chemist", "bg": "mint", "voice": "audio/long_001_s2.wav", "beats": [
+   {"say": "Karsanbhai Patel was born in nineteen forty-five, into a farming family in Patan, Gujarat. He studied chemistry, and took a job in the state government's mining and geology department.",
+    "lines": [["Karsanbhai Patel", "y"], ["Born 1945, Patan", "W"], ["Chemistry graduate. Government job.", "s"]], "art": ["📜", "⛏️"]},
+   {"say": "After office hours, he mixed detergent in a ten by ten foot room at his house.",
+    "lines": [["After office hours", "W"], ["10 x 10 ft", "y"], ["a room at home", "s"]], "art": ["🏠", "🧪"]},
+   {"say": "Then he did something no big company would do. He sold it door to door, on a bicycle, covering about fifteen kilometres a day.",
+    "lines": [["Door to door", "w"], ["on a bicycle", "y"], ["about 15 km a day", "s"]], "art": ["🚲", "🏘️"], "circle": 0},
+   {"say": "The price? Three rupees fifty a kilo. The market leader, Surf, cost thirteen rupees.",
+    "lines": [["Nirma", "W"], ["₹3.50 a kg", "y"], ["Surf: ₹13 a kg", "w"]], "art": ["coin:₹"], "count": false},
+   {"say": "About a quarter of the price. For families watching every rupee, that changed everything.",
+    "lines": [["About 1/4", "y"], ["the price of the leader", "w"]], "art": ["🛒", "🧺"], "count": false}
+  ]},
+  {"chapter": "The girl on the packet", "bg": "lilac", "voice": "audio/long_001_s3.wav", "beats": [
+   {"say": "He needed a name. He chose his daughter's. Nirupama. At home, they called her Nirma.",
+    "lines": [["The name?", "W"], ["Nirupama", "y"], ["his daughter. At home: Nirma.", "s"]], "art": ["👧", "❤️"]},
+   {"say": "Nirupama died young, in a car accident. Her father put her on every packet. The little girl in the white frock is her memory.",
+    "lines": [["She died young", "w"], ["The girl in white", "y"], ["on every packet is her memory", "s"]], "art": ["🕊️", "📦"]},
+   {"say": "So every time India hummed that Nirma jingle, it was hearing a father's tribute to his daughter.",
+    "lines": [["Every jingle", "w"], ["a father's tribute", "y"]], "art": ["📺", "🎵"]}
+  ]},
+  {"chapter": "How he won", "bg": "sun", "voice": "audio/long_001_s4.wav", "beats": [
+   {"say": "So how did a one-man brand beat a multinational? By cutting every cost the customer didn't need.",
+    "lines": [["How did he win?", "w"], ["Cut every cost", "y"], ["the customer didn't need", "s"]], "art": ["✂️", "📦"]},
+   {"say": "No fancy box. No frills. Just a plain packet, and the lowest price in the shop.",
+    "lines": [["No fancy box", "w"], ["No frills", "W"], ["Lowest price in the shop", "y"]], "art": ["📦", "🫧"]},
+   {"say": "And he went where the big brands didn't bother to go. Small towns, and villages.",
+    "lines": [["Where giants didn't go:", "W"], ["small towns", "y"], ["and villages", "y"]], "art": ["🛺", "🏡"]},
+   {"say": "Then came television. The twirling girl and the jingle made Nirma a household name. By the mid nineteen eighties, Nirma had overtaken Surf as India's best-selling detergent.",
+    "lines": [["Mid-1980s", "Y"], ["Nirma overtakes", "w"], ["SURF", "y"]], "art": ["📺", "🏆"], "circle": 1, "count": false}
+  ]},
+  {"chapter": "The giant strikes back", "bg": "coral", "voice": "audio/long_001_s5c.wav", "beats": [
+   {"say": "Hindustan Lever was not used to losing. Its answer had a name. STING. Strategy To Inhibit Nirma's Growth.",
+    "lines": [["Hindustan Lever's answer", "W"], ["S.T.I.N.G.", "y"], ["Strategy To Inhibit Nirma's Growth", "s"]], "art": ["🐝", "🏢"], "circle": 0},
+   {"say": "In nineteen eighty-eight, it launched Wheel. A low-priced detergent, aimed straight at Nirma's buyers.",
+    "lines": [["1988", "Y"], ["Wheel launches", "y"], ["low price, aimed at Nirma's buyers", "s"]], "art": ["🛞", "🏭"], "count": false},
+   {"say": "Soon after, Procter and Gamble arrived with Ariel and Tide.",
+    "lines": [["Then P&G arrives", "W"], ["Ariel & Tide", "y"]], "art": ["🌊", "🏢"]},
+   {"say": "The man with the bicycle now had the world's biggest soap companies chasing him.",
+    "lines": [["The bicycle man", "w"], ["vs the world's", "W"], ["biggest soap giants", "y"]], "art": ["🚲", "🏢", "🏢"]}
+  ]},
+  {"chapter": "The real move", "bg": "mint", "voice": "audio/long_001_s6.wav", "beats": [
+   {"say": "Nirma fought back on their turf. In nineteen ninety-two, it launched bath soaps. In about six years, it had sixteen percent of the soap market.",
+    "lines": [["1992", "Y"], ["Nirma soaps", "w"], ["16% share in ~6 years", "y"]], "art": ["🧼"], "count": false},
+   {"say": "But the real move was quieter. Nirma started making the raw materials that go into detergent.",
+    "lines": [["The real move:", "W"], ["make the raw materials", "y"]], "art": ["⚗️", "🏭"]},
+   {"say": "In two thousand seven, it bought Searles Valley Minerals in the United States, and became one of the world's seven biggest soda ash makers.",
+    "lines": [["2007", "Y"], ["Buys a US soda ash maker", "w"], ["Top 7 in the world", "y"]], "art": ["🏜️", "⚗️"], "count": false},
+   {"say": "In twenty sixteen, it bought Lafarge's cement business in India for one point four billion dollars. In twenty twenty, Emami Cement, for five thousand five hundred crore rupees.",
+    "lines": [["Cement", "Y"], ["Lafarge India: $1.4 bn (2016)", "w"], ["Emami Cement: ₹5,500 cr (2020)", "y"]], "art": ["🏗️", "🧱"], "count": false},
+   {"say": "And in twenty twenty-three, seventy-five percent of Glenmark Life Sciences, a medicine ingredients maker, for five thousand six hundred and fifty-two crore rupees.",
+    "lines": [["2023", "Y"], ["75% of Glenmark Life Sciences", "w"], ["₹5,652 cr", "y"]], "art": ["💊", "🧪"], "count": false},
+   {"say": "He even started a university. Nirma University, in Ahmedabad, in nineteen ninety-five.",
+    "lines": [["1995", "Y"], ["Nirma University", "y"], ["Ahmedabad", "s"]], "art": ["🎓", "🏫"], "count": false}
+  ]},
+  {"chapter": "From a bicycle", "bg": "sky", "voice": "audio/long_001_s7c.wav", "beats": [
+   {"say": "In twenty ten, Karsanbhai Patel received the Padma Shri. In twenty twenty-four, Forbes put his fortune at about six billion dollars.",
+    "lines": [["2010: Padma Shri", "W"], ["about $6 billion", "y"], ["Forbes, 2024", "g"]], "art": ["🏅", "📈"], "count": false},
+   {"say": "All of it started with a ten by ten room, a bicycle, and a little girl's name.",
+    "lines": [["A 10 x 10 room.", "w"], ["A bicycle.", "w"], ["A little girl's name.", "y"]], "art": ["🏠", "🚲", "👧"]},
+   {"say": "Next week, another Indian brand that a giant tried to crush. Subscribe so you don't miss it. And tell me in the comments, which old Indian brand should we cover next?",
+    "lines": [["Next week:", "W"], ["another giant-slayer", "y"], ["Subscribe so you don't miss it", "s"]], "art": ["🔔"]}
+  ]}
+ ]
+}
