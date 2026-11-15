@@ -16,6 +16,11 @@ Updated by the daily run on Mondays and Thursdays from the Make "insights" pull.
 | 011 | Nirma girl: the 1969 story behind the packet | Reel (story Short from long_001) | illustrated | "You never asked" question | 65 WORKABLE | 37.4 | – | – | – | – | – | – | – | not yet published |
 | 012 | Nirma vs HUL: why Wheel was launched in 1988 | Reel (story Short 2 from long_001) | illustrated | "You don't know" + named rivals | 61 WORKABLE | 35.8 | – | – | – | – | – | – | – | not yet published |
 
+## Long videos (owner uploads by hand; include these ids in every insights pull)
+| # | Title | YouTube id | Link | Uploaded | Shorts pointing to it |
+|---|---|---|---|---|---|
+| long_001 | The Nirma Story: How a Bicycle Salesman Beat HUL | YLu389so9LY | https://youtu.be/YLu389so9LY | 2026-11-15 | p011, p012 (Related video to be set once the owner's YouTube verification clears) |
+
 ## Followers / subscribers (owner-reported)
 | Date | Instagram followers | YouTube subscribers | Note |
 |---|---|---|---|
