@@ -1,0 +1,48 @@
+{
+ "out": "posts/post_012.mp4",
+ "voice": "audio/post_012_vo_fit.wav",
+ "mood": "dark",
+ "seed": 712,
+ "cuts": [6.21, 12.44, 18.19, 23.36, 27.68],
+ "beats": [
+  {
+   "say": "You buy Wheel, but you don't know Hindustan Lever made it in 1988 to stop Nirma stealing its customers.",
+   "lines": [["HUL'S SECRET PLAN", "Y"], ["Built to stop", "w"], ["one brand.", "w"], ["Did it work?", "y"]],
+   "art": ["🕵️", "📦"],
+   "bg": "coral"
+  },
+  {
+   "say": "It began with a chemist in Gujarat, selling home-made powder on a bicycle, at about a quarter of Surf's price.",
+   "lines": [["Nirma", "Y"], ["a bicycle brand", "y"], ["about a quarter of Surf's price", "s"]],
+   "art": ["🚲", "🧪"],
+   "bg": "sun",
+   "count": false
+  },
+  {
+   "say": "By the mid-eighties, reports say, Nirma had pushed Surf off the top. Lever wasn't used to losing.",
+   "lines": [["By 1985", "Y"], ["Nirma beat Surf", "y"], ["India's No. 1 detergent, reports say", "s"]],
+   "art": ["🏆", "📈"],
+   "bg": "mint",
+   "count": false
+  },
+  {
+   "say": "So it made a plan, and gave it a name. STING. Strategy To Inhibit Nirma's Growth.",
+   "lines": [["The plan's name?", "W"], ["STING", "y"], ["Strategy To Inhibit", "s"], ["Nirma's Growth", "s"]],
+   "art": ["🐝", "📋"],
+   "bg": "lilac"
+  },
+  {
+   "say": "The weapon was Wheel. A cheap powder, aimed right at Nirma's buyers.",
+   "lines": [["1988", "Y"], ["Wheel", "y"], ["cheap, aimed at Nirma's buyers", "s"]],
+   "art": ["🎯", "📦"],
+   "bg": "sky",
+   "count": false
+  },
+  {
+   "say": "Nirma's answer was smarter. It started making detergent's raw materials itself, and became one of the world's biggest soda ash makers. Full story on our channel.",
+   "lines": [["Nirma's answer", "W"], ["Own the raw", "y"], ["materials", "y"], ["Full story on our channel", "s"]],
+   "art": ["🏭", "⛏️"],
+   "bg": "sun"
+  }
+ ]
+}
