@@ -64,6 +64,32 @@ Dropped from the handle list: finshots (returned nothing). Empty twice now and d
 - Deals: Adani Ports agreed to buy Evos (Netherlands liquid-storage terminals) for €2.56B enterprise value, all cash, debt-funded (announced 5 Nov; approvals pending). Source so far is a minor outlet: confirm in major press before making (idea 41).
 - Results: Tata Steel (7 Nov) made into p006. Jubilant FoodWorks (Domino's India) reported 6 Nov; profit reportedly fell ~42% but press figures conflict, so verify from the BSE filing before using (idea 42). Rest of this week: tail end of Q2 season; dates not confirmed in a reliable calendar, check the news each day for a famous name.
 
+## Scan 3 — 16 Nov 2026 (Instagram last ~25 posts; Shorts from India, last 45 days, by views)
+
+| Outlier | Views | Score | Pattern |
+|---|---|---|---|
+| How much profit does a petrol pump make per litre? (1.4K-sub channel) | 1.44M | 21x | Everyday thing → who earns what (made as p013) |
+| Instagram (labourlawadvisor): "Don't miss these IRCTC hacks" | 127K likes | 56x | Everyday system everyone uses (IRCTC again: our p010 is our best-held reel) |
+| Royal Enfield: from a small British factory to India | 657K | 36x | Brand origin story with a twist (story reel S9) |
+| How Pulse Candy became a ₹750 crore brand | 571K | 27x | Tiny thing → ₹ crores (3rd scan in a row) |
+| Waste paper → bottles (woman founder) | 605K | 31x | Waste → money |
+| The ₹600 crore gamble that changed Mahindra | 2.44M | 12x | One bet that saved a brand (story reel S10) |
+| Adani's ₹27,000 crore Evos deal explained | 2.9K | 7.6x | Deal explained with a ₹ figure in the title (idea 41) |
+| Tata's ₹42,000 crore Iveco deal explained | 493 | 5.9x (tiny channel) | Deal explained with ₹ figure |
+| Instagram (marketingmind.in): Asia's stars who built brands | 18.6K likes | 16.7x | Celebrity → business empire |
+| Instagram (marketingmind.in): Raj Shamani's podcast becomes world's most-subscribed | 12.9K likes | 11.6x | Indian creator beats the world (fresh news) |
+
+Results-day searches ("<company> Q2 results") still pull 45–80K views on the big names, but Q2 season is over for famous companies; next window is mid-Jan.
+
+**Takeaways (scan 3)**
+1. "Who earns what from a thing you buy every day" (petrol pump, IRCTC) is the strongest repeatable pattern for us: it matches both our best-held reel (p010) and this week's top outlier.
+2. Brand origin stories with one big bet (Royal Enfield, Mahindra) suit the story-reel slot and the weekly long video.
+3. Deals with a ₹ figure in the title (Evos, Iveco) get searched; the Adani–Evos idea 41 can go once confirmed in major press.
+
+**Weekly checks (16 Nov)**
+- Deals: no big new Indian deal found this week in reliable press; ITC Infotech–Happiest Minds (announced 1 Sep: 22.1% from the promoter at ₹390–400 a share, then a merger with 25 ITC Infotech shares for every 81 Happiest Minds shares) is a candidate if approvals news comes (idea 48).
+- Results: well-known Q2 FY27 results are done; no famous name confirmed for 16–20 Nov. Check daily news for a late reporter.
+
 ## Idea matrix (6 subtopics × 6 formats)
 Subtopic 6, Deals (M&A), was added by the owner on 8 Nov: trending and lesser-known mergers and acquisitions, in India and globally. Rules are in the PLAYBOOK "Deals (M&A)" section.
 Subtopic 7, Results decoded, was added by the owner on 8 Nov: brief decodes of a famous company's latest quarterly or yearly results, made within 1–3 days of the results. Rules are in the PLAYBOOK "Results decoded" section. These are filled from the weekly results calendar, so they jump the queue when due.
@@ -81,13 +107,13 @@ Pruned 9 Nov (weak in the scans or too abstract): 12 railways, 14 iPhone India v
 | 5 | Brand origins | F5 | Ambassador: from India's car to zero | idea |
 | 6 | Brand origins | F6 | Bisleri started as an Italian medicine company's brand | idea |
 | 7 | Who earns more | F1 | Mumbai's dabbawalas: a near-zero-error system with no app | idea |
-| 8 | Who earns more | F2 | Toll plaza vs petrol pump: which makes more money? | idea |
+| 8 | Who earns more | F2 | Toll plaza vs petrol pump: which makes more money? | idea (petrol side used in p013) |
 | 9 | Who earns more | F3 | Guess what India's busiest toll plaza collects in a day | idea |
 | 10 | Who earns more | F4 | A ₹200 movie ticket vs ₹300 popcorn: where the cinema really earns | made (p007, illustrated guess reel: PVR INOX Q2 FY27, keeps ₹57 per ₹100 of tickets vs ₹78 per ₹100 of food) |
 | 11 | Who earns more | F5 | Kingfisher Airlines: king of good times to grounded | idea |
 | 13 | Prices in India | F1 | ₹10 Campa Cola: how a dead brand came back to start a price war | idea |
 | 15 | Prices in India | F3 | Guess what 10 g of gold cost in 2000 | idea |
-| 16 | Prices in India | F4 | Where your ₹100 of petrol goes (tax vs fuel) | idea |
+| 16 | Prices in India | F4 | Where your ₹100 of petrol goes (tax vs fuel) | made (p013, guess reel: Delhi ₹102.12/L, pump keeps ₹4.47, VAT ₹16.59, oil company ₹81.06; IOC price build-up 1 Nov 2026; excise left out because 2026's many excise notifications couldn't be pinned to petrol) |
 | 18 | Prices in India | F6 | Can a restaurant charge more than MRP for water? The Supreme Court answered | idea |
 | 19 | Cricket, F1 & stars | F1 | An IPL team bought for $67M in 2008: what it's worth now | idea |
 | 20 | Cricket, F1 & stars | F2 | One Kohli Instagram post vs a full IPL season salary | idea |
@@ -109,6 +135,8 @@ Pruned 9 Nov (weak in the scans or too abstract): 12 railways, 14 iPhone India v
 | 44 | Results decoded | F2 | Results-day decode for the next famous name this week (title starts "<Company> Q2 results") | idea |
 | 45 | Results decoded | F2 | Kalyan Jewellers or MRF Q2 FY27 (both report 10 Nov): decode on 11-12 Nov if the filing has a story (gold price vs volumes; rubber costs) | made (p008, illustrated reel 3 of 3: Kalyan profit +64% includes ₹73 cr Coimbatore land gain; pre-tax growth 39% without it) |
 | 46 | Results decoded | F2 | Tata Power Q2 FY27 (11 Nov): profit +49%, but solar & wind unit profit +8% while coal & hydro 2.6x (Mundra back at full power) | made (p009, v2 reel; remake of winner p006's results-decode pattern) |
+| 48 | Deals (M&A) | F2 | ITC Infotech buys Happiest Minds: 25 shares for every 81, ITC ends with 73.4% (verify approvals) | idea |
+| 49 | Who earns more | F4 | IRCTC again: where your ₹ goes on a train ticket (only with public fare breakdown data) | idea |
 | 47 | Results decoded | F4 | IRCTC Q2 FY27 (12 Nov): sales +16%, profit -23% after a ₹116 cr Rail Neer GST provision; ticketing keeps ₹84 of every ₹100 vs food ₹10 | made (p010, illustrated reel) |
 
 Timely posts made outside the matrix (news hook + proven pattern):
@@ -127,6 +155,8 @@ Status values: idea → made (pNNN) → winner / dud (after its 48-hour numbers)
 | S6 | Rasna | A ₹1 pack that made every Indian summer. Then the founder's... | idea |
 | S7 | Campa Cola | Killed by Coca-Cola. Brought back by Ambani for ₹22 crore. | idea |
 | S8 | Bajaj Chetak | 10-year waiting list. Then Bajaj stopped making it. | idea |
+| S9 | Royal Enfield | A British bike company died. Its Indian factory now rules. | idea (scan 3 outlier 36x) |
+| S10 | Mahindra Scorpio | One ₹600 crore gamble saved Mahindra. | idea (verify the figure; scan 3 outlier 12x) |
 
 ## Winners log
 A post is a **winner** when, after 48 hours, its views are 2x+ the page's median or its skip rate is clearly below the page's average. Remake each winner within 2 weeks with a NEW hook and a different example (same pattern), and log it here.
@@ -134,5 +164,7 @@ A post is a **winner** when, after 48 hours, its views are 2x+ the page's median
 | Post | Why it won | Remake | Result |
 |---|---|---|---|
 | p006 Tata Steel Q2 (results decode, illustrated) | YouTube 249 views at 61 h, about 4x the page's YouTube median (60); IG skip 71.8% vs page avg 76.3% (12 Nov) | p009 Tata Power Q2 (new company, coal vs green hook, v2) | pending |
-| p005 Sivakasi guess the number (v2) | YouTube 133 views, 2.2x the YouTube median (12 Nov) | due by 22 Nov: a new guess-the-number reel on a different everyday number (idea 3, 9 or 15) | – |
-| p007 PVR guess + X vs Y (illustrated) | Watch: YouTube 325 and IG skip 70.9% at only 37 h; confirm on Monday once 48 h old | – | – |
+| p005 Sivakasi guess the number (v2) | YouTube 133 views, 2.2x the YouTube median (12 Nov) | p013 petrol pump guess (16 Nov) | pending |
+| p007 PVR guess + X vs Y (illustrated) | YouTube 336 (2.7x the YouTube median) at 133 h; IG skip 70.2%, average | p013 is a guess reel on a new everyday number | pending |
+| p010 IRCTC Q2 (where your ₹ goes + culprit, illustrated) | IG skip 47.7% vs page avg 70.1%, avg watch 10.9 s vs 5.9 s, at 59 h (16 Nov) | p013 petrol pump: where your ₹102 goes (16 Nov) | pending |
+| p011 Nirma girl (story Short) | Watch: IG skip 44.6%, best on the page, at 37 h; confirm Thursday | – | – |

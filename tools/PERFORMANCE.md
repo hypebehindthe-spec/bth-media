@@ -4,17 +4,18 @@ Updated by the daily run on Mondays and Thursdays from the Make "insights" pull.
 
 | # | Title | Format | Style | Hook type | Hook score | Length s | IG views | Reach | Avg watch s | Skip rate % | Shares | Saves | YT views | Checked |
 |---|-------|--------|-------|-----------|------------|----------|----------|-------|-------------|-------------|--------|-------|----------|---------|
-| 002 | KKR bid ₹25.20 crore. Green gets ₹18 crore. Why? | Reel | v1 slideshow | Shocking number + why | – | 48.8 | 123 | 109 | 5.1 | 75.9 | 0 | 0 | 29 | 2026-11-14 (171 h) |
-| 003 | India now moves ₹1 lakh crore a day on UPI | Reel | v1 slideshow | Big number | – | 50.1 | 88 | 84 | 2.5 | 89.2 | 0 | 0 | 12 | 2026-11-14 (172 h) |
-| 004 | ₹60,000 crore on Dhanteras gold. Same amount of gold. | Reel | v1 slideshow | Big number + catch | – | 48.0 | 118 | 102 | 6.3 | 74.5 | 0 | 0 | 16 | 2026-11-14 (158 h) |
-| 005 | Guess: one town makes what % of India's Diwali crackers? | Reel | v2 | Guess the number | – | 39.5 | 120 | 108 | 3.9 | 78.4 | 0 | 0 | 137 | 2026-11-14 (136 h) |
-| 006 | Tata Steel Q2: India made more profit than all of Tata Steel | Reel | illustrated (1 of 3) | Shocking number + why | 58 WORKABLE | 39.3 | 119 | 107 | 5.0 | 71.8 | 0 | 0 | 254 | 2026-11-14 (106 h) |
-| 007 | Guess: PVR ticket or popcorn, which earns more per ₹100? | Reel | illustrated (2 of 3) | Guess + X vs Y | 70 WORKABLE | 35.7 | 121 | 100 | 7.4 | 70.9 | 0 | 0 | 336 | 2026-11-14 (82 h) |
-| 008 | Kalyan Jewellers Q2: profit up 64%, but ₹73 cr came from land | Reel | illustrated (3 of 3) | Shocking number + catch | 60 WORKABLE | 36.4 | 142 | 119 | 4.7 | 73.6 | 1 | 0 | 98 | 2026-11-14 (58 h) |
-| 009 | Tata Power Q2: profit +49%, solar & wind +8%, coal & hydro 2.6x | Reel | illustrated (rebuilt from v2 on owner's note) | X vs Y (solar vs coal) + guess | 56 WORKABLE | 34.9 | 113 | 104 | 4.7 | 76.7 | 0 | 1 | 185 | 2026-11-14 (34 h) |
-| 010 | IRCTC Q2: sales +16%, profit -23%, blame the water | Reel | illustrated | You + shocking number ("Where your ₹ goes" twist) | 60 WORKABLE | 37.3 | 143 | 107 | 10.7 | 47.7 | 0 | 0 | 74 | 2026-11-14 (8 h) |
-| 011 | Nirma girl: the 1969 story behind the packet | Reel (story Short from long_001) | illustrated | "You never asked" question | 65 WORKABLE | 37.4 | – | – | – | – | – | – | – | not yet published |
-| 012 | Nirma vs HUL: why Wheel was launched in 1988 | Reel (story Short 2 from long_001) | illustrated | "You don't know" + named rivals | 61 WORKABLE | 35.8 | – | – | – | – | – | – | – | not yet published |
+| 002 | KKR bid ₹25.20 crore. Green gets ₹18 crore. Why? | Reel | v1 slideshow | Shocking number + why | – | 48.8 | 123 | 109 | 5.1 | 75.9 | 0 | 0 | 29 | 2026-11-16 (222 h) |
+| 003 | India now moves ₹1 lakh crore a day on UPI | Reel | v1 slideshow | Big number | – | 50.1 | 88 | 84 | 2.5 | 89.2 | 0 | 0 | 12 | 2026-11-16 (223 h) · dud |
+| 004 | ₹60,000 crore on Dhanteras gold. Same amount of gold. | Reel | v1 slideshow | Big number + catch | – | 48.0 | 119 | 103 | 6.4 | 73.8 | 0 | 0 | 16 | 2026-11-16 (209 h) |
+| 005 | Guess: one town makes what % of India's Diwali crackers? | Reel | v2 | Guess the number | – | 39.5 | 120 | 108 | 3.9 | 78.4 | 0 | 0 | 139 | 2026-11-16 (187 h) |
+| 006 | Tata Steel Q2: India made more profit than all of Tata Steel | Reel | illustrated (1 of 3) | Shocking number + why | 58 WORKABLE | 39.3 | 120 | 108 | 5.3 | 71.2 | 0 | 0 | 254 | 2026-11-16 (157 h) |
+| 007 | Guess: PVR ticket or popcorn, which earns more per ₹100? | Reel | illustrated (2 of 3) | Guess + X vs Y | 70 WORKABLE | 35.7 | 123 | 101 | 7.7 | 70.2 | 0 | 0 | 336 | 2026-11-16 (133 h) |
+| 008 | Kalyan Jewellers Q2: profit up 64%, but ₹73 cr came from land | Reel | illustrated (3 of 3) | Shocking number + catch | 60 WORKABLE | 36.4 | 142 | 119 | 4.6 | 73.6 | 1 | 0 | 98 | 2026-11-16 (109 h) |
+| 009 | Tata Power Q2: profit +49%, solar & wind +8%, coal & hydro 2.6x | Reel | illustrated (rebuilt from v2 on owner's note) | X vs Y (solar vs coal) + guess | 56 WORKABLE | 34.9 | 113 | 104 | 4.9 | 76.7 | 0 | 1 | 192 | 2026-11-16 (85 h) |
+| 010 | IRCTC Q2: sales +16%, profit -23%, blame the water | Reel | illustrated | You + shocking number ("Where your ₹ goes" twist) | 60 WORKABLE | 37.3 | 143 | 107 | 10.9 | 47.7 | 0 | 0 | 114 | 2026-11-16 (59 h) · winner |
+| 011 | Nirma girl: the 1969 story behind the packet | Reel (story Short from long_001) | illustrated | "You never asked" question | 65 WORKABLE | 37.4 | 128 | 109 | 7.4 | 44.6 | 0 | 0 | 139 | 2026-11-16 (37 h) |
+| 012 | Nirma vs HUL: why Wheel was launched in 1988 | Reel (story Short 2 from long_001) | illustrated | "You don't know" + named rivals | 61 WORKABLE | 35.8 | – | – | – | – | – | – | – | approved 15 Nov but NOT published as of 16 Nov 08:10 IST |
+| 013 | Guess: of ₹102 petrol, how much does the pump keep? | Reel (guess the number; remake of p010's "where your ₹ goes" + p005's guess) | illustrated | Guess + you + rupee number | 75 STRONG | 36.3 | – | – | – | – | – | – | – | made 16 Nov |
 
 ## Long videos (owner uploads by hand; include these ids in every insights pull)
 | # | Title | YouTube id | Link | Uploaded | Shorts pointing to it |
@@ -25,6 +26,13 @@ Updated by the daily run on Mondays and Thursdays from the Make "insights" pull.
 | Date | Instagram followers | YouTube subscribers | Note |
 |---|---|---|---|
 | 2026-11-14 | 1 (the owner) | 2 | After 10 posts / 9 Shorts. Views come entirely from non-followers. |
+
+## What's working / what isn't (16 Nov, 10 reels with numbers)
+- Instagram is still stuck in the cold test batch: 88–143 views per reel (median 122), 1,219 views in total, 1 share, 1 save, 0 comments. No reel has had a second push yet.
+- Skip rate is finally moving: p011 Nirma girl story 44.6% and p010 IRCTC 47.7% vs a page average of 70%; they also hold longest (7.4 s and 10.9 s vs 5.9 s average). Both open on a brand everyone knows plus a question or culprit the viewer can't answer yet.
+- Story reels work on the hook: the first story Short (p011) has the lowest skip rate on the page. Keep two in every seven.
+- YouTube: 1,329 Short views (median 127). Results decodes with a company name in the title lead (p007 336, p006 254, p009 192). The long video has 3 views and 1 comment after a day; Shorts aren't pointing to it yet (p012 unpublished, Related video not set).
+- Weakest: abstract economy numbers (p003 UPI, 89% skip). Hook score vs skip rate: the 3 lowest-skip reels scored 60–65 and the highest scorer (p007, 70) is only average, so the score isn't predicting skip rate yet; keep logging.
 
 ## What's working / what isn't (14 Nov, 9 reels, owner-requested pull)
 - Totals: Instagram 1,087 views (reach 940), median 120 per reel, every reel 88–143. Instagram shows each reel to a ~100-person cold test batch and stops there: skip rates of 70–89% and almost no shares mean no reel has earned a second push yet. Engagement across all 9: 3 likes, 1 share, 1 save, 0 comments.
