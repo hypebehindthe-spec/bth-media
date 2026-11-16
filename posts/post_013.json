@@ -1,0 +1,46 @@
+{
+ "out": "posts/post_013.mp4",
+ "voice": "audio/post_013_vo_fit.wav",
+ "mood": "bright",
+ "seed": 829,
+ "cuts": [7.55, 11.74, 19.58, 24.28, 30.05],
+ "beats": [
+  {
+   "say": "Every litre of petrol costs you a hundred and two rupees. But how much does the pump owner actually keep? Guess before I tell you.",
+   "lines": [["Petrol, Delhi", "Y"], ["You pay ₹102", "y"], ["The pump keeps ₹?", "y"], ["Guess in the comments", "s"]],
+   "art": ["⛽", "coin:₹"],
+   "bg": "sun"
+  },
+  {
+   "say": "Ten rupees? Twenty? Comment your guess. Now, follow the money.",
+   "lines": [["₹10? ₹20?", "y"], ["Comment your guess", "W"], ["Delhi price from 1 Nov 2026", "g"]],
+   "art": ["🤔", "💬"],
+   "count": false,
+   "bg": "sky"
+  },
+  {
+   "say": "The oil company charges the pump eighty-one rupees a litre. That's the fuel, refining, transport and the Centre's tax.",
+   "lines": [["₹81.06", "y"], ["to the oil company", "W"], ["Fuel, refining, transport, central tax", "s"], ["Indian Oil price build-up, Delhi, 1 Nov 2026", "g"]],
+   "art": ["🛢️", "🚚", "🏭"],
+   "bg": "mint"
+  },
+  {
+   "say": "Then Delhi adds VAT. Sixteen rupees fifty-nine paise, on every litre.",
+   "lines": [["₹16.59", "y"], ["Delhi VAT", "W"], ["on every single litre", "s"], ["Indian Oil price build-up", "g"]],
+   "art": ["🏛️", "coin:₹"],
+   "bg": "coral"
+  },
+  {
+   "say": "And the pump keeps? Four rupees forty-seven paise. The state's tax is almost four times bigger.",
+   "lines": [["₹4.47", "y"], ["the pump's cut", "W"], ["About ₹4 of every ₹100 you pay", "s"], ["Average dealer commission, Indian Oil", "g"]],
+   "art": ["⛽", "coin:₹"],
+   "bg": "lilac"
+  },
+  {
+   "say": "From that, the owner has to run the whole pump. Send this to the friend who thinks pump owners are rolling in money.",
+   "lines": [["VAT 3.7x", "y"], ["the pump's cut", "W"], ["₹16.59 VAT vs ₹4.47 commission", "s"], ["Send this to that friend", "g"]],
+   "art": ["👷", "💡"],
+   "bg": "sun"
+  }
+ ]
+}
