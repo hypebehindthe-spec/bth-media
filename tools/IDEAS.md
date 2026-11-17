@@ -114,7 +114,7 @@ Pruned 9 Nov (weak in the scans or too abstract): 12 railways, 14 iPhone India v
 | 13 | Prices in India | F1 | ₹10 Campa Cola: how a dead brand came back to start a price war | idea |
 | 15 | Prices in India | F3 | Guess what 10 g of gold cost in 2000 | idea |
 | 16 | Prices in India | F4 | Where your ₹100 of petrol goes (tax vs fuel) | made (p013, guess reel: Delhi ₹102.12/L, pump keeps ₹4.47, VAT ₹16.59, oil company ₹81.06; IOC price build-up 1 Nov 2026; excise left out because 2026's many excise notifications couldn't be pinned to petrol) |
-| 18 | Prices in India | F6 | Can a restaurant charge more than MRP for water? The Supreme Court answered | idea |
+| 18 | Prices in India | F6 | Can a restaurant charge more than MRP for water? The Supreme Court answered | made (p014, illustrated reel: SC 12 Dec 2017 allows above-MRP water in restaurants; twist: Delhi HC 28 Mar 2025 says service charge can't be added by default; Aug 2025 bench asked why charge both) |
 | 19 | Cricket, F1 & stars | F1 | An IPL team bought for $67M in 2008: what it's worth now | idea |
 | 20 | Cricket, F1 & stars | F2 | One Kohli Instagram post vs a full IPL season salary | idea |
 | 23 | Cricket, F1 & stars | F5 | Kochi Tuskers: the IPL team that lasted one season | idea |

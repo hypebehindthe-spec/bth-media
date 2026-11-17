@@ -1,0 +1,50 @@
+{
+ "out": "posts/post_014.mp4",
+ "voice": "audio/post_014_vo_fit.wav",
+ "mood": "chill",
+ "seed": 1417,
+ "cuts": [5.6, 11.39, 15.6, 22.31, 29.77],
+ "beats": [
+  {
+   "say": "You paid a hundred rupees for a twenty-rupee water bottle. Was that even legal?",
+   "lines": [["Restaurant water", "Y"], ["₹20 bottle", "y"], ["₹100 on your bill", "y"], ["Is that legal?", "W"]],
+   "art": ["💧", "🍽️"],
+   "bg": "sky"
+  },
+  {
+   "say": "MRP is the maximum retail price. The government said selling above it is an offence.",
+   "lines": [["MRP", "y"], ["Maximum Retail Price", "W"], ["Govt: selling above it is an offence", "s"], ["Legal Metrology Act, 2009", "g"]],
+   "art": ["🏷️", "⚖️"],
+   "count": false,
+   "bg": "coral"
+  },
+  {
+   "say": "In 2017, the Supreme Court sided with the restaurants.",
+   "lines": [["2017", "y"], ["Supreme Court: restaurants win", "W"], ["Water can be sold above MRP", "s"], ["FHRAI vs Union of India, 12 Dec 2017", "g"]],
+   "art": ["🏛️", "⚖️"],
+   "count": false,
+   "bg": "lilac"
+  },
+  {
+   "say": "Nobody goes to a restaurant just to buy water, it said. You pay for the table, the AC, the service.",
+   "lines": [["Not just a sale", "y"], ["You pay for table, AC, service", "W"], ["\"Nobody goes to a restaurant to simply buy a bottle of water\"", "s"], ["Supreme Court, Dec 2017", "g"]],
+   "art": ["🪑", "❄️", "🧑‍🍳"],
+   "count": false,
+   "bg": "mint"
+  },
+  {
+   "say": "Here's the twist. In 2025, the Delhi High Court ruled that service charge can't be added to your bill by default.",
+   "lines": [["The twist", "Y"], ["Service charge", "y"], ["can't be added by default", "W"], ["Delhi High Court, 28 Mar 2025 (CCPA rules, 2022)", "g"]],
+   "art": ["🧾", "✋"],
+   "count": false,
+   "bg": "sun"
+  },
+  {
+   "say": "So if the water already pays for service, why pay twice? Do you pay service charge? Comment yes or no.",
+   "lines": [["Pay twice?", "y"], ["₹100 water + service charge", "W"], ["Do you pay it? Yes or no", "s"], ["Delhi HC bench asked this, Aug 2025", "g"]],
+   "art": ["🤔", "🧾", "💧"],
+   "count": false,
+   "bg": "sky"
+  }
+ ]
+}
