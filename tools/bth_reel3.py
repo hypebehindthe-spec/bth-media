@@ -4,6 +4,13 @@ Same spec as v2 (out, voice, mood, seed, cuts, beats[{say, lines}]) plus, per be
   "art": list of up to 3 illustrations, biggest first. Each item is an emoji ("🏭") or "coin:₹" / "coin:%"
          (a drawn coin with that symbol; use it instead of money emoji, which show dollar signs).
   "bg":  optional background colour name: sun, sky, mint, coral, lilac (otherwise rotates by beat).
+  "photo": optional path (repo-relative) of a real, free-licensed picture fetched with tools/fetch_image.py
+         (places, buildings, machines, space; never a real person). It is shown as a tilted print in the
+         art area with a slow zoom; "art" then shrinks to one small sticker on its corner.
+  "cap": optional caption text when "say" is not English (e.g. a Hindi line): the on-screen captions show
+         this English rendering instead, timed across the same beat, so all on-screen text stays English.
+  "credit": the credit line for the photo (from <photo>.credit.txt), printed small under it. Required
+         for Wikimedia pictures (CC BY / BY-SA) and repeated in the caption/description.
 What v3 changes vs v2:
   - bright colour backgrounds with a soft spotlight instead of a dark card
   - big colour illustrations (Google Noto Color Emoji, open licence) in the top half, popping in with a bounce
@@ -86,6 +93,44 @@ def soft_shadow(im, blur, opacity):
     return sh.filter(ImageFilter.GaussianBlur(blur)), pad
 
 
+_photo = {}
+
+
+def photo_card(path, bw, bh, t_in, still, tilt=-1.6):
+    """A real picture as a white-bordered print (bw x bh) with a slow zoom (Ken Burns). Returns RGBA."""
+    if path not in _photo:
+        full = path if os.path.isabs(path) else os.path.join(os.path.dirname(HERE), path)
+        _photo[path] = Image.open(full).convert("RGB")
+    src = _photo[path]
+    zoom = 1.0 if still else 1.0 + 0.08 * min(1.0, max(0.0, t_in) / 6)
+    sw, sh = src.size
+    ratio = bw / bh
+    cw, ch = (sh * ratio, sh) if sw / sh > ratio else (sw, sw / ratio)
+    cw, ch = cw / zoom, ch / zoom
+    x0, y0 = (sw - cw) / 2, (sh - ch) / 2
+    pic = src.resize((bw, bh), Image.LANCZOS, box=(x0, y0, x0 + cw, y0 + ch))
+    b = 16
+    card = Image.new("RGBA", (bw + 2 * b, bh + 2 * b), (255, 255, 255, 255))
+    card.paste(pic, (b, b))
+    m = Image.new("L", card.size, 0)
+    ImageDraw.Draw(m).rounded_rectangle((0, 0, card.width - 1, card.height - 1), radius=22, fill=255)
+    card.putalpha(m)
+    return card.rotate(tilt, resample=Image.BICUBIC, expand=True)
+
+
+def paste_photo(img, beat, cx, cy, bw, bh, t_in, hook, p):
+    """Draw the beat's photo centred at (cx, cy), sliding up as it appears (p 0..1), plus its credit."""
+    card = photo_card(beat["photo"], bw, bh, t_in, hook)
+    sh, pad = soft_shadow(card, 14, 0.30)
+    x, y = cx - card.width // 2, cy - card.height // 2 + int(80 * (1 - p))
+    img.paste(sh, (x + 12 - pad, y + 22 - pad), sh)
+    img.paste(card, (x, y), card)
+    if beat.get("pc") and (hook or t_in > 0.9):   # "pc": [fx, fy, frw, frh] circles a spot on the photo
+        fx, fy, frw, frh = beat["pc"]
+        return (x + 16 + fx * bw, y + 16 + fy * bh, frw * bw, frh * bh), y + card.height
+    return None, y + card.height
+
+
 def art_slots(n):
     """(centre x, centre y, width) for 1-3 illustrations: main one centred, others smaller at the sides."""
     cx, cy = ART_C
@@ -159,7 +204,18 @@ def render(img, beat, kicker, rows, t_in, idx, accent):
     hook = idx == 1
     # illustrations
     arts = beat.get("art", [])[:3]
-    for k, (item, (cx, cy, size)) in enumerate(zip(arts, art_slots(len(arts)))):
+    slots = art_slots(len(arts))
+    if beat.get("photo"):
+        pp = 1.0 if hook else ease((t_in - 0.02) / 0.4)
+        ring, bottom = paste_photo(img, beat, ART_C[0], ART_C[1] - 50, 840, 520, t_in, hook, pp)
+        if ring:
+            draw_ring(img, *ring, 1.0 if hook else ease((t_in - 0.9) / 0.6))
+        if beat.get("credit"):
+            cf = ImageFont.truetype(FD + "Poppins-Medium.ttf", 24)
+            ct = beat["credit"][:90]
+            d.text(((W - d.textlength(ct, font=cf)) / 2, bottom + 6), ct, font=cf, fill=(40, 44, 52))
+        arts, slots = arts[:1], [(ART_C[0] + 360, ART_C[1] + 190, 180)]
+    for k, (item, (cx, cy, size)) in enumerate(zip(arts, slots)):
         p = 1.0 if hook else ease_back((t_in - 0.08 - 0.12 * k) / 0.45)
         if p <= 0.01:
             continue
@@ -199,6 +255,20 @@ def render(img, beat, kicker, rows, t_in, idx, accent):
     if not hook:
         h = "@behind.the.hype.in"
         d.text(((W - d.textlength(h, font=HANDLE_F)) / 2, 190), h, font=HANDLE_F, fill=(40, 44, 52))
+
+
+def draw_ring(img, cx, cy, rw, rh, p):
+    """Hand-drawn red ellipse that draws itself (p 0..1)."""
+    if p <= 0:
+        return
+    n, pts = 90, []
+    for i in range(int(n * min(1, p) * 1.08) + 1):
+        a = -math.pi * 0.6 + 2 * math.pi * 1.08 * i / n
+        wob = 1 + 0.035 * math.sin(3 * a)
+        pts.append((cx + rw * wob * math.cos(a) * math.cos(-0.12) - rh * wob * math.sin(a) * math.sin(-0.12),
+                    cy + rw * wob * math.cos(a) * math.sin(-0.12) + rh * wob * math.sin(a) * math.cos(-0.12)))
+    if len(pts) > 1:
+        ImageDraw.Draw(img).line(pts, fill=RED, width=12, joint="curve")
 
 
 # ---------- sound effects (synthesised) ----------
@@ -274,7 +344,7 @@ def build(spec_path):
         lays.append(layout(b, accents[-1]))
     caps, sil = [], pauses(voice)
     for b, s0, s in zip(beats, starts, segs):
-        caps += chunks(word_times(b["say"], s0, s0 + s, sil))
+        caps += chunks(word_times(b.get("cap") or b["say"], s0, s0 + s, sil))
     tmp = tempfile.mkdtemp()
     video = f"{tmp}/video.mp4"
     enc = subprocess.Popen(["ffmpeg", "-v", "error", "-y", "-f", "rawvideo", "-pix_fmt", "rgb24", "-s", f"{W}x{H}",

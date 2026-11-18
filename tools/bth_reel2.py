@@ -231,7 +231,7 @@ def build(spec_path):
     layouts = [layout(b) for b in beats]
     caps, sil = [], pauses(voice)
     for b, s0, s in zip(beats, starts, segs):
-        caps += chunks(word_times(b["say"], s0, s0 + s, sil))
+        caps += chunks(word_times(b.get("cap") or b["say"], s0, s0 + s, sil))
     tmp = tempfile.mkdtemp()
     video = f"{tmp}/video.mp4"
     enc = subprocess.Popen(["ffmpeg", "-v", "error", "-y", "-f", "rawvideo", "-pix_fmt", "rgb24", "-s", f"{W}x{H}",

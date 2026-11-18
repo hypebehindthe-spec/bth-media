@@ -5,7 +5,12 @@ Read this before making or reworking any post. The owner's notes on a specific p
 ## Brand
 - Instagram @behind.the.hype.in · YouTube Shorts @behindthehype_in_speed
 - Promise: the story behind everything India is hyped about. Pillars (from 19 Nov): **sport in depth** (Formula 1: business, engineering, history, present season, technical rules, teams/competitors, drivers; cricket: money, records, history, players, rivalries; other sports: football, Olympics, tennis, chess, kabaddi), **who keeps what** (everyday money: who earns what from things people buy), brands & startups, deals (M&A, India and global), results decoded, and two test pillars, **history** (India's engineering marvels and business history) and **space** (astronomy and the space economy, India angle first). The weekly calendar is in "Growth reset" below.
-- Language: ALL on-screen text, headlines, captions and YouTube titles/descriptions in clear English. Never write the word "Hinglish" anywhere. The voiceover may drop in an occasional Hindi phrase for flavour, but stays mostly English.
+- Language: ALL on-screen text, headlines, captions and YouTube titles/descriptions in clear English. Never write the word "Hinglish" anywhere.
+- Voice (owner, 19 Nov: "include Hindi in between to improve engagement, check the accent"): the voiceover mixes English with Hindi lines, about one line in three in Hindi. Use Hindi for the human moments: the reaction, the twist and the "socho..." line. Keep numbers, names and technical terms in English.
+  - Write the Hindi lines in Devanagari in the voice script. This was tested on 19 Nov: Devanagari gives the most natural Hindi pronunciation; romanised Hindi also passed.
+  - Style line: "Read aloud as a warm Indian male storyteller who switches naturally between English and Hindi, with a natural Indian accent in both. Relaxed pace."
+  - On screen, each Hindi beat gets `"cap"`: the English rendering shown as its captions, so all on-screen text stays English.
+  - **Accent check, every take.** Transcribe the take twice with the reel-transcriber script, once with `--lang hi` and once with `--lang en`. Every Hindi line must come back as the right Hindi words in the hi pass, and every English line as the right English words in the en pass. If a line comes back garbled or anglicised, simplify that line's Hindi and redo the take with a new file_name.
 - The owner works at Blinkit. Every topic is allowed, including quick commerce, food delivery and their deals, as long as it uses only publicly available information (filings, official statements, major press). Never insider information or claims, and never anything that hints at what the owner knows from work.
 - Every number must be confirmed in a reputable source (filings, major business press, official bodies); keep URLs in the row's `sources`. Drop anything you can't verify.
 
@@ -61,6 +66,21 @@ Read this before making or reworking any post. The owner's notes on a specific p
 - **Agent Reach** (113K stars). A CLI for reading X, Reddit and YouTube. Its hosts are blocked from this shell; WebSearch/WebFetch cover the same ground.
 - **Gemini.** Already used free via Make for the voice. A Gemini fact-check route would cost Make credits; only add it if a factual error ever ships.
 - **ChatGPT.** Has no free API, so it's not used.
+
+## Real pictures (from 19 Nov; owner allowed NASA, Wikimedia Commons and the F1 data API)
+- **Get them** with `python3 -I tools/fetch_image.py search commons|nasa "<query>"`, then `get` the chosen one into `img/<name>.jpg`.
+  - The tool refuses non-free Commons licences and writes `<file>.credit.txt`.
+  - The Commons API often rate-limits this workspace, so search once and then get. Downloads go through curl (Python's client gets 429). Prefer NASA for space.
+- **Allowed subjects:** places, buildings, monuments, machines, maps, space.
+  - **NEVER** a photo of a real person: drivers, players, founders and leaders are all out.
+  - No logos as the subject. Modern F1 team cars carry sponsor logos, so for F1 use circuits, historic cars, engines and parts, or keep the drawn style.
+  - Look at every picture with the Read tool before using it.
+- **Use:** on a beat, add `"photo": "img/<name>.jpg"` and `"credit": "<credit line>"`. This works in both bth_reel3.py and bth_long.py.
+  - The picture shows as a tilted print with a slow zoom; any art shrinks to one sticker on its corner.
+  - Optional `"pc": [fx, fy, w, h]` rings a spot on the picture in red (fractions of the picture), drawn as the narrator says it.
+  - Use 1–3 photo beats per reel: the reveal and the "look at this" moment. Illustrations carry the rest.
+- **Credit:** CC BY / BY-SA pictures need their credit line in the Instagram caption and the YouTube description too ("Photo: <author>, <licence>, Wikimedia Commons"). NASA pictures are public domain: write "Image: NASA", and never use NASA logos or imply endorsement.
+- **F1 facts and stats:** `https://api.jolpi.ca/ergast/f1/<year>/...json` (standings, results, circuits; the free successor to Ergast). Cross-check headline facts with formula1.com or the FIA.
 
 ## Visual identity
 Python Pillow, fonts in /usr/share/fonts/truetype/google-fonts/ (Poppins-Bold/Medium/Regular). Background #0E1116, accent #FFC72C, text #F5F5F0, secondary #969BA5. Small "BEHIND THE HYPE" label top-left in yellow with a short yellow underline, big bold headline, 90px margins, @behind.the.hype.in at the bottom. Avoid glyphs Poppins lacks (arrows, special symbols); check a render with the Read tool before using it.

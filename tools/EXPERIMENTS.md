@@ -26,7 +26,8 @@ YouTube: subscribers gained (from the channel total) and views at 48 h.
 | E3 | 25 Nov | A 60–90 s deep walk-through (Who Keeps What) beats a 30 s reel on sends and saves despite lower completion | One deep reel a week (Wed) | 3 reels | running |
 | E4 | 19 Nov | India's engineering marvels (history) can reach past the test pool, like the 500–900x outliers in scan 4 | Thu India Built This | 4 reels | running |
 | E5 | 22 Nov | Space with an India money angle works for this page | Sun Space Money, alternating weeks | 4 reels | running |
-| E6 | — | A Hindi voiceover (on-screen text stays English) reaches far more Indian viewers; scan 4's 10M-view twin of p013 was in Hindi | 3 reels with a Hindi voice, same topics as the English ones | 3 reels | **needs owner OK** (brand rule says English) |
+| E6 | 19 Nov | Mixing Hindi lines into the English voiceover (on-screen text stays English) lifts watch time and sends; scan 4's 10M-view twin of p013 was in Hindi | Owner approved 19 Nov: every new reel mixes in about 1 Hindi line in 3, accent-checked by transcription | 6 reels vs the last 6 English-only | running |
+| E9 | 19 Nov | Real pictures (Commons/NASA) at the reveal moment lift watch time for history and space | 1–3 photo beats in India Built This / Space Money reels | 4 reels | running |
 | E7 | 6 Dec | A carousel cheat sheet gets saves | Sunday carousel every second week | 2 posts | planned |
 | E8 | — | Profile fixes (name field, bio, pinned three) raise profile-visit → follow conversion | Owner edits the profile once | before/after 7 days | waiting for owner |
 
@@ -34,5 +35,4 @@ YouTube: subscribers gained (from the channel total) and views at 48 h.
 - **Collab posts with a small sports/business page.** Instagram shows a collab to both audiences. This needs the owner to accept invites, so it's paused while the owner has no time.
 - **Trial reels.** They unlock at 1,000 followers.
 - **Gemini second-opinion fact check through Make.** It costs credits, so only add it if an error ships.
-- **Real archive imagery for history and space** (NASA images are public domain; Wikimedia Commons is free-licensed). This needs the owner to allow images-api.nasa.gov, images-assets.nasa.gov, commons.wikimedia.org and upload.wikimedia.org in claude.ai Settings → Capabilities. No photos of real people either way.
-- **F1 statistics API** (api.jolpi.ca, the free Ergast successor). Same allow-list step.
+- **Long video → Instagram.** A vertical 90–120 s "Part 1" cut of each long video, built from the same section voice files with bth_reel3.py at 720x1280 to stay under 4.6 MB. Try it once the history and F1 long videos start.

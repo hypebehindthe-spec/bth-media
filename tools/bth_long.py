@@ -8,6 +8,8 @@ Spec:
  "mood": "chill", "seed": 101,
  "sections": [ {"chapter": "The chemist", "bg": "mint", "voice": "audio/x_s2.wav",
                 "beats": [{"say": "...", "lines": [[text, style], ...], "art": ["🚲", "coin:₹"], "circle": 0, "count": false}]} ]
+  Optional per beat: "photo" (repo-relative path from tools/fetch_image.py; places/objects/space, never people),
+  "credit" (its credit line, shown small under it), "pc": [fx, fy, frw, frh] to ring a spot on the photo.
 }
 Each section is voiced separately (Gemini takes over ~90 s fail) and joined with a short gap.
 Look (from what works for ZeroInOn and our illustrated test):
@@ -27,7 +29,7 @@ sys.path.insert(0, HERE)
 import bth_music  # noqa: E402
 from bth_reel import FD, INK, YEL, WHITE, wrap, segments  # noqa: E402
 from bth_reel2 import NUM, ease, fmt_like, pauses, word_times, chunks  # noqa: E402
-from bth_reel3 import art_image, soft_shadow, ease_back, PALETTE, ORDER, RED, whoosh, pop, tick, SR  # noqa: E402
+from bth_reel3 import art_image, soft_shadow, ease_back, paste_photo, PALETTE, ORDER, RED, whoosh, pop, tick, SR  # noqa: E402
 from scipy.io import wavfile  # noqa: E402
 
 W, H, FPS = 1920, 1080, 25
@@ -152,6 +154,17 @@ def render(img, beat, rows, t_in, first, accent, chapter, hook):
     slots = art_slots(len(arts))
     if hook:
         slots = [(x, y + 90, int(s * 0.85)) for x, y, s in slots]
+    if beat.get("photo"):   # real picture (tools/fetch_image.py) as a tilted print; "pc" rings a spot on it
+        pp = 1.0 if first else ease((t_in - 0.02) / 0.4)
+        cy0 = ART_C[1] + (110 if hook else 20)
+        ring, bottom = paste_photo(img, beat, ART_C[0] - 20, cy0, 820, 540, t_in, first, pp)
+        if ring:
+            draw_circle(img, *ring, 1.0 if first else ease((t_in - 0.9) / 0.6))
+        if beat.get("credit"):
+            cf = F(MED, 22)
+            ct = beat["credit"][:110]
+            d.text((ART_C[0] - 20 - d.textlength(ct, font=cf) / 2, bottom + 6), ct, font=cf, fill=(40, 44, 52))
+        arts, slots = arts[:1], [(ART_C[0] + 380, ART_C[1] + 270, 190)]
     for k, (item, (cx, cy, size)) in enumerate(zip(arts, slots)):
         p = 1.0 if first else ease_back((t_in - 0.1 - 0.15 * k) / 0.5)
         if p <= 0.01:
@@ -219,7 +232,7 @@ def build(spec_path):
         for bi, (b, s) in enumerate(zip(sec["beats"], segs)):
             end = s0 + s + (GAP if bi == len(segs) - 1 and si < len(spec["sections"]) - 1 else 0)
             timeline.append(dict(sec=si, beat=b, start=s0, end=end, first=(si == 0 and bi == 0),
-                                 words=word_times(b["say"], s0, s0 + s, sil)))
+                                 words=word_times(b.get("cap") or b["say"], s0, s0 + s, sil)))
             s0 += s
         n = f"{tmp}/v{si}.wav"
         subprocess.run(["ffmpeg", "-v", "error", "-y", "-i", v, "-af", "loudnorm=I=-16:TP=-1.5:LRA=11,aresample=48000",
