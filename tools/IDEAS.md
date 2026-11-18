@@ -137,6 +137,7 @@ Pruned 9 Nov (weak in the scans or too abstract): 12 railways, 14 iPhone India v
 | 46 | Results decoded | F2 | Tata Power Q2 FY27 (11 Nov): profit +49%, but solar & wind unit profit +8% while coal & hydro 2.6x (Mundra back at full power) | made (p009, v2 reel; remake of winner p006's results-decode pattern) |
 | 48 | Deals (M&A) | F2 | ITC Infotech buys Happiest Minds: 25 shares for every 81, ITC ends with 73.4% (verify approvals) | idea |
 | 49 | Who earns more | F4 | IRCTC again: where your ₹ goes on a train ticket (only with public fare breakdown data) | idea |
+| 50 | Prices in India | F4 | Milk price hike (12 Nov 2026): who gets your extra ₹4? Amul ~80% / Mother Dairy 75-80% of sales to farmers | made (p015, illustrated reel: Mother Dairy full cream ₹70 early May, ₹72 on 14 May, ₹76 on 12 Nov; ~₹3 of ₹4 to farmers; petrol pump ₹4.47 callback to p013) |
 | 47 | Results decoded | F4 | IRCTC Q2 FY27 (12 Nov): sales +16%, profit -23% after a ₹116 cr Rail Neer GST provision; ticketing keeps ₹84 of every ₹100 vs food ₹10 | made (p010, illustrated reel) |
 
 Timely posts made outside the matrix (news hook + proven pattern):

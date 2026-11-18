@@ -1,0 +1,55 @@
+{
+ "out": "posts/post_015.mp4",
+ "voice": "audio/post_015_vo_fit.wav",
+ "mood": "bright",
+ "seed": 1518,
+ "cuts": [6.88, 12.32, 16.35, 19.38, 25.25, 30.3],
+ "beats": [
+  {
+   "say": "Milk cost you seventy rupees in early May. Now it's seventy-six. But why, and who gets the extra?",
+   "lines": [["Your milk", "Y"], ["₹6 dearer", "y"], ["in 6 months", "W"], ["So who gets the extra?", "s"]],
+   "art": ["🥛", "coin:₹"],
+   "bg": "sky"
+  },
+  {
+   "say": "Last Thursday, Mother Dairy and Amul both added up to four rupees a litre.",
+   "lines": [["₹4 more", "y"], ["per litre, from 12 Nov", "W"], ["Mother Dairy full cream: ₹72 to ₹76", "s"], ["Amul Gold: +₹4 a litre too", "g"]],
+   "art": ["🥛", "🏷️"],
+   "bg": "sun"
+  },
+  {
+   "say": "Second hike since May. Six rupees more, in six months.",
+   "lines": [["2nd hike", "y"], ["since May", "W"], ["+₹2 on 14 May, +₹4 on 12 Nov", "s"], ["Mother Dairy full cream, Delhi-NCR", "g"]],
+   "art": ["📈", "🥛"],
+   "count": false,
+   "bg": "coral"
+  },
+  {
+   "say": "So who's pocketing it? The dairy? The shop?",
+   "lines": [["Who keeps it?", "y"], ["The dairy? The shop?", "W"]],
+   "art": ["🏭", "🏪"],
+   "count": false,
+   "bg": "lilac"
+  },
+  {
+   "say": "Neither, mostly. Amul says about eighty percent of what you pay goes back to its farmers.",
+   "lines": [["₹80 of every ₹100", "y"], ["goes to the farmers", "W"], ["Amul: about 80% · Mother Dairy: 75-80%", "s"], ["Company statements, Nov 2026", "g"]],
+   "art": ["🐄", "🧑‍🌾"],
+   "bg": "mint"
+  },
+  {
+   "say": "So roughly three of your four rupees reach the farmer, who's paying more for cattle feed.",
+   "lines": [["About ₹3 of your ₹4", "y"], ["reaches the farmer", "W"], ["Feed, fodder and fuel cost more", "s"], ["Amul: erratic rain in Gujarat", "g"]],
+   "art": ["🌾", "🐄"],
+   "count": false,
+   "bg": "sun"
+  },
+  {
+   "say": "A petrol pump keeps under five of a hundred and two. Send this to whoever buys the milk at home.",
+   "lines": [["Petrol pump keeps ₹4.47", "y"], ["of your ₹102", "W"], ["Milk: most of it goes to the farmer", "s"], ["Send this to whoever buys the milk", "g"]],
+   "art": ["⛽", "🥛"],
+   "count": false,
+   "bg": "sky"
+  }
+ ]
+}

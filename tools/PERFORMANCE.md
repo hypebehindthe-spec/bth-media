@@ -16,7 +16,8 @@ Updated by the daily run on Mondays and Thursdays from the Make "insights" pull.
 | 011 | Nirma girl: the 1969 story behind the packet | Reel (story Short from long_001) | illustrated | "You never asked" question | 65 WORKABLE | 37.4 | 128 | 109 | 7.4 | 44.6 | 0 | 0 | 139 | 2026-11-16 (37 h) |
 | 012 | Nirma vs HUL: why Wheel was launched in 1988 | Reel (story Short 2 from long_001) | illustrated | "You don't know" + named rivals | 61 WORKABLE | 35.8 | – | – | – | – | – | – | – | approved 15 Nov but NOT published as of 16 Nov 08:10 IST |
 | 013 | Guess: of ₹102 petrol, how much does the pump keep? | Reel (guess the number; remake of p010's "where your ₹ goes" + p005's guess) | illustrated | Guess + you + rupee number | 75 STRONG | 36.3 | – | – | – | – | – | – | – | made 16 Nov |
-| 014 | Above MRP: ₹100 restaurant water legal? | Reel ("most people get this wrong", everyday rule) | illustrated | You + rupee number + "is that legal?" question | 57 WORKABLE | 35.8 | – | – | – | – | – | – | – | made 17 Nov |
+| 014 | Above MRP: ₹100 restaurant water legal? | Reel ("most people get this wrong", everyday rule) | illustrated | You + rupee number + "is that legal?" question | 57 WORKABLE | 35.8 | – | – | – | – | – | – | – | made 17 Nov; publish_failed 17 Nov (YouTube upload 403) |
+| 015 | Milk ₹76 now: who gets the extra? Amul, Mother Dairy | Reel (where your ₹ goes, timely price hike) | illustrated | You + rupee number + "who gets it?" question | 74 STRONG | 35.6 | – | – | – | – | – | – | – | made 18 Nov |
 
 ## Long videos (owner uploads by hand; include these ids in every insights pull)
 | # | Title | YouTube id | Link | Uploaded | Shorts pointing to it |
