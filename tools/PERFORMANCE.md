@@ -63,3 +63,22 @@ Updated by the daily run on Mondays and Thursdays from the Make "insights" pull.
 ## YouTube Shorts
 - 23 views in the first 2 days; 74% from the Shorts feed, 13% from YouTube search, 13% from channel pages. Search already brings views, so titles keep their keywords.
 - The UPI Short held viewers for 55% of its length on YouTube versus 2 s on Instagram: same video, very different first-second behaviour. Don't judge a topic on Instagram alone.
+
+## Diagnosis, 19 Nov (owner asked: "views stagnant, YouTube dropping, no engagement")
+- **Instagram.** All 15 reels sit at 88–164 views and 84–142 reach. That's the first test group Instagram gives a reel from a 1-follower account, and none has gone past it. Watching is much better than at the start: the last 6 reels average about 50% skip and 7–11 s watched, against about 75% and 2–6 s at the start. But only 1 share and 1 save in total, and no comments. Instagram widens reach mostly on sends per reach, so retention alone hasn't been enough.
+- **YouTube Shorts.** Medians by group:
+
+  | Reels | Median views |
+  |---|---|
+  | p005–p007 | 255 |
+  | p008–p011 | about 140 |
+  | p012–p015 | about 43 |
+
+  The Nirma Shorts (p012, 43) ended with "full story on our channel", which the Shorts feed may treat as off-feed. p015 is only 1 day old. YouTube API calls to set thumbnails and edit details have returned 403 since 16 Nov, possibly tied to the channel's pending verification.
+- **The fix is in packaging and topic mix, not in more of the same.**
+  - Named series with a follow promise.
+  - Sport fandom topics (F1, cricket) that people forward.
+  - One deep walk-through reel a week.
+  - History and space tests.
+
+  Scan 4 shows a near-identical petrol reel at 10.3M views elsewhere, so the topics travel; voice, length and series identity are the gaps. Experiments are tracked in tools/EXPERIMENTS.md.

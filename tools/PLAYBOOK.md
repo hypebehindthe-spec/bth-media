@@ -4,10 +4,63 @@ Read this before making or reworking any post. The owner's notes on a specific p
 
 ## Brand
 - Instagram @behind.the.hype.in · YouTube Shorts @behindthehype_in_speed
-- Promise: the story behind everything India is hyped about. Pillars: business of sport (IPL, cricket, F1), gadget economics, viral brands & startups, economics in 60 seconds, deals (mergers & acquisitions in India and worldwide), results decoded (company quarterly and yearly reports in brief).
+- Promise: the story behind everything India is hyped about. Pillars (from 19 Nov): **sport in depth** (Formula 1: business, engineering, history, present season, technical rules, teams/competitors, drivers; cricket: money, records, history, players, rivalries; other sports: football, Olympics, tennis, chess, kabaddi), **who keeps what** (everyday money: who earns what from things people buy), brands & startups, deals (M&A, India and global), results decoded, and two test pillars, **history** (India's engineering marvels and business history) and **space** (astronomy and the space economy, India angle first). The weekly calendar is in "Growth reset" below.
 - Language: ALL on-screen text, headlines, captions and YouTube titles/descriptions in clear English. Never write the word "Hinglish" anywhere. The voiceover may drop in an occasional Hindi phrase for flavour, but stays mostly English.
 - The owner works at Blinkit. Every topic is allowed, including quick commerce, food delivery and their deals, as long as it uses only publicly available information (filings, official statements, major press). Never insider information or claims, and never anything that hints at what the owner knows from work.
 - Every number must be confirmed in a reputable source (filings, major business press, official bodies); keep URLs in the row's `sources`. Drop anything you can't verify.
+
+## Growth reset (owner, 19 Nov): followers and subscribers first
+**Where we stand (18 Nov).** 15 reels. Every Instagram reel reaches roughly 100–140 accounts. That is the first test group Instagram gives any reel from a 1-follower account, and none of ours has gone past it. Watching improved a lot: skip rate fell from 75–89% to 43–52%, and average watch went from 2–6 s to 7–11 s. But across all 15 reels, people sent a reel to a friend once and saved one once. Sends are the signal Instagram uses most to show a reel to people who don't follow you, so with near-zero sends no reel gets wider reach. YouTube Shorts peaked with p006/p007 (255/347) and fell to 16–92 for the latest ones. Followers: 1. Subscribers: 2.
+**What the scan proved (19 Nov, IDEAS.md Scan 4).** Our topics are right, but our packaging isn't:
+- @untoldlessons_0 posted "₹102 of petrol: how much does the pump owner keep?" (the same topic as our p013) and got **10.3M views**.
+- Its whole "You pay ₹X… who keeps what?" series runs at 0.9–2.6M views a reel.
+- F1 engineering ("The F1 trick so genius it got banned", 5.3M on a 60K channel) and Indian history/engineering (Ellora Kailasa, Mehrangarh, 0.5–15M on 10–40K channels) are huge outlier pools.
+- Space is weaker: under 100K a Short unless it's something like a "biggest planet" video.
+
+**Rules from now on (they add to the growth rules below; they never replace accuracy rules):**
+1. **Every reel belongs to a named, numbered series.**
+   - The series name and number go in the frame-1 kicker and the thumbnail, e.g. "F1 EXPLAINED #3", "CRICKET MONEY #2", "WHO KEEPS WHAT #4", "INDIA BUILT THIS #1", "SPACE MONEY #1".
+   - A series is the reason to follow. The last spoken line is a specific promise, not "follow for more": "Every Tuesday, one F1 secret. Follow for number four."
+   - Never skip a series day once it's announced.
+2. **Send test before scripting.** Write down who the viewer would send this to and why, e.g. "my F1-mad friend, because he thinks DRS is just a button". If there's no clear answer, change the angle. Put one line in the script aimed at that person: "Send this to the friend who still thinks Ferrari is the richest team."
+3. **Debate beats facts for comments.** Sports reels end with a two-sided question fans will argue about ("Dhoni or Kohli: whose brand is worth more?"). Never ask for a vote on something with a factual answer.
+4. **Weekly calendar (IST):**
+   - Learn days stay Monday and Thursday; the research scan stays Monday.
+   - A results decode or a big deal that's due takes Wednesday's slot. If it's truly time-critical it takes any day, and that day's series moves to the next free day.
+   - Story-reel rules still apply to Saturday's Short.
+
+   | Day | Series | What it covers |
+   |---|---|---|
+   | Mon | Cricket Money | IPL/BCCI money, player earnings, records, rivalries, cricket history with a twist |
+   | Tue | F1 Explained | Rotate: engineering/tech (banned tricks first) → business/money → history/legends → drivers & rivalries → teams and rules |
+   | Wed | Who Keeps What | "You pay ₹X for Y. Who keeps what?" (petrol, flights, cinema, cars, LPG, IRCTC). This week's results decode or deal goes here instead when due |
+   | Thu | India Built This | History test: India's engineering marvels and old business history (forts, temples, stepwells, railways, dabbawalas) |
+   | Fri | Long video | Rotate: F1 story → cricket story → history story → brand story |
+   | Sat | Short from the long video | One only, ending with "The full story is on our YouTube channel, Behind The Hype." |
+   | Sun | Space Money / other sports | Alternate: space (ISRO vs NASA costs, how satellites make money, astronomy with a number) and other sports (football clubs, Olympics, chess, kabaddi) |
+
+5. **Test pillars get 4 reels each before a verdict** (history Thursdays, space every other Sunday). Judge by sends per reach, follows and skip rate versus that fortnight's sport and money reels. Log the results in tools/EXPERIMENTS.md. Drop or keep only after 4 data points.
+6. **One deep reel a week (60–90 s).** Usually Wednesday's Who Keeps What, in the style of @untoldlessons_0's IPL owner reel: a full money walk-through, one step per beat, every number on screen.
+   - Keep it under 4.6 MB: render 720x1280 if needed. Illustrated scenes compress well.
+   - All other reels stay 25–40 s.
+7. **Sport visuals are illustrations only.**
+   - Allowed: drawn cars, helmets, tyres, tracks, maps, bats, balls, stadiums and big numbers.
+   - Never: footage, photos, team logos, F1/IPL marks or faces. These are a copyright risk and break Instagram's originality rule, and footage/photos/logos would get us flagged as an aggregator.
+   - Driver, team and player names in text are fine.
+8. **Sources for sport:**
+   - F1: FIA regulations and decisions, formula1.com, team statements, published team accounts (UK Companies House filings for teams' revenue), major outlets (BBC Sport, The Race, Autosport, Motorsport.com, Reuters).
+   - Cricket: BCCI/ICC releases, franchise filings, ESPNcricinfo, major business press.
+   - Astronomy: NASA/ESA/ISRO pages and budget documents.
+   - Same two-source rule as everything else.
+9. **Captions match the topics people pick in Instagram's "Your Algorithm" interest controls.** Line 1 names the topic plainly: "Formula 1", "F1", "cricket", "IPL", "space", "ISRO", "Indian history", plus the specific team or driver. Use at most 5 hashtags; Instagram caps posts at 5.
+10. **Profile (owner action, once).** Name field "Behind The Hype | F1, Cricket & Money" (30 characters). Bio line 1: "The money & engineering behind sport, brands and history." Pin the three best reels. Claude can't edit the profile through the API; remind the owner only once.
+
+**Tools checked on 19 Nov:**
+- **instagram-agent-skill** (Jakeschincariol, 7.1K stars). We already use its ideas: hook scoring (tools/ytkit), outlier ranking and the safe zone. Adopted from it: the series/one-ask ending, the "pinned three" and "name field" profile fixes, and "sends per reach first".
+- **cinematic-skill** (Moh4696). Can't run here: skia-python has no build for this Python, and Wikimedia is blocked from the shell. Adopted its rules into bth_long.py scripts: one hero per line; hits land on the spoken word; type readable on a phone in 1 s; nothing invented that looks real.
+- **Agent Reach** (113K stars). A CLI for reading X, Reddit and YouTube. Its hosts are blocked from this shell; WebSearch/WebFetch cover the same ground.
+- **Gemini.** Already used free via Make for the voice. A Gemini fact-check route would cost Make credits; only add it if a factual error ever ships.
+- **ChatGPT.** Has no free API, so it's not used.
 
 ## Visual identity
 Python Pillow, fonts in /usr/share/fonts/truetype/google-fonts/ (Poppins-Bold/Medium/Regular). Background #0E1116, accent #FFC72C, text #F5F5F0, secondary #969BA5. Small "BEHIND THE HYPE" label top-left in yellow with a short yellow underline, big bold headline, 90px margins, @behind.the.hype.in at the bottom. Avoid glyphs Poppins lacks (arrows, special symbols); check a render with the Read tool before using it.
@@ -84,7 +137,7 @@ Never change the page (files/index.html) unless the owner asks for a change to t
 
 ## Story reels (from 14 Nov, learned from ZeroInOn)
 A new Bangalore history page (ZeroInOn) gets ~20x our Instagram views per reel with: one story about a person with a turning point ("He built H.A.L. Then lost it."), a well-known local place in the hook (Bellandur Lake, HAL Bangalore), cinematic scenes instead of text, and a long video with Shorts cut from it.
-- Two of every seven reels are story reels: a real founder, brand or place; who → what they built → the turn → what's left today. Same research and sourcing rules as everything else.
+- Story reels are now a way of telling, used inside the series (F1 legends, cricket history, India Built This, brand stories) rather than a fixed 2-in-7 quota: a real person, team, brand or place; who → what they built → the turn → what's left today. Same research and sourcing rules as everything else.
 - Hook = the person and the twist in under 8 words ("He sold detergent on a bicycle. Then beat HUL."). Put the city or landmark in the hook or title when the story has one (people share stories about their own city).
 - Write it as a story, not a list of numbers: one number at most per beat, a short line that pulls to the next beat ("And then the government called."), the twist in the last third.
 - Series: when a story has a natural second half, end Part 1 on the cliffhanger with "Part 2 tomorrow. Follow so you don't miss it." and make Part 2 the next day. Series give people a reason to follow/subscribe, which one-off facts don't.
@@ -93,7 +146,7 @@ A new Bangalore history page (ZeroInOn) gets ~20x our Instagram views per reel w
 ## Weekly long video (from 14 Nov; owner uploads it by hand, no paid plan)
 Long videos earn subscribers; Shorts earn views. One 4–7 minute story video a week, plus the following days' Shorts cut from the same story.
 - When: the Friday daily run makes the long video INSTEAD of that day's reel. Saturday's and Sunday's reels are two Shorts from the same story (the hook moment, and the twist). Never say just "our channel": the spoken/on-screen ending is "The full story is on our YouTube channel, Behind The Hype."; the Instagram caption says "▶️ Watch the full N-minute <topic> story on our YouTube channel: link in bio."; the YouTube description names the long video's exact title, and once the owner has sent its link (recorded in PERFORMANCE.md under Long videos) includes that URL. Remind the owner in the notification to set the Short's Related video to the long video in YouTube Studio.
-- Topic: the strongest unused story from the IDEAS.md story queue (person + turning point + twist), researched like everything else: two sources for every key fact, a claim with only one source gets cut or softened.
+- Topic: rotate F1 story → cricket story → history story → brand story (IDEAS.md sport/history lists and story queue; person + turning point + twist). Sport long videos have strong YouTube search demand ("F1 engineering explained", "how IPL teams make money"), so put the search phrase in the title, researched like everything else: two sources for every key fact, a claim with only one source gets cut or softened.
 - Script: 6–8 chapters, 600–900 words. Chapter 1 is a 20–30 s cold open that states the stakes and the mystery ("Twenty years later, India's biggest soap company had a plan with one goal. Stop him."). End with next week's teaser, "Subscribe so you don't miss it", and one comment question.
 - Spec: `long/long_NNN.json` (format in the docstring of `tools/bth_long.py`): title_bar (brand, line1 white, line2 yellow, sub = brand · place · year), sections with chapter, bg, voice and beats (say, lines, art, optional circle = index of the illustration to ring in red, count false for years).
 - Voice: one "BTH – Voiceover" run PER SECTION (file_name `long_NNN_sN`), never one long run: Gemini returns empty or cut-off takes on long text. Check every take: file over 100 KB, and transcribe it (reel-transcriber skill, `--lang en`) to confirm the whole section is there with no long silence. Redo a bad take with a NEW file_name and the short style line.
@@ -102,13 +155,13 @@ Long videos earn subscribers; Shorts earn views. One 4–7 minute story video a 
 
 ## Research scan (weekly, Mondays)
 Run the publishing scenario 8381063 ONLY with post_type "research" (scenarios_run, responsive true):
-- `media_url`: comma-separated Instagram usernames to study (business/creator accounts only; personal accounts come back empty). Current list: zerodhaonline, labourlawadvisor, marketingmind.in, thebetterindia — add or swap handles that fit the pillars; drop any that return nothing twice.
-- `youtube_tags`: 5–6 comma-separated search phrases (Shorts, India, last 45 days, by views), e.g. "business case study india,indian startup story,how company makes money india,which makes more money india,acquisition explained" plus one timely phrase for the week.
+- `media_url`: comma-separated Instagram usernames to study (business/creator accounts only; personal accounts come back empty). Current list: untoldlessons_0, labourlawadvisor, marketingmind.in, thebetterindia (zerodhaonline swapped out 19 Nov; also try 1–2 F1/cricket business pages found in the week's search, never the giant official accounts) — add or swap handles that fit the pillars; drop any that return nothing twice.
+- `youtube_tags`: 5–6 comma-separated search phrases (Shorts, India, last 45 days, by views), rotate across the series, e.g. "f1 engineering explained,cricket money explained,who keeps how much india,indian engineering marvel history,isro cost explained" plus one timely phrase for the week.
 Results land in data store 248952 under keys `rs_ig_<username>` (posts as `type|views|likes|comments|time|link|caption` joined by ";;") and `rs_yt_<query>` (detail = `videoIds##views##channelIds##titles` with titles split by "~~"; media_id = `channelIds##subs##videoCounts##channelViews`). Compute outlier scores in Python (method in IDEAS.md); for YouTube, a channel's median views over its recent Shorts is a better baseline than its lifetime average when that data is available, and skip channels with fewer than 4 data points, update the scan table and add/replace ideas in the matrix. Costs roughly 60–80 Make credits per scan.
 
 ## Format mix
-- Reels about 5 of 7 days. Once a week make the reel a "guess the number" (ask on beat 1, reveal on the last beat) to pull comments.
-- Once a week a data carousel (Instagram re-shows carousels to people who scrolled past the first slide).
+- Reels every day except Friday (long video). The series calendar in "Growth reset" decides the topic. A "guess the number" opening can be used inside any series (ask on beat 1, reveal on the last beat).
+- Every second week, the Sunday slot can instead be a save-worthy carousel cheat sheet for a series (e.g. "F1 team budgets 2026 in one table", "Every IPL team's value"). People save tables, and saves and sends lift reach.
 - No quote posts and no AI presenter/character: they look mass-produced and blur what the page is for.
 
 ## Carousels / photos

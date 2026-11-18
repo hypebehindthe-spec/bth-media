@@ -90,6 +90,32 @@ Results-day searches ("<company> Q2 results") still pull 45–80K views on the b
 - Deals: no big new Indian deal found this week in reliable press; ITC Infotech–Happiest Minds (announced 1 Sep: 22.1% from the promoter at ₹390–400 a share, then a merger with 25 ITC Infotech shares for every 81 Happiest Minds shares) is a candidate if approvals news comes (idea 48).
 - Results: well-known Q2 FY27 results are done; no famous name confirmed for 16–20 Nov. Check daily news for a late reporter.
 
+## Scan 4 — 19 Nov 2026 (new pillars: F1, cricket, history, space; Instagram @untoldlessons_0 and @f1)
+Run with post_type "research" (about 60–80 credits). Score = views ÷ channel subscribers for YouTube Shorts (India, last 45 days), likes ÷ the account's median likes for Instagram.
+
+| Outlier | Views | Score | Pattern |
+|---|---|---|---|
+| IG @untoldlessons_0: "₹102 of petrol: how much goes to the pump owner? ~₹3.85" | 10.3M | 63x (likes) | **Who keeps what.** Same topic as our p013 (140 views): the topic is right, the packaging/voice/account isn't yet |
+| IG @untoldlessons_0: "₹7,000 flight ticket: how much does the airline keep?" | 2.6M | 13x | Who keeps what |
+| IG @untoldlessons_0: "₹300 movie ticket: producer gets ~₹127" / "₹10 lakh car: showroom keeps ₹2–3K" / "₹942 LPG cylinder: agency keeps?" | 0.95–1.2M each | 5.6–6x | Who keeps what (a whole series of hits) |
+| IG @untoldlessons_0: "IPL team bought for ~$112M in 2008, sold for ~₹16,600 cr in 2026" | 863K | 7.4x | Cricket money (202 s long reel, 7.8K shares) |
+| YT "The F1 trick so genius it got banned" (60K-sub channel) | 5.28M | 88x | **F1 banned tech** |
+| YT "How does an F1 crew change four tyres in two seconds?" | 3.96M | 20x | F1 engineering, one question |
+| YT "This is how F1 tyres work" (70K subs) | 2.1M | 30x | F1 engineering |
+| YT "Inside a Formula 1 engine: 1000+ HP" (435 subs) | 174K | 400x | F1 engineering (tiny channel breaks out) |
+| YT "How a hill was carved into Ellora's Kailasa temple" (11K subs) | 7.8M | 697x | **India's engineering marvels** |
+| YT "Mehrangarh fort mystery: 7 gates, defence against elephants" (10K subs) | 5.2M | 514x | India's engineering marvels |
+| YT "The 'other India' Columbus thought he found" (10K subs) | 6.0M | 591x | History with a twist |
+| YT "West Indies get $0 from India tour? Cricket money explained" (2K subs) | 279K | 130x | Cricket money: who gets paid |
+| YT "Universe is bigger than you think" (1.9K subs) | 89K | 48x | Space: works in Hindi, small numbers in English |
+
+**Takeaways (scan 4)**
+1. Who keeps what is a proven series at million-view scale in India. We already make it (p007, p010, p013, p015), but at 25–35 s in English. The winning version is a full walk-through with every number, often 60–200 s, with a Hindi voice. We test the deep version weekly. A Hindi voice is the owner's call (asked 19 Nov).
+2. F1 engineering, especially "banned" tricks and "how does X work in 2 seconds", is the strongest F1 angle. Pure F1 news belongs to huge accounts (@f1 median 97K likes); don't compete on news.
+3. India's engineering marvels are the biggest outlier pool we've found (500–900x). They fit the brand as "the engineering behind the hype", so they get the Thursday test.
+4. Space is the weakest of the new pillars: test it every other Sunday with a money/India angle (ISRO costs), not general facts.
+5. Cricket business Shorts get little search on YouTube but big shares on Instagram. Lead cricket with Instagram-first angles: player and team money, who gets paid.
+
 ## Idea matrix (6 subtopics × 6 formats)
 Subtopic 6, Deals (M&A), was added by the owner on 8 Nov: trending and lesser-known mergers and acquisitions, in India and globally. Rules are in the PLAYBOOK "Deals (M&A)" section.
 Subtopic 7, Results decoded, was added by the owner on 8 Nov: brief decodes of a famous company's latest quarterly or yearly results, made within 1–3 days of the results. Rules are in the PLAYBOOK "Results decoded" section. These are filled from the weekly results calendar, so they jump the queue when due.
@@ -144,6 +170,74 @@ Timely posts made outside the matrix (news hook + proven pattern):
 - p005 (8 Nov, Diwali): Guess the number — one town (Sivakasi) makes 85–90% of India's fireworks; prices up 30–50% this Diwali. Pattern: F3 + festival money number.
 
 Status values: idea → made (pNNN) → winner / dud (after its 48-hour numbers) → remade (pNNN).
+
+## Series queues (from 19 Nov; see PLAYBOOK "Growth reset" for the weekly calendar)
+Every idea needs its numbers verified (two sources) before it's made; reword or drop anything that can't be. "#n" is the series number it will carry when made.
+
+**F1 Explained (Tuesdays)**
+| # | Angle | Idea | Status |
+|---|---|---|---|
+| F1-1 | Engineering | The fan car that won its only race and was withdrawn (Brabham BT46B, 1978): banned-tech Part 1 | idea |
+| F1-2 | Engineering | How a pit crew changes four tyres in about 2 seconds (record 1.80 s, McLaren, Qatar 2023: verify) | idea |
+| F1-3 | Business | How F1 makes money: Liberty Media bought it for ~$8B in 2017; where the yearly revenue goes (verify from Liberty filings) | idea |
+| F1-4 | Present | Las Vegas GP: the race F1 promotes itself and built a pit building for (verify costs; time it to race week) | idea |
+| F1-5 | Rules | 2026 cars: about half the power is now electric. What changed and why (FIA 2026 regulations) | idea |
+| F1-6 | Business | The cost cap: what a team can and can't spend (FIA financial regulations; 2026 figure: verify) | idea |
+| F1-7 | Competitors | Cadillac, F1's 11th team in 2026: what it reportedly had to pay to get in (verify) | idea |
+| F1-8 | India | India's F1 race at the Buddh circuit (2011–13): why it stopped (tax dispute: verify) | idea |
+| F1-9 | Drivers | Arvid Lindblad: a Red Bull junior with Indian roots on the 2026 grid (verify) | idea |
+| F1-10 | History | Ferrari: the only team in every season since 1950 (verify) | idea |
+| F1-11 | Engineering | Banned-tech Part 2: Mercedes' DAS steering (2020) / Brawn's double diffuser (2009) | idea |
+| F1-12 | Drivers | Senna vs Prost: the rivalry that ended in a crash two years running (1989–90) | idea |
+
+**Cricket Money (Mondays)**
+| # | Angle | Idea | Status |
+|---|---|---|---|
+| C-1 | Who gets paid | When India tours abroad, who earns the TV money? Home boards keep it (scan 4 outlier: verify how ICC/BCCI revenue is split) | idea |
+| C-2 | Teams | An IPL team bought for ~$112M in 2008: what a team is worth now (old idea 19; verify any 2026 sale) | idea |
+| C-3 | Rights | IPL media rights ₹48,390 cr for 2023–27: what one match is worth (compute per match) | idea |
+| C-4 | Players | One Kohli Instagram post vs a full IPL season salary (old idea 20; verify both) | idea |
+| C-5 | WPL | Women's Premier League: five teams sold for ₹4,670 cr in 2023 (verify); what they earn | idea |
+| C-6 | History | 1983 World Cup: what the winners were paid, and how money was raised for them (verify) | idea |
+| C-7 | Rise & fall | Kochi Tuskers: the IPL team that lasted one season (old idea 23) | idea |
+| C-8 | Tech | What DRS/ball-tracking costs per match, and who pays (verify) | idea |
+
+**Who Keeps What (Wednesdays; the weekly 60–90 s deep reel)**
+| # | Idea | Status |
+|---|---|---|
+| W-1 | Your flight ticket: what the airline keeps after fuel, airport charges and taxes (IndiGo's published cost per seat-km; verify) | idea |
+| W-2 | A new car's showroom price: who gets what (GST, compensation cess, dealer margin; verify) | idea |
+| W-3 | Your LPG cylinder: distributor commission vs the oil company vs subsidy (PPAC/IOC data) | idea |
+| W-4 | A ₹20,000 phone: who keeps what (GST, import duty on parts, brand margin; verify) | idea |
+| W-5 | Your food-delivery order: restaurant, platform, delivery partner, GST (public filings only; owner OK) | idea |
+| W-6 | A cab ride: driver vs platform vs taxes (public data only) | idea |
+| W-7 | IRCTC again (old idea 49) / gold jewellery making charges / medicine MRP | idea |
+
+**India Built This (Thursdays; history test, 4 reels before a verdict)**
+| # | Idea | Status |
+|---|---|---|
+| H-1 | Ellora's Kailasa temple: carved top-down out of one rock (tonnes of rock removed: verify, ASI) | idea |
+| H-2 | Delhi's iron pillar: about 1,600 years without rusting (IIT Kanpur study; verify) | idea |
+| H-3 | Rani ki Vav: the stepwell on the ₹100 note (UNESCO) | idea |
+| H-4 | Kallanai (Grand Anicut): a ~2,000-year-old dam still in use (verify) | idea |
+| H-5 | Mumbai's dabbawalas: a near-zero-error system with no app (old idea 7) | idea |
+| H-6 | Konark's wheels that tell the time (verify how) | idea |
+| H-7 | Pamban bridge: 1914 and its 2025 vertical-lift replacement | idea |
+| H-8 | How a trading company ended up ruling India: the East India Company's start (verify capital and dates) | idea |
+
+**Space Money / other sports (alternate Sundays; space is a 4-reel test)**
+| # | Idea | Status |
+|---|---|---|
+| SP-1 | Chandrayaan-3 cost less than many films (ISRO's cost figure vs a film budget: verify both) | idea |
+| SP-2 | Mangalyaan: Mars on a budget (cost per km: compute) | idea |
+| SP-3 | How ISRO earns money: NSIL commercial launches, e.g. the OneWeb satellites (verify contract value) | idea |
+| SP-4 | A day on Venus is longer than its year (NASA) + what it would cost to go | idea |
+| SP-5 | Starlink in India: price and how it makes money (verify) | idea |
+| SP-6 | The ISS will be steered into the ocean: what SpaceX is paid to do it (NASA contract, verify) | idea |
+| OS-1 | Football: how the richest clubs make money (Deloitte Football Money League) | idea |
+| OS-2 | Chess: what Gukesh earned for the world title (FIDE prize fund; verify) | idea |
+| OS-3 | Pro Kabaddi: from a new league to India's second most-watched (verify ratings) | idea |
+| OS-4 | Javelin: why the men's javelin was redesigned in 1986 (records got too long), the Neeraj Chopra link | idea |
 
 ## Story reel queue (from 14 Nov; person + turning point + twist; verify everything)
 | # | Story | Hook draft | Status |
