@@ -31,6 +31,9 @@ YouTube: subscribers gained (from the channel total) and views at 48 h.
 | E7 | 6 Dec | A carousel cheat sheet gets saves | Sunday carousel every second week | 2 posts | planned |
 | E8 | — | Profile fixes (name field, bio, pinned three) raise profile-visit → follow conversion | Owner edits the profile once | before/after 7 days | waiting for owner |
 
+## Learn-day notes
+- **19 Nov (Thu):** no series reel has numbers yet (p016 India Built This #1 is the first; E2/E4/E6/E9 data starts Monday 23 Nov). Pre-series baseline refreshed from 14 reels: IG median 124 views, sends per reach 0.07% (1 share / 1,535 reach), skip 49.7% on the last 6 vs 75.7% on the first 8, YouTube median 99. No decisions due.
+
 ## Ideas not yet scheduled (free only)
 - **Collab posts with a small sports/business page.** Instagram shows a collab to both audiences. This needs the owner to accept invites, so it's paused while the owner has no time.
 - **Trial reels.** They unlock at 1,000 followers.

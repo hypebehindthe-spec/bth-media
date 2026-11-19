@@ -2,22 +2,22 @@
 
 Updated by the daily run on Mondays and Thursdays from the Make "insights" pull. Instagram numbers come from the reel insights; avg watch is in seconds; skip rate is Instagram's "reels skip rate" (the share of viewers who swiped away in the first seconds).
 
-| # | Title | Format | Style | Hook type | Hook score | Length s | IG views | Reach | Avg watch s | Skip rate % | Shares | Saves | YT views | Checked |
-|---|-------|--------|-------|-----------|------------|----------|----------|-------|-------------|-------------|--------|-------|----------|---------|
-| 002 | KKR bid ₹25.20 crore. Green gets ₹18 crore. Why? | Reel | v1 slideshow | Shocking number + why | – | 48.8 | 123 | 109 | 5.1 | 75.9 | 0 | 0 | 29 | 2026-11-16 (222 h) |
-| 003 | India now moves ₹1 lakh crore a day on UPI | Reel | v1 slideshow | Big number | – | 50.1 | 88 | 84 | 2.5 | 89.2 | 0 | 0 | 12 | 2026-11-16 (223 h) · dud |
-| 004 | ₹60,000 crore on Dhanteras gold. Same amount of gold. | Reel | v1 slideshow | Big number + catch | – | 48.0 | 119 | 103 | 6.4 | 73.8 | 0 | 0 | 16 | 2026-11-16 (209 h) |
-| 005 | Guess: one town makes what % of India's Diwali crackers? | Reel | v2 | Guess the number | – | 39.5 | 120 | 108 | 3.9 | 78.4 | 0 | 0 | 139 | 2026-11-16 (187 h) |
-| 006 | Tata Steel Q2: India made more profit than all of Tata Steel | Reel | illustrated (1 of 3) | Shocking number + why | 58 WORKABLE | 39.3 | 120 | 108 | 5.3 | 71.2 | 0 | 0 | 254 | 2026-11-16 (157 h) |
-| 007 | Guess: PVR ticket or popcorn, which earns more per ₹100? | Reel | illustrated (2 of 3) | Guess + X vs Y | 70 WORKABLE | 35.7 | 123 | 101 | 7.7 | 70.2 | 0 | 0 | 336 | 2026-11-16 (133 h) |
-| 008 | Kalyan Jewellers Q2: profit up 64%, but ₹73 cr came from land | Reel | illustrated (3 of 3) | Shocking number + catch | 60 WORKABLE | 36.4 | 142 | 119 | 4.6 | 73.6 | 1 | 0 | 98 | 2026-11-16 (109 h) |
-| 009 | Tata Power Q2: profit +49%, solar & wind +8%, coal & hydro 2.6x | Reel | illustrated (rebuilt from v2 on owner's note) | X vs Y (solar vs coal) + guess | 56 WORKABLE | 34.9 | 113 | 104 | 4.9 | 76.7 | 0 | 1 | 192 | 2026-11-16 (85 h) |
-| 010 | IRCTC Q2: sales +16%, profit -23%, blame the water | Reel | illustrated | You + shocking number ("Where your ₹ goes" twist) | 60 WORKABLE | 37.3 | 143 | 107 | 10.9 | 47.7 | 0 | 0 | 114 | 2026-11-16 (59 h) · winner |
-| 011 | Nirma girl: the 1969 story behind the packet | Reel (story Short from long_001) | illustrated | "You never asked" question | 65 WORKABLE | 37.4 | 128 | 109 | 7.4 | 44.6 | 0 | 0 | 139 | 2026-11-16 (37 h) |
-| 012 | Nirma vs HUL: why Wheel was launched in 1988 | Reel (story Short 2 from long_001) | illustrated | "You don't know" + named rivals | 61 WORKABLE | 35.8 | – | – | – | – | – | – | – | approved 15 Nov but NOT published as of 16 Nov 08:10 IST |
-| 013 | Guess: of ₹102 petrol, how much does the pump keep? | Reel (guess the number; remake of p010's "where your ₹ goes" + p005's guess) | illustrated | Guess + you + rupee number | 75 STRONG | 36.3 | – | – | – | – | – | – | – | made 16 Nov |
-| 014 | Above MRP: ₹100 restaurant water legal? | Reel ("most people get this wrong", everyday rule) | illustrated | You + rupee number + "is that legal?" question | 57 WORKABLE | 35.8 | – | – | – | – | – | – | – | made 17 Nov; publish_failed 17 Nov (YouTube upload 403) |
-| 015 | Milk ₹76 now: who gets the extra? Amul, Mother Dairy | Reel (where your ₹ goes, timely price hike) | illustrated | You + rupee number + "who gets it?" question | 74 STRONG | 35.6 | – | – | – | – | – | – | – | made 18 Nov |
+| # | Title | Series | Style | Hook type | Hook score | Length s | IG views | Reach | Avg watch s | Skip rate % | Shares | Saves | Sends/reach % | YT views | Checked |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 002 | KKR bid ₹25.20 crore. Green gets ₹18 crore. Why? | pre-series | v1 slideshow | Shocking number + why | – | 48.8 | 123 | 109 | 5.1 | 75.9 | 0 | 0 | 0.00 | 29 | 2026-11-19 (293 h) |
+| 003 | India now moves ₹1 lakh crore a day on UPI | pre-series | v1 slideshow | Big number | – | 50.1 | 88 | 84 | 2.5 | 89.2 | 0 | 0 | 0.00 | 12 | 2026-11-19 (294 h) · dud |
+| 004 | ₹60,000 crore on Dhanteras gold. Same amount of gold. | pre-series | v1 slideshow | Big number + catch | – | 48.0 | 119 | 103 | 6.4 | 73.8 | 0 | 0 | 0.00 | 16 | 2026-11-19 (281 h) |
+| 005 | Guess: one town makes what % of India's Diwali crackers? | pre-series | v2 | Guess the number | – | 39.5 | 120 | 108 | 3.9 | 78.4 | 0 | 0 | 0.00 | 141 | 2026-11-19 (259 h) |
+| 006 | Tata Steel Q2: India made more profit than all of Tata Steel | pre-series | illustrated (1 of 3) | Shocking number + why | 58 WORKABLE | 39.3 | 120 | 108 | 5.3 | 71.2 | 0 | 0 | 0.00 | 255 | 2026-11-19 (228 h) |
+| 007 | Guess: PVR ticket or popcorn, which earns more per ₹100? | pre-series | illustrated (2 of 3) | Guess + X vs Y | 70 WORKABLE | 35.7 | 123 | 101 | 7.7 | 70.2 | 0 | 0 | 0.00 | 347 | 2026-11-19 (204 h) |
+| 008 | Kalyan Jewellers Q2: profit up 64%, but ₹73 cr came from land | pre-series | illustrated (3 of 3) | Shocking number + catch | 60 WORKABLE | 36.4 | 142 | 119 | 4.6 | 73.6 | 1 | 0 | 0.84 | 99 | 2026-11-19 (180 h) |
+| 009 | Tata Power Q2: profit +49%, solar & wind +8%, coal & hydro 2.6x | pre-series | illustrated (rebuilt from v2 on owner's note) | X vs Y (solar vs coal) + guess | 56 WORKABLE | 34.9 | 113 | 104 | 4.9 | 76.7 | 0 | 1 | 0.00 | 190 | 2026-11-19 (156 h) |
+| 010 | IRCTC Q2: sales +16%, profit -23%, blame the water | pre-series | illustrated | You + shocking number ("Where your ₹ goes" twist) | 60 WORKABLE | 37.3 | 143 | 107 | 10.8 | 47.7 | 0 | 0 | 0.00 | 125 | 2026-11-19 (130 h) · winner |
+| 011 | Nirma girl: the 1969 story behind the packet | pre-series | illustrated | "You never asked" question | 65 WORKABLE | 37.4 | 128 | 109 | 7.4 | 44.6 | 0 | 0 | 0.00 | 154 | 2026-11-19 (109 h) |
+| 012 | Nirma vs HUL: why Wheel was launched in 1988 | pre-series | illustrated | "You don't know" + named rivals | 61 WORKABLE | 35.8 | 125 | 108 | 8.1 | 61.5 | 0 | 0 | 0.00 | 43 | 2026-11-19 (66 h) |
+| 013 | Guess: of ₹102 petrol, how much does the pump keep? | pre-series | illustrated | Guess + you + rupee number | 75 STRONG | 36.3 | 140 | 119 | 7.8 | 52.1 | 0 | 0 | 0.00 | 92 | 2026-11-19 (60 h) |
+| 014 | Above MRP: ₹100 restaurant water legal? | pre-series | illustrated | You + rupee number + "is that legal?" question | 57 WORKABLE | 35.8 | 164 | 142 | 11.1 | 43.4 | 0 | 0 | 0.00 | – (YouTube upload failed 17 Nov) | 2026-11-19 (36 h) · best so far, confirm at 48 h Monday |
+| 015 | Milk ₹76 now: who gets the extra? Amul, Mother Dairy | pre-series | illustrated | You + rupee number + "who gets it?" question | 74 STRONG | 35.6 | 146 | 114 | 9.2 | 48.7 | 0 | 0 | 0.00 | 17 | 2026-11-19 (12 h) |
 
 ## Long videos (owner uploads by hand; include these ids in every insights pull)
 | # | Title | YouTube id | Link | Uploaded | Shorts pointing to it |
@@ -28,6 +28,13 @@ Updated by the daily run on Mondays and Thursdays from the Make "insights" pull.
 | Date | Instagram followers | YouTube subscribers | Note |
 |---|---|---|---|
 | 2026-11-14 | 1 (the owner) | 2 | After 10 posts / 9 Shorts. Views come entirely from non-followers. |
+
+## What's working / what isn't (19 Nov, 14 reels with numbers)
+- Still capped at the cold test pool: IG views 88–164 (median 124), total reach 1,535, 1 share and 1 save across all 14 reels (sends per reach 0.07%). No reel has had a second push.
+- Watching keeps improving: the last 6 reels average 49.7% skip vs 75.7% for the first 8. p014 restaurant water is the best yet on every Instagram measure (164 views, 142 reach, 11.1 s avg watch, 43.4% skip) after 36 h; p010 (47.7%), p011 (44.6%) and p015 (48.7%) sit close behind.
+- What the best-held reels share: an everyday thing the viewer pays for (water, milk, train meals, petrol) or a brand everyone knows, plus a question left open in frame 1.
+- But retention alone isn't moving reach: zero sends on all 6 low-skip reels. That's why every reel from p016 is in a named series with a send line (E2).
+- YouTube is falling: p012 43, p013 92, p015 17 views vs 255/347 for p006/p007; p014 never reached YouTube (upload failed 17 Nov). The long video has 5 views and 1 comment.
 
 ## What's working / what isn't (16 Nov, 10 reels with numbers)
 - Instagram is still stuck in the cold test batch: 88–143 views per reel (median 122), 1,219 views in total, 1 share, 1 save, 0 comments. No reel has had a second push yet.

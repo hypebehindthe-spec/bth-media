@@ -216,7 +216,7 @@ Every idea needs its numbers verified (two sources) before it's made; reword or 
 **India Built This (Thursdays; history test, 4 reels before a verdict)**
 | # | Idea | Status |
 |---|---|---|
-| H-1 | Ellora's Kailasa temple: carved top-down out of one rock (tonnes of rock removed: verify, ASI) | idea |
+| H-1 | Ellora's Kailasa temple: carved top-down out of one rock (tonnes of rock removed: verify, ASI) | made (p016, 19 Nov: 2 lakh tonnes [Live History India, Lonely Planet], ~760 CE Krishna I, top-down, 33 m [Wikipedia, Sahapedia]; time taken 5.5 vs 150 years is the debate) |
 | H-2 | Delhi's iron pillar: about 1,600 years without rusting (IIT Kanpur study; verify) | idea |
 | H-3 | Rani ki Vav: the stepwell on the ₹100 note (UNESCO) | idea |
 | H-4 | Kallanai (Grand Anicut): a ~2,000-year-old dam still in use (verify) | idea |
@@ -262,4 +262,5 @@ A post is a **winner** when, after 48 hours, its views are 2x+ the page's median
 | p005 Sivakasi guess the number (v2) | YouTube 133 views, 2.2x the YouTube median (12 Nov) | p013 petrol pump guess (16 Nov) | pending |
 | p007 PVR guess + X vs Y (illustrated) | YouTube 336 (2.7x the YouTube median) at 133 h; IG skip 70.2%, average | p013 is a guess reel on a new everyday number | pending |
 | p010 IRCTC Q2 (where your ₹ goes + culprit, illustrated) | IG skip 47.7% vs page avg 70.1%, avg watch 10.9 s vs 5.9 s, at 59 h (16 Nov) | p013 petrol pump: where your ₹102 goes (16 Nov) | pending |
-| p011 Nirma girl (story Short) | Watch: IG skip 44.6%, best on the page, at 37 h; confirm Thursday | – | – |
+| p011 Nirma girl (story Short) | Watch: IG skip 44.6% at 109 h (confirmed 19 Nov; page avg 64.8%), avg watch 7.4 s | India Built This uses the same "thing you know, story you don't" opening (p016) | pending |
+| p014 Restaurant water above MRP | Best IG numbers yet at 36 h: 164 views, 142 reach, 43.4% skip, 11.1 s watch; confirm at 48 h+ Monday | Next: another "is that legal?" everyday rule inside Who Keeps What (e.g. W-7 medicine MRP) | pending |
