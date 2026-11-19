@@ -18,6 +18,7 @@ Updated by the daily run on Mondays and Thursdays from the Make "insights" pull.
 | 013 | Guess: of ₹102 petrol, how much does the pump keep? | pre-series | illustrated | Guess + you + rupee number | 75 STRONG | 36.3 | 140 | 119 | 7.8 | 52.1 | 0 | 0 | 0.00 | 92 | 2026-11-19 (60 h) |
 | 014 | Above MRP: ₹100 restaurant water legal? | pre-series | illustrated | You + rupee number + "is that legal?" question | 57 WORKABLE | 35.8 | 164 | 142 | 11.1 | 43.4 | 0 | 0 | 0.00 | – (YouTube upload failed 17 Nov) | 2026-11-19 (36 h) · best so far, confirm at 48 h Monday |
 | 015 | Milk ₹76 now: who gets the extra? Amul, Mother Dairy | pre-series | illustrated | You + rupee number + "who gets it?" question | 74 STRONG | 35.6 | 146 | 114 | 9.2 | 48.7 | 0 | 0 | 0.00 | 17 | 2026-11-19 (12 h) |
+| 016 | Kailasa temple: 2 lakh tonnes of rock, cut by hand, roof first | India Built This #1 | illustrated + 2 Commons photos, Hindi mix voice (romanised) | You + impossible claim (cranes vs chisels) | 55 WORKABLE | 39.1 | – | – | – | – | – | – | – | – | made 19 Nov |
 
 ## Long videos (owner uploads by hand; include these ids in every insights pull)
 | # | Title | YouTube id | Link | Uploaded | Shorts pointing to it |
