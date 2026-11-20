@@ -1,0 +1,875 @@
+{
+ "out": "long/long_002.mp4",
+ "title_bar": {
+  "brand": "BEHIND THE HYPE",
+  "line1": "TOO CLEVER",
+  "line2": "FOR FORMULA 1",
+  "sub": "F1 banned tech · 1976–2026"
+ },
+ "mood": "dark",
+ "seed": 202,
+ "sections": [
+  {
+   "chapter": "Banned for being brilliant",
+   "bg": "sky",
+   "voice": "audio/long_002_s1.wav",
+   "beats": [
+    {
+     "say": "In 1978, a Formula 1 car won its very first race. Easily. And it never raced again.",
+     "lines": [
+      [
+       "F1 EXPLAINED",
+       "Y"
+      ],
+      [
+       "Won its first race.",
+       "w"
+      ],
+      [
+       "Never raced again.",
+       "y"
+      ],
+      [
+       "1978",
+       "s"
+      ]
+     ],
+     "art": [
+      "🏎️"
+     ]
+    },
+    {
+     "say": "Socho. Jeetne wali car ko hi garage mein band kar diya.",
+     "cap": "Think about it. They locked the winning car away in the garage.",
+     "lines": [
+      [
+       "The winner",
+       "W"
+      ],
+      [
+       "locked away",
+       "y"
+      ]
+     ],
+     "art": [
+      "🔒",
+      "🏎️"
+     ]
+    },
+    {
+     "say": "This is the story of F1's banned tricks. Six ideas so clever, the sport had to stop them. And the last twist? It's now in the rulebook.",
+     "lines": [
+      [
+       "6 banned tricks",
+       "y"
+      ],
+      [
+       "too clever to keep",
+       "w"
+      ],
+      [
+       "and the last twist is now the rule",
+       "s"
+      ]
+     ],
+     "art": [
+      "📜",
+      "🚫"
+     ],
+     "circle": 1,
+     "count": false
+    }
+   ],
+   "cuts": [
+    9.3,
+    13.5
+   ]
+  },
+  {
+   "chapter": "The fan car",
+   "bg": "mint",
+   "voice": "audio/long_002_s2.wav",
+   "beats": [
+    {
+     "say": "Sweden, 1978. Brabham's designer, Gordon Murray, put a giant fan on the back of his car.",
+     "lines": [
+      [
+       "Sweden, 1978",
+       "Y"
+      ],
+      [
+       "A giant fan",
+       "y"
+      ],
+      [
+       "on the back of the car",
+       "w"
+      ],
+      [
+       "Brabham BT46B · designer Gordon Murray",
+       "g"
+      ]
+     ],
+     "art": [
+      "🌀",
+      "🏎️"
+     ],
+     "circle": 0
+    },
+    {
+     "say": "Officially, it was there to cool the engine.",
+     "lines": [
+      [
+       "Officially:",
+       "W"
+      ],
+      [
+       "\"for cooling\"",
+       "y"
+      ]
+     ],
+     "art": [
+      "🌡️"
+     ]
+    },
+    {
+     "say": "Lekin asli kaam kuch aur tha. Woh fan car ke neeche se hawa kheench leta tha.",
+     "cap": "But its real job was something else. It sucked the air out from under the car.",
+     "lines": [
+      [
+       "Real job:",
+       "W"
+      ],
+      [
+       "suck the air",
+       "y"
+      ],
+      [
+       "from under the car",
+       "w"
+      ]
+     ],
+     "art": [
+      "💨",
+      "🌀"
+     ]
+    },
+    {
+     "say": "That pulled the car down onto the track, so it could corner faster. Niki Lauda won the Swedish Grand Prix with it.",
+     "lines": [
+      [
+       "Niki Lauda",
+       "y"
+      ],
+      [
+       "wins the 1978 Swedish GP",
+       "w"
+      ]
+     ],
+     "art": [
+      "🏆",
+      "🏁"
+     ]
+    },
+    {
+     "say": "Rival teams were furious. Brabham's boss, Bernie Ecclestone, needed their support, so he withdrew the car after one race. The win still stands.",
+     "lines": [
+      [
+       "Withdrawn",
+       "y"
+      ],
+      [
+       "after one race",
+       "w"
+      ],
+      [
+       "The win still stands",
+       "s"
+      ]
+     ],
+     "art": [
+      "🏁"
+     ]
+    }
+   ]
+  },
+  {
+   "chapter": "Six wheels",
+   "bg": "lilac",
+   "voice": "audio/long_002_s3.wav",
+   "beats": [
+    {
+     "say": "Two years earlier, Tyrrell tried something even stranger. A car with six wheels.",
+     "lines": [
+      [
+       "1976",
+       "Y"
+      ],
+      [
+       "Six wheels",
+       "y"
+      ],
+      [
+       "Tyrrell P34",
+       "w"
+      ]
+     ],
+     "art": [
+      "🏎️",
+      "🛞"
+     ],
+     "count": false
+    },
+    {
+     "say": "Four tiny front wheels sat behind the front wing, so less air hit them.",
+     "lines": [
+      [
+       "4 tiny front wheels",
+       "y"
+      ],
+      [
+       "hidden behind the wing",
+       "w"
+      ],
+      [
+       "less drag",
+       "s"
+      ]
+     ],
+     "art": [
+      "🛞"
+     ],
+     "count": false
+    },
+    {
+     "say": "But small tyres grip less. So they used two pairs instead of one.",
+     "lines": [
+      [
+       "Small tyres grip less",
+       "W"
+      ],
+      [
+       "so: two pairs",
+       "y"
+      ]
+     ],
+     "art": [
+      "🛞",
+      "🛞"
+     ]
+    },
+    {
+     "say": "Aur yeh mazaak nahi tha. Sweden, 1976 mein, Tyrrell first aur second aaye.",
+     "cap": "And this was no joke. In Sweden in 1976, Tyrrell finished first and second.",
+     "lines": [
+      [
+       "Sweden 1976",
+       "W"
+      ],
+      [
+       "1st and 2nd",
+       "y"
+      ],
+      [
+       "Jody Scheckter, Patrick Depailler",
+       "g"
+      ]
+     ],
+     "art": [
+      "🥇",
+      "🥈"
+     ],
+     "count": false
+    },
+    {
+     "say": "It's still the only six-wheeled car ever to win a Grand Prix. Six-wheelers never came back.",
+     "lines": [
+      [
+       "The only six-wheeler",
+       "y"
+      ],
+      [
+       "to win a Grand Prix",
+       "w"
+      ]
+     ],
+     "art": [
+      "🏆"
+     ],
+     "circle": 0
+    }
+   ],
+   "cuts": [
+    6.9,
+    12.5,
+    17.5,
+    23.8
+   ]
+  },
+  {
+   "chapter": "The weight in the nose",
+   "bg": "coral",
+   "voice": "audio/long_002_s4.wav",
+   "beats": [
+    {
+     "say": "Jump to 2005. Renault hid a weight inside the nose of its car. A weight that was free to move.",
+     "lines": [
+      [
+       "Renault, 2005",
+       "Y"
+      ],
+      [
+       "A moving weight",
+       "y"
+      ],
+      [
+       "hidden in the nose",
+       "w"
+      ]
+     ],
+     "art": [
+      "⚖️",
+      "🏎️"
+     ],
+     "circle": 0
+    },
+    {
+     "say": "When the car bounced, the weight moved against the bounce and calmed it down. The tyres stayed planted.",
+     "lines": [
+      [
+       "Calms the bounce",
+       "y"
+      ],
+      [
+       "tyres stay planted",
+       "w"
+      ],
+      [
+       "the \"mass damper\"",
+       "s"
+      ]
+     ],
+     "art": [
+      "🛞",
+      "⚖️"
+     ]
+    },
+    {
+     "say": "In 2006, the race stewards in Germany said it was legal. The FIA appealed against its own stewards, calling it a moveable aerodynamic device.",
+     "lines": [
+      [
+       "Stewards: legal",
+       "w"
+      ],
+      [
+       "FIA: appeal",
+       "y"
+      ],
+      [
+       "\"a moveable aerodynamic device\"",
+       "s"
+      ]
+     ],
+     "art": [
+      "⚖️",
+      "📜"
+     ]
+    },
+    {
+     "say": "Renault took it off the car mid-season. Phir bhi, Renault ne dono championship jeet li.",
+     "cap": "Renault took it off the car mid-season. Still, Renault won both championships.",
+     "lines": [
+      [
+       "Gone mid-season",
+       "W"
+      ],
+      [
+       "Still won",
+       "w"
+      ],
+      [
+       "both titles",
+       "y"
+      ],
+      [
+       "2006: drivers' and constructors'",
+       "g"
+      ]
+     ],
+     "art": [
+      "🏆",
+      "🏆"
+     ]
+    }
+   ]
+  },
+  {
+   "chapter": "The knee trick",
+   "bg": "sun",
+   "voice": "audio/long_002_s5.wav",
+   "beats": [
+    {
+     "say": "2010. McLaren arrived with something rivals couldn't see at first. They called it the F-duct.",
+     "lines": [
+      [
+       "McLaren, 2010",
+       "Y"
+      ],
+      [
+       "The F-duct",
+       "y"
+      ]
+     ],
+     "art": [
+      "🏎️",
+      "🔍"
+     ]
+    },
+    {
+     "say": "On the straight, the driver covered a hole in the cockpit with his knee. That sent air to the rear wing, and stalled it.",
+     "lines": [
+      [
+       "Cover a hole",
+       "w"
+      ],
+      [
+       "with your knee",
+       "y"
+      ],
+      [
+       "air stalls the rear wing",
+       "s"
+      ]
+     ],
+     "art": [
+      "🦵",
+      "💨"
+     ],
+     "circle": 0
+    },
+    {
+     "say": "Less drag, more top speed. In the corners, he moved his knee away, and the grip came back.",
+     "lines": [
+      [
+       "Less drag",
+       "y"
+      ],
+      [
+       "more top speed",
+       "w"
+      ]
+     ],
+     "art": [
+      "💨",
+      "🚀"
+     ]
+    },
+    {
+     "say": "Doosri teams ne copy kiya. Phir sab teams ne milkar ise ban kar diya.",
+     "cap": "Other teams copied it. Then all the teams agreed to ban it.",
+     "lines": [
+      [
+       "Rivals copied it",
+       "W"
+      ],
+      [
+       "then voted it out",
+       "y"
+      ],
+      [
+       "gone for 2011",
+       "g"
+      ]
+     ],
+     "art": [
+      "📋",
+      "🚫"
+     ]
+    },
+    {
+     "say": "But the idea lived on. For 2011, F1 replaced it with a button. You know it as DRS.",
+     "lines": [
+      [
+       "Replaced by",
+       "W"
+      ],
+      [
+       "DRS",
+       "y"
+      ],
+      [
+       "the overtaking flap, 2011",
+       "s"
+      ]
+     ],
+     "art": [
+      "🔘"
+     ],
+     "circle": 0
+    }
+   ],
+   "cuts": [
+    7.7,
+    16.1,
+    23.0,
+    28.0
+   ]
+  },
+  {
+   "chapter": "The one-pound team",
+   "bg": "mint",
+   "voice": "audio/long_002_s6.wav",
+   "beats": [
+    {
+     "say": "Now the best story of all. December 2008. Honda quits Formula 1.",
+     "lines": [
+      [
+       "Dec 2008",
+       "Y"
+      ],
+      [
+       "Honda quits F1",
+       "y"
+      ]
+     ],
+     "art": [
+      "🏭",
+      "🚪"
+     ],
+     "count": false
+    },
+    {
+     "say": "Team boss Ross Brawn takes over the team. The reported price? One pound.",
+     "lines": [
+      [
+       "Reported price:",
+       "W"
+      ],
+      [
+       "£1",
+       "y"
+      ],
+      [
+       "Brawn GP is born",
+       "s"
+      ]
+     ],
+     "art": [
+      "coin:£"
+     ],
+     "count": false
+    },
+    {
+     "say": "Hidden in its car was a loophole: a double diffuser. Extra channels under the floor sucked the car onto the track.",
+     "lines": [
+      [
+       "The loophole:",
+       "W"
+      ],
+      [
+       "double diffuser",
+       "y"
+      ],
+      [
+       "more grip from under the floor",
+       "s"
+      ]
+     ],
+     "art": [
+      "🏎️",
+      "🔍"
+     ],
+     "circle": 1
+    },
+    {
+     "say": "Jenson Button won six of the first seven races.",
+     "lines": [
+      [
+       "6 of the first 7",
+       "y"
+      ],
+      [
+       "races won",
+       "w"
+      ],
+      [
+       "Jenson Button, 2009",
+       "g"
+      ]
+     ],
+     "art": [
+      "🏆"
+     ],
+     "count": false
+    },
+    {
+     "say": "Ek pound ki team. Aur dono world championship.",
+     "cap": "A one-pound team. And both world championships.",
+     "lines": [
+      [
+       "£1 team",
+       "y"
+      ],
+      [
+       "Both world titles",
+       "w"
+      ]
+     ],
+     "art": [
+      "🏆",
+      "🏆"
+     ],
+     "count": false
+    },
+    {
+     "say": "That November, Mercedes bought most of it. The one-pound team became Mercedes, and won eight constructors' titles in a row.",
+     "lines": [
+      [
+       "Nov 2009",
+       "W"
+      ],
+      [
+       "Mercedes buys 75.1%",
+       "y"
+      ],
+      [
+       "then 8 titles in a row",
+       "s"
+      ]
+     ],
+     "art": [
+      "🏁",
+      "🏆"
+     ],
+     "count": false
+    }
+   ],
+   "cuts": [
+    7.3,
+    13.3,
+    22.0,
+    26.0,
+    29.6
+   ]
+  },
+  {
+   "chapter": "Push, pull",
+   "bg": "lilac",
+   "voice": "audio/long_002_s7.wav",
+   "beats": [
+    {
+     "say": "And that same Mercedes team brings us trick number six. February 2020, testing in Barcelona.",
+     "lines": [
+      [
+       "Mercedes, 2020",
+       "Y"
+      ],
+      [
+       "Barcelona testing",
+       "w"
+      ]
+     ],
+     "art": [
+      "🎥",
+      "🏎️"
+     ],
+     "count": false
+    },
+    {
+     "say": "Onboard cameras caught the driver pulling the steering wheel towards him on the straight.",
+     "lines": [
+      [
+       "The steering wheel",
+       "W"
+      ],
+      [
+       "moves in and out",
+       "y"
+      ]
+     ],
+     "art": [
+      "🎥",
+      "🛞"
+     ]
+    },
+    {
+     "say": "Push or pull the wheel, and the angle of the front tyres changed. They called it DAS. Dual Axis Steering.",
+     "lines": [
+      [
+       "DAS",
+       "y"
+      ],
+      [
+       "Dual Axis Steering",
+       "w"
+      ],
+      [
+       "push or pull to change the tyre angle",
+       "s"
+      ]
+     ],
+     "art": [
+      "🛞"
+     ],
+     "circle": 0
+    },
+    {
+     "say": "Yeh poori tarah legal tha. Lekin sirf ek saal ke liye.",
+     "cap": "It was completely legal. But only for one year.",
+     "lines": [
+      [
+       "Legal in 2020",
+       "w"
+      ],
+      [
+       "Banned from 2021",
+       "y"
+      ]
+     ],
+     "art": [
+      "📜",
+      "🚫"
+     ],
+     "count": false
+    }
+   ],
+   "cuts": [
+    8.0,
+    13.4,
+    21.5
+   ]
+  },
+  {
+   "chapter": "Now it's the rule",
+   "bg": "coral",
+   "voice": "audio/long_002_s8.wav",
+   "beats": [
+    {
+     "say": "So why does F1 keep banning its best ideas? Usually it's cost, safety, or rivals who can't keep up.",
+     "lines": [
+      [
+       "Why ban genius?",
+       "y"
+      ],
+      [
+       "cost, safety, rivals",
+       "w"
+      ]
+     ],
+     "art": [
+      "🚫"
+     ]
+    },
+    {
+     "say": "But here's the twist. The F-duct's idea, a wing that changes on the straight, led to DRS.",
+     "lines": [
+      [
+       "The twist",
+       "Y"
+      ],
+      [
+       "F-duct",
+       "w"
+      ],
+      [
+       "led to DRS",
+       "y"
+      ]
+     ],
+     "art": [
+      "🔘",
+      "💨"
+     ]
+    },
+    {
+     "say": "And in 2026, both wings now move. Straight mode for speed, corner mode for grip.",
+     "lines": [
+      [
+       "2026",
+       "Y"
+      ],
+      [
+       "Both wings move",
+       "y"
+      ],
+      [
+       "Straight Mode / Corner Mode",
+       "w"
+      ]
+     ],
+     "art": [
+      "🏎️",
+      "💨"
+     ],
+     "count": false
+    },
+    {
+     "say": "Jo idea kabhi ban hua tha, aaj wahi rulebook mein hai.",
+     "cap": "The idea that was once banned is in the rulebook today.",
+     "lines": [
+      [
+       "Banned then",
+       "w"
+      ],
+      [
+       "The rule now",
+       "y"
+      ]
+     ],
+     "art": [
+      "📜"
+     ],
+     "circle": 0
+    },
+    {
+     "say": "Next Friday: the IPL team that played just one season, and then vanished. Subscribe so you don't miss it.",
+     "lines": [
+      [
+       "Next Friday",
+       "Y"
+      ],
+      [
+       "The IPL team",
+       "y"
+      ],
+      [
+       "that lasted one season",
+       "w"
+      ]
+     ],
+     "art": [
+      "🏏"
+     ]
+    },
+    {
+     "say": "And tell us in the comments. Which banned trick should come back? The fan car, or six wheels?",
+     "lines": [
+      [
+       "Comment:",
+       "W"
+      ],
+      [
+       "Fan car or six wheels?",
+       "y"
+      ],
+      [
+       "which should come back?",
+       "s"
+      ]
+     ],
+     "art": [
+      "🌀",
+      "🛞"
+     ]
+    }
+   ],
+   "cuts": [
+    8.5,
+    16.1,
+    23.35,
+    25.7,
+    33.4
+   ]
+  }
+ ]
+}

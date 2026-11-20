@@ -177,7 +177,7 @@ Every idea needs its numbers verified (two sources) before it's made; reword or 
 **F1 Explained (Tuesdays)**
 | # | Angle | Idea | Status |
 |---|---|---|---|
-| F1-1 | Engineering | The fan car that won its only race and was withdrawn (Brabham BT46B, 1978): banned-tech Part 1 | idea |
+| F1-1 | Engineering | The fan car that won its only race and was withdrawn (Brabham BT46B, 1978): banned-tech Part 1 | made: long_002 chapter 2 (20 Nov); Saturday Short p017 |
 | F1-2 | Engineering | How a pit crew changes four tyres in about 2 seconds (record 1.80 s, McLaren, Qatar 2023: verify) | idea |
 | F1-3 | Business | How F1 makes money: Liberty Media bought it for ~$8B in 2017; where the yearly revenue goes (verify from Liberty filings) | idea |
 | F1-4 | Present | Las Vegas GP: the race F1 promotes itself and built a pit building for (verify costs; time it to race week) | idea |
@@ -187,7 +187,7 @@ Every idea needs its numbers verified (two sources) before it's made; reword or 
 | F1-8 | India | India's F1 race at the Buddh circuit (2011–13): why it stopped (tax dispute: verify) | idea |
 | F1-9 | Drivers | Arvid Lindblad: a Red Bull junior with Indian roots on the 2026 grid (verify) | idea |
 | F1-10 | History | Ferrari: the only team in every season since 1950 (verify) | idea |
-| F1-11 | Engineering | Banned-tech Part 2: Mercedes' DAS steering (2020) / Brawn's double diffuser (2009) | idea |
+| F1-11 | Engineering | Banned-tech Part 2: Mercedes' DAS steering (2020) / Brawn's double diffuser (2009) | made: long_002 chapters 6-7 (20 Nov). A Short on the £1 Brawn team is still free for a later Tuesday |
 | F1-12 | Drivers | Senna vs Prost: the rivalry that ended in a crash two years running (1989–90) | idea |
 
 **Cricket Money (Mondays)**
@@ -199,7 +199,7 @@ Every idea needs its numbers verified (two sources) before it's made; reword or 
 | C-4 | Players | One Kohli Instagram post vs a full IPL season salary (old idea 20; verify both) | idea |
 | C-5 | WPL | Women's Premier League: five teams sold for ₹4,670 cr in 2023 (verify); what they earn | idea |
 | C-6 | History | 1983 World Cup: what the winners were paid, and how money was raised for them (verify) | idea |
-| C-7 | Rise & fall | Kochi Tuskers: the IPL team that lasted one season (old idea 23) | idea |
+| C-7 | Rise & fall | Kochi Tuskers: the IPL team that lasted one season (old idea 23) | planned: long_003 (Fri 27 Nov, teased at the end of long_002). Kochi played only IPL 2011, terminated by BCCI; arbitration award / court ordered BCCI to pay (ESPN: ₹539 cr; verify) |
 | C-8 | Tech | What DRS/ball-tracking costs per match, and who pays (verify) | idea |
 
 **Who Keeps What (Wednesdays; the weekly 60–90 s deep reel)**
@@ -238,6 +238,13 @@ Every idea needs its numbers verified (two sources) before it's made; reword or 
 | OS-2 | Chess: what Gukesh earned for the world title (FIDE prize fund; verify) | idea |
 | OS-3 | Pro Kabaddi: from a new league to India's second most-watched (verify ratings) | idea |
 | OS-4 | Javelin: why the men's javelin was redesigned in 1986 (records got too long), the Neeraj Chopra link | idea |
+
+## Long videos and their Shorts
+| Long | Topic | Shorts |
+|---|---|---|
+| long_001 (14 Nov) | Nirma story | p011, p012 |
+| long_002 (20 Nov) | F1's banned tricks: fan car, six wheels, mass damper, F-duct, £1 Brawn team, DAS, 2026 active aero | **DUE Sat 21 Nov (p017):** the fan car, "This F1 car won its only race. Then it vanished." Kicker "F1 EXPLAINED #1". Reuse audio/long_002_s2 lines where possible; ends "The full story is on our YouTube channel, Behind The Hype." Facts: Brabham BT46B, Gordon Murray, Swedish GP 17 Jun 1978, Lauda won, fan officially "for cooling", withdrawn by Ecclestone after one race (FOCA politics), win stood (Wikipedia BT46, Motor Sport, The Race). Next Tuesday's F1 Explained takes F1-2 (pit stop). |
+| long_003 (27 Nov, planned) | Cricket: Kochi Tuskers, the one-season IPL team | — |
 
 ## Story reel queue (from 14 Nov; person + turning point + twist; verify everything)
 | # | Story | Hook draft | Status |
