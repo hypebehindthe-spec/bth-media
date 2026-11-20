@@ -240,6 +240,8 @@ Every idea needs its numbers verified (two sources) before it's made; reword or 
 | OS-4 | Javelin: why the men's javelin was redesigned in 1986 (records got too long), the Neeraj Chopra link | idea |
 
 ## Long videos and their Shorts
+**TODO Sat 21 Nov, before the Short: finish long_002.** 7 of 8 sections are voiced, accent-checked and cut (spec long/long_002.json). Section 4 (Renault mass damper) came back EMPTY 4 times on 20 Nov (long_002_s4, _b, _c, _e), while other sections worked between failures, so the text may be the trigger: on Saturday, after the Gemini quota resets (~1:30 PM IST), try `long_002_s4_f` with the short style line; if empty, reword it once (e.g. drop "moveable aerodynamic device", keep the facts) as `long_002_s4_g` and update the beat `say`. Then set its cuts, build with bth_long.py, check frames, fill the chapters and duration in long/long_002_upload.md, push, and notify the owner with the guide link. Make Saturday's Short (p017) from audio already recorded if voice quota is short (the fan-car lines are in audio/long_002_s1.wav and long_002_s2_e.wav).
+
 | Long | Topic | Shorts |
 |---|---|---|
 | long_001 (14 Nov) | Nirma story | p011, p012 |

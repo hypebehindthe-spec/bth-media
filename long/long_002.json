@@ -88,7 +88,7 @@
   {
    "chapter": "The fan car",
    "bg": "mint",
-   "voice": "audio/long_002_s2.wav",
+   "voice": "audio/long_002_s2_e.wav",
    "beats": [
     {
      "say": "Sweden, 1978. Brabham's designer, Gordon Murray, put a giant fan on the back of his car.",
@@ -191,6 +191,12 @@
       "🏁"
      ]
     }
+   ],
+   "cuts": [
+    8.0,
+    11.1,
+    17.2,
+    25.2
    ]
   },
   {
