@@ -1,0 +1,421 @@
+{
+ "out": "long/long_002_ig_p1.mp4",
+ "voice": "long/long_002_ig_p1_voice.wav",
+ "mood": "dark",
+ "seed": 203,
+ "cuts": [
+  9.3,
+  13.5,
+  24.55,
+  32.85,
+  35.95,
+  42.05,
+  50.05,
+  61.4,
+  68.6,
+  74.2,
+  79.2,
+  85.5,
+  92.49,
+  99.69,
+  107.49,
+  117.69,
+  124.25
+ ],
+ "beats": [
+  {
+   "say": "In 1978, a Formula 1 car won its very first race. Easily. And it never raced again.",
+   "lines": [
+    [
+     "F1'S BANNED TRICKS · PART 1",
+     "Y"
+    ],
+    [
+     "Won its first race.",
+     "w"
+    ],
+    [
+     "Never raced again.",
+     "y"
+    ],
+    [
+     "1978",
+     "s"
+    ]
+   ],
+   "art": [
+    "🏎️"
+   ],
+   "bg": "sky"
+  },
+  {
+   "say": "Socho. Jeetne wali car ko hi garage mein band kar diya.",
+   "cap": "Think about it. They locked the winning car away in the garage.",
+   "lines": [
+    [
+     "The winner",
+     "W"
+    ],
+    [
+     "locked away",
+     "y"
+    ]
+   ],
+   "art": [
+    "🔒",
+    "🏎️"
+   ],
+   "bg": "sky"
+  },
+  {
+   "say": "This is the story of F1's banned tricks. Six ideas so clever, the sport had to stop them. And the last twist? It's now in the rulebook.",
+   "lines": [
+    [
+     "6 banned tricks",
+     "y"
+    ],
+    [
+     "too clever to keep",
+     "w"
+    ],
+    [
+     "and the last twist is now the rule",
+     "s"
+    ]
+   ],
+   "art": [
+    "📜",
+    "🚫"
+   ],
+   "circle": 1,
+   "count": false,
+   "bg": "sky"
+  },
+  {
+   "say": "Sweden, 1978. Brabham's designer, Gordon Murray, put a giant fan on the back of his car.",
+   "lines": [
+    [
+     "Sweden, 1978",
+     "Y"
+    ],
+    [
+     "A giant fan",
+     "y"
+    ],
+    [
+     "on the back of the car",
+     "w"
+    ],
+    [
+     "Brabham BT46B · designer Gordon Murray",
+     "g"
+    ]
+   ],
+   "art": [
+    "🌀",
+    "🏎️"
+   ],
+   "circle": 0,
+   "bg": "mint"
+  },
+  {
+   "say": "Officially, it was there to cool the engine.",
+   "lines": [
+    [
+     "Officially:",
+     "W"
+    ],
+    [
+     "\"for cooling\"",
+     "y"
+    ]
+   ],
+   "art": [
+    "🌡️"
+   ],
+   "bg": "mint"
+  },
+  {
+   "say": "Lekin asli kaam kuch aur tha. Woh fan car ke neeche se hawa kheench leta tha.",
+   "cap": "But its real job was something else. It sucked the air out from under the car.",
+   "lines": [
+    [
+     "Real job:",
+     "W"
+    ],
+    [
+     "suck the air",
+     "y"
+    ],
+    [
+     "from under the car",
+     "w"
+    ]
+   ],
+   "art": [
+    "💨",
+    "🌀"
+   ],
+   "bg": "mint"
+  },
+  {
+   "say": "That pulled the car down onto the track, so it could corner faster. Niki Lauda won the Swedish Grand Prix with it.",
+   "lines": [
+    [
+     "Niki Lauda",
+     "y"
+    ],
+    [
+     "wins the 1978 Swedish GP",
+     "w"
+    ]
+   ],
+   "art": [
+    "🏆",
+    "🏁"
+   ],
+   "bg": "mint"
+  },
+  {
+   "say": "Rival teams were furious. Brabham's boss, Bernie Ecclestone, needed their support, so he withdrew the car after one race. The win still stands.",
+   "lines": [
+    [
+     "Withdrawn",
+     "y"
+    ],
+    [
+     "after one race",
+     "w"
+    ],
+    [
+     "The win still stands",
+     "s"
+    ]
+   ],
+   "art": [
+    "🏁"
+   ],
+   "bg": "mint"
+  },
+  {
+   "say": "Two years earlier, Tyrrell tried something even stranger. A car with six wheels.",
+   "lines": [
+    [
+     "1976",
+     "Y"
+    ],
+    [
+     "Six wheels",
+     "y"
+    ],
+    [
+     "Tyrrell P34",
+     "w"
+    ]
+   ],
+   "art": [
+    "🏎️",
+    "🛞"
+   ],
+   "count": false,
+   "bg": "lilac"
+  },
+  {
+   "say": "Four tiny front wheels sat behind the front wing, so less air hit them.",
+   "lines": [
+    [
+     "4 tiny front wheels",
+     "y"
+    ],
+    [
+     "hidden behind the wing",
+     "w"
+    ],
+    [
+     "less drag",
+     "s"
+    ]
+   ],
+   "art": [
+    "🛞"
+   ],
+   "count": false,
+   "bg": "lilac"
+  },
+  {
+   "say": "But small tyres grip less. So they used two pairs instead of one.",
+   "lines": [
+    [
+     "Small tyres grip less",
+     "W"
+    ],
+    [
+     "so: two pairs",
+     "y"
+    ]
+   ],
+   "art": [
+    "🛞",
+    "🛞"
+   ],
+   "bg": "lilac"
+  },
+  {
+   "say": "Aur yeh mazaak nahi tha. Sweden, 1976 mein, Tyrrell first aur second aaye.",
+   "cap": "And this was no joke. In Sweden in 1976, Tyrrell finished first and second.",
+   "lines": [
+    [
+     "Sweden 1976",
+     "W"
+    ],
+    [
+     "1st and 2nd",
+     "y"
+    ],
+    [
+     "Jody Scheckter, Patrick Depailler",
+     "g"
+    ]
+   ],
+   "art": [
+    "🥇",
+    "🥈"
+   ],
+   "count": false,
+   "bg": "lilac"
+  },
+  {
+   "say": "It's still the only six-wheeled car ever to win a Grand Prix. Six-wheelers never came back.",
+   "lines": [
+    [
+     "The only six-wheeler",
+     "y"
+    ],
+    [
+     "to win a Grand Prix",
+     "w"
+    ]
+   ],
+   "art": [
+    "🏆"
+   ],
+   "circle": 0,
+   "bg": "lilac"
+  },
+  {
+   "say": "Jump to 2005. Inside the nose of the Renault sat a weight, mounted on springs.",
+   "lines": [
+    [
+     "Renault, 2005",
+     "Y"
+    ],
+    [
+     "A moving weight",
+     "y"
+    ],
+    [
+     "hidden in the nose",
+     "w"
+    ]
+   ],
+   "art": [
+    "⚖️",
+    "🏎️"
+   ],
+   "circle": 0,
+   "bg": "coral"
+  },
+  {
+   "say": "When the car went over bumps, the weight moved the other way and calmed the car down. So the tyres kept their grip.",
+   "lines": [
+    [
+     "Calms the bounce",
+     "y"
+    ],
+    [
+     "tyres stay planted",
+     "w"
+    ],
+    [
+     "the \"mass damper\"",
+     "s"
+    ]
+   ],
+   "art": [
+    "🛞",
+    "⚖️"
+   ],
+   "bg": "coral"
+  },
+  {
+   "say": "In 2006, the stewards in Germany said it was legal. But the FIA appealed against its own stewards, and the device was banned.",
+   "lines": [
+    [
+     "Stewards: legal",
+     "w"
+    ],
+    [
+     "FIA: appeal",
+     "y"
+    ],
+    [
+     "\"a moveable aerodynamic device\"",
+     "s"
+    ]
+   ],
+   "art": [
+    "⚖️",
+    "📜"
+   ],
+   "bg": "coral"
+  },
+  {
+   "say": "Renault had to remove it in the middle of the season. Even so, Renault won both championships.",
+   "lines": [
+    [
+     "Gone mid-season",
+     "W"
+    ],
+    [
+     "Still won",
+     "w"
+    ],
+    [
+     "both titles",
+     "y"
+    ],
+    [
+     "2006: drivers' and constructors'",
+     "g"
+    ]
+   ],
+   "art": [
+    "🏆",
+    "🏆"
+   ],
+   "bg": "coral"
+  },
+  {
+   "say": "Part 2 is next. Follow so you don't miss it.",
+   "lines": [
+    [
+     "PART 2 IS NEXT",
+     "Y"
+    ],
+    [
+     "Follow",
+     "w"
+    ],
+    [
+     "so you don't miss it",
+     "y"
+    ]
+   ],
+   "art": [
+    "🏁"
+   ],
+   "count": false,
+   "bg": "sun"
+  }
+ ]
+}

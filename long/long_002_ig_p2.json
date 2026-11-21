@@ -1,0 +1,489 @@
+{
+ "out": "long/long_002_ig_p2.mp4",
+ "voice": "long/long_002_ig_p2_voice.wav",
+ "mood": "dark",
+ "seed": 204,
+ "cuts": [
+  7.7,
+  16.1,
+  23.0,
+  28.0,
+  36.47,
+  44.07,
+  50.07,
+  58.77,
+  62.77,
+  66.37,
+  75.84,
+  84.14,
+  89.54,
+  97.64,
+  102.41,
+  111.21,
+  118.81,
+  126.06,
+  130.51,
+  138.01,
+  144.45
+ ],
+ "beats": [
+  {
+   "say": "2010. McLaren arrived with something rivals couldn't see at first. They called it the F-duct.",
+   "lines": [
+    [
+     "F1'S BANNED TRICKS · PART 2",
+     "Y"
+    ],
+    [
+     "The F-duct",
+     "y"
+    ]
+   ],
+   "art": [
+    "🏎️",
+    "🔍"
+   ],
+   "bg": "sun"
+  },
+  {
+   "say": "On the straight, the driver covered a hole in the cockpit with his knee. That sent air to the rear wing, and stalled it.",
+   "lines": [
+    [
+     "Cover a hole",
+     "w"
+    ],
+    [
+     "with your knee",
+     "y"
+    ],
+    [
+     "air stalls the rear wing",
+     "s"
+    ]
+   ],
+   "art": [
+    "🦵",
+    "💨"
+   ],
+   "circle": 0,
+   "bg": "sun"
+  },
+  {
+   "say": "Less drag, more top speed. In the corners, he moved his knee away, and the grip came back.",
+   "lines": [
+    [
+     "Less drag",
+     "y"
+    ],
+    [
+     "more top speed",
+     "w"
+    ]
+   ],
+   "art": [
+    "💨",
+    "🚀"
+   ],
+   "bg": "sun"
+  },
+  {
+   "say": "Doosri teams ne copy kiya. Phir sab teams ne milkar ise ban kar diya.",
+   "cap": "Other teams copied it. Then all the teams agreed to ban it.",
+   "lines": [
+    [
+     "Rivals copied it",
+     "W"
+    ],
+    [
+     "then voted it out",
+     "y"
+    ],
+    [
+     "gone for 2011",
+     "g"
+    ]
+   ],
+   "art": [
+    "📋",
+    "🚫"
+   ],
+   "bg": "sun"
+  },
+  {
+   "say": "But the idea lived on. For 2011, F1 replaced it with a button. You know it as DRS.",
+   "lines": [
+    [
+     "Replaced by",
+     "W"
+    ],
+    [
+     "DRS",
+     "y"
+    ],
+    [
+     "the overtaking flap, 2011",
+     "s"
+    ]
+   ],
+   "art": [
+    "🔘"
+   ],
+   "circle": 0,
+   "bg": "sun"
+  },
+  {
+   "say": "Now the best story of all. December 2008. Honda quits Formula 1.",
+   "lines": [
+    [
+     "Dec 2008",
+     "Y"
+    ],
+    [
+     "Honda quits F1",
+     "y"
+    ]
+   ],
+   "art": [
+    "🏭",
+    "🚪"
+   ],
+   "count": false,
+   "bg": "mint"
+  },
+  {
+   "say": "Team boss Ross Brawn takes over the team. The reported price? One pound.",
+   "lines": [
+    [
+     "Reported price:",
+     "W"
+    ],
+    [
+     "£1",
+     "y"
+    ],
+    [
+     "Brawn GP is born",
+     "s"
+    ]
+   ],
+   "art": [
+    "coin:£"
+   ],
+   "count": false,
+   "bg": "mint"
+  },
+  {
+   "say": "Hidden in its car was a loophole: a double diffuser. Extra channels under the floor sucked the car onto the track.",
+   "lines": [
+    [
+     "The loophole:",
+     "W"
+    ],
+    [
+     "double diffuser",
+     "y"
+    ],
+    [
+     "more grip from under the floor",
+     "s"
+    ]
+   ],
+   "art": [
+    "🏎️",
+    "🔍"
+   ],
+   "circle": 1,
+   "bg": "mint"
+  },
+  {
+   "say": "Jenson Button won six of the first seven races.",
+   "lines": [
+    [
+     "6 of the first 7",
+     "y"
+    ],
+    [
+     "races won",
+     "w"
+    ],
+    [
+     "Jenson Button, 2009",
+     "g"
+    ]
+   ],
+   "art": [
+    "🏆"
+   ],
+   "count": false,
+   "bg": "mint"
+  },
+  {
+   "say": "Ek pound ki team. Aur dono world championship.",
+   "cap": "A one-pound team. And both world championships.",
+   "lines": [
+    [
+     "£1 team",
+     "y"
+    ],
+    [
+     "Both world titles",
+     "w"
+    ]
+   ],
+   "art": [
+    "🏆",
+    "🏆"
+   ],
+   "count": false,
+   "bg": "mint"
+  },
+  {
+   "say": "That November, Mercedes bought most of it. The one-pound team became Mercedes, and won eight constructors' titles in a row.",
+   "lines": [
+    [
+     "Nov 2009",
+     "W"
+    ],
+    [
+     "Mercedes buys 75.1%",
+     "y"
+    ],
+    [
+     "then 8 titles in a row",
+     "s"
+    ]
+   ],
+   "art": [
+    "🏁",
+    "🏆"
+   ],
+   "count": false,
+   "bg": "mint"
+  },
+  {
+   "say": "And that same Mercedes team brings us trick number six. February 2020, testing in Barcelona.",
+   "lines": [
+    [
+     "Mercedes, 2020",
+     "Y"
+    ],
+    [
+     "Barcelona testing",
+     "w"
+    ]
+   ],
+   "art": [
+    "🎥",
+    "🏎️"
+   ],
+   "count": false,
+   "bg": "lilac"
+  },
+  {
+   "say": "Onboard cameras caught the driver pulling the steering wheel towards him on the straight.",
+   "lines": [
+    [
+     "The steering wheel",
+     "W"
+    ],
+    [
+     "moves in and out",
+     "y"
+    ]
+   ],
+   "art": [
+    "🎥",
+    "🛞"
+   ],
+   "bg": "lilac"
+  },
+  {
+   "say": "Push or pull the wheel, and the angle of the front tyres changed. They called it DAS. Dual Axis Steering.",
+   "lines": [
+    [
+     "DAS",
+     "y"
+    ],
+    [
+     "Dual Axis Steering",
+     "w"
+    ],
+    [
+     "push or pull to change the tyre angle",
+     "s"
+    ]
+   ],
+   "art": [
+    "🛞"
+   ],
+   "circle": 0,
+   "bg": "lilac"
+  },
+  {
+   "say": "Yeh poori tarah legal tha. Lekin sirf ek saal ke liye.",
+   "cap": "It was completely legal. But only for one year.",
+   "lines": [
+    [
+     "Legal in 2020",
+     "w"
+    ],
+    [
+     "Banned from 2021",
+     "y"
+    ]
+   ],
+   "art": [
+    "📜",
+    "🚫"
+   ],
+   "count": false,
+   "bg": "lilac"
+  },
+  {
+   "say": "So why does F1 keep banning its best ideas? Usually it's cost, safety, or rivals who can't keep up.",
+   "lines": [
+    [
+     "Why ban genius?",
+     "y"
+    ],
+    [
+     "cost, safety, rivals",
+     "w"
+    ]
+   ],
+   "art": [
+    "🚫"
+   ],
+   "bg": "coral"
+  },
+  {
+   "say": "But here's the twist. The F-duct's idea, a wing that changes on the straight, led to DRS.",
+   "lines": [
+    [
+     "The twist",
+     "Y"
+    ],
+    [
+     "F-duct",
+     "w"
+    ],
+    [
+     "led to DRS",
+     "y"
+    ]
+   ],
+   "art": [
+    "🔘",
+    "💨"
+   ],
+   "bg": "coral"
+  },
+  {
+   "say": "And in 2026, both wings now move. Straight mode for speed, corner mode for grip.",
+   "lines": [
+    [
+     "2026",
+     "Y"
+    ],
+    [
+     "Both wings move",
+     "y"
+    ],
+    [
+     "Straight Mode / Corner Mode",
+     "w"
+    ]
+   ],
+   "art": [
+    "🏎️",
+    "💨"
+   ],
+   "count": false,
+   "bg": "coral"
+  },
+  {
+   "say": "Jo idea kabhi ban hua tha, aaj wahi rulebook mein hai.",
+   "cap": "The idea that was once banned is in the rulebook today.",
+   "lines": [
+    [
+     "Banned then",
+     "w"
+    ],
+    [
+     "The rule now",
+     "y"
+    ]
+   ],
+   "art": [
+    "📜"
+   ],
+   "circle": 0,
+   "bg": "coral"
+  },
+  {
+   "say": "Next Friday: the IPL team that played just one season, and then vanished. Subscribe so you don't miss it.",
+   "lines": [
+    [
+     "Next Friday",
+     "Y"
+    ],
+    [
+     "The IPL team",
+     "y"
+    ],
+    [
+     "that lasted one season",
+     "w"
+    ]
+   ],
+   "art": [
+    "🏏"
+   ],
+   "bg": "coral"
+  },
+  {
+   "say": "And tell us in the comments. Which banned trick should come back? The fan car, or six wheels?",
+   "lines": [
+    [
+     "Comment:",
+     "W"
+    ],
+    [
+     "Fan car or six wheels?",
+     "y"
+    ],
+    [
+     "which should come back?",
+     "s"
+    ]
+   ],
+   "art": [
+    "🌀",
+    "🛞"
+   ],
+   "bg": "coral"
+  },
+  {
+   "say": "Full video on YouTube: Behind The Hype.",
+   "lines": [
+    [
+     "FULL VIDEO ON YOUTUBE",
+     "Y"
+    ],
+    [
+     "Behind The Hype",
+     "y"
+    ],
+    [
+     "link in bio",
+     "s"
+    ]
+   ],
+   "art": [
+    "▶️"
+   ],
+   "count": false,
+   "bg": "sun"
+  }
+ ]
+}
