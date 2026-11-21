@@ -1,4 +1,4 @@
-# Long video 002: F1's Banned Tricks (4:30)
+# Long video 002: F1's Banned Tricks (3:45)
 
 **Files**
 - Video: https://raw.githubusercontent.com/hypebehindthe-spec/bth-media/main/long/long_002.mp4
@@ -14,13 +14,13 @@ A Formula 1 car that won its first race and never raced again. A six-wheeler tha
 
 Chapters
 0:00 Banned for being brilliant
-0:24 The fan car
-1:01 Six wheels
-1:32 The weight in the nose
-2:04 The knee trick
-2:41 The one-pound team
-3:20 Push, pull
-3:47 Now it's the rule
+0:20 The fan car
+0:51 Six wheels
+1:17 The weight in the nose
+1:43 The knee trick
+2:14 The one-pound team
+2:47 Push, pull
+3:09 Now it's the rule
 
 Which banned trick should come back: the fan car or six wheels? Tell us in the comments.
 Next Friday: the IPL team that lasted one season. Subscribe so you don't miss it.
