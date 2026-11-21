@@ -315,10 +315,10 @@
   {
    "chapter": "The weight in the nose",
    "bg": "coral",
-   "voice": "audio/long_002_s4.wav",
+   "voice": "audio/long_002_s4_h.wav",
    "beats": [
     {
-     "say": "Jump to 2005. Renault hid a weight inside the nose of its car. A weight that was free to move.",
+     "say": "Jump to 2005. Inside the nose of the Renault sat a weight, mounted on springs.",
      "lines": [
       [
        "Renault, 2005",
@@ -340,7 +340,7 @@
      "circle": 0
     },
     {
-     "say": "When the car bounced, the weight moved against the bounce and calmed it down. The tyres stayed planted.",
+     "say": "When the car went over bumps, the weight moved the other way and calmed the car down. So the tyres kept their grip.",
      "lines": [
       [
        "Calms the bounce",
@@ -361,7 +361,7 @@
      ]
     },
     {
-     "say": "In 2006, the race stewards in Germany said it was legal. The FIA appealed against its own stewards, calling it a moveable aerodynamic device.",
+     "say": "In 2006, the stewards in Germany said it was legal. But the FIA appealed against its own stewards, and the device was banned.",
      "lines": [
       [
        "Stewards: legal",
@@ -382,8 +382,7 @@
      ]
     },
     {
-     "say": "Renault took it off the car mid-season. Phir bhi, Renault ne dono championship jeet li.",
-     "cap": "Renault took it off the car mid-season. Still, Renault won both championships.",
+     "say": "Renault had to remove it in the middle of the season. Even so, Renault won both championships.",
      "lines": [
       [
        "Gone mid-season",
@@ -407,6 +406,11 @@
       "🏆"
      ]
     }
+   ],
+   "cuts": [
+    6.9,
+    14.7,
+    24.9
    ]
   },
   {

@@ -1,4 +1,4 @@
-# Long video 002: F1's Banned Tricks (DURATION)
+# Long video 002: F1's Banned Tricks (4:30)
 
 **Files**
 - Video: https://raw.githubusercontent.com/hypebehindthe-spec/bth-media/main/long/long_002.mp4
@@ -13,7 +13,14 @@ F1 Banned Tech Explained: 6 Tricks Too Clever to Keep
 A Formula 1 car that won its first race and never raced again. A six-wheeler that finished first and second. A one-pound team that won both world titles. These are F1's banned tricks, how each one worked, why the sport stopped it, and why the last idea is now in the 2026 rulebook.
 
 Chapters
-CHAPTERS
+0:00 Banned for being brilliant
+0:24 The fan car
+1:01 Six wheels
+1:32 The weight in the nose
+2:04 The knee trick
+2:41 The one-pound team
+3:20 Push, pull
+3:47 Now it's the rule
 
 Which banned trick should come back: the fan car or six wheels? Tell us in the comments.
 Next Friday: the IPL team that lasted one season. Subscribe so you don't miss it.

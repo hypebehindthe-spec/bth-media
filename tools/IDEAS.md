@@ -240,7 +240,7 @@ Every idea needs its numbers verified (two sources) before it's made; reword or 
 | OS-4 | Javelin: why the men's javelin was redesigned in 1986 (records got too long), the Neeraj Chopra link | idea |
 
 ## Long videos and their Shorts
-**TODO Sat 21 Nov (after 1:30 PM IST): finish long_002.** 7 of 8 sections are voiced, accent-checked and cut (spec long/long_002.json). Section 4 (Renault mass damper) is still EMPTY: 4 takes on 20 Nov plus `long_002_s4_f` (original text, short style) and `long_002_s4_g` (reworded: no "moveable aerodynamic device", "mounted on springs", "the device was banned") at 07:57 IST on 21 Nov, both 0 bytes, although post_017_vo (39 s) worked at 07:50. Next try, after 1:30 PM IST: `long_002_s4_h`, English only (drop the Hindi last line, end "Even so, Renault won both championships."), short style. If that is empty too, rewrite the chapter from scratch with different words (no "weight", "nose", "hidden") as `_i`. Then update the beat `say`, set cuts, build with bth_long.py, check frames, fill chapters and duration in long/long_002_upload.md, push, notify the owner with the guide link.
+**long_002 finished 21 Nov (4:30).** Section 4 voiced as `long_002_s4_h` (English only, reworded) after 6 empty takes; built, pushed, upload guide ready for the owner.
 
 | Long | Topic | Shorts |
 |---|---|---|
