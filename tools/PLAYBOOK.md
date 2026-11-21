@@ -175,6 +175,10 @@ Long videos earn subscribers; Shorts earn views. One 4–7 minute story video a 
   - Don't make test takes on Thursdays or Fridays.
 - Voice: one "BTH – Voiceover" run PER VOICE SECTION (file_name `long_NNN_sN`), never one long run: Gemini returns empty or cut-off takes on long text. Check every take: file over 100 KB, and transcribe it (reel-transcriber skill, `--lang en`) to confirm the whole section is there with no long silence. Redo a bad take with a NEW file_name and the short style line.
 - Build: `python3 tools/bth_long.py long/long_NNN.json` (1920x1080, 25 fps; writes the .mp4, .srt subtitles and _chapters.txt). Thumbnail: `python3 tools/bth_thumb_long.py '{"line1": ..., "line2": ..., "tag": ..., "art": ..., "art2": ..., "bg": ...}' long/long_NNN_thumb.jpg` (two lines of 2–3 words, words different from the title, one illustration ringed in red). Check frames at 0 s and every chapter, and the thumbnail, with the Read tool.
+- Instagram version (owner, 21 Nov: wants the full video on Instagram too). Run `python3 tools/long_to_vertical.py long/long_NNN.json "1-4" "5-8"`. Split by whole sections so each part stays under 3:00, because Instagram only recommends reels up to 3 minutes to non-followers. Set `"ig_tag"` in the spec, e.g. "F1'S BANNED TRICKS · PART {n}".
+  - This builds vertical Part 1/Part 2 reels from the same voice files: no extra voice calls, and no size cap because the owner posts them by hand.
+  - Check frames.
+  - Write `long/long_NNN_instagram.md` (download links, two captions, steps) like long_002's, and link it in the notification.
 - Deliver: push the mp4, srt, thumbnail and `long/long_NNN_upload.md` (title under 60 characters with the brand/person name first, description with a 2-line summary, the chapters list, sources and links, tags, upload steps). Then PushNotification: "This week's long video is ready to upload: <title>. Steps: https://github.com/hypebehindthe-spec/bth-media/blob/main/long/long_NNN_upload.md". Never upload it ourselves (Make's free plan can't carry files over 5 MB).
 
 ## Research scan (weekly, Mondays)
