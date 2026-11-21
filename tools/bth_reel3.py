@@ -29,7 +29,7 @@ from PIL import Image, ImageDraw, ImageFilter, ImageFont
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
 import bth_music  # noqa: E402
-from bth_reel import FD, W, H, M, INK, YEL, WHITE, wrap, segments, cap_size  # noqa: E402
+from bth_reel import FD, W, H, M, INK, YEL, WHITE, wrap, segments, cap_size, speed_up, SPEED  # noqa: E402
 from bth_reel2 import FPS, NUM, ease, fmt_like, pauses, word_times, chunks  # noqa: E402
 from scipy.io import wavfile  # noqa: E402
 
@@ -381,8 +381,9 @@ def build(spec_path):
     subprocess.run(["ffmpeg", "-v", "error", "-y", "-i", vnorm, "-i", music, "-i", sfx, "-i", video,
                     "-filter_complex", mix, "-map", "3:v", "-map", "[aout]", "-c:v", "copy", "-c:a", "aac",
                     "-b:a", "128k", "-ar", "48000", "-ac", "2", "-movflags", "+faststart", "-shortest", out], check=True)
+    sp = speed_up(out, spec.get("speed", SPEED))   # durations below are before the speed-up
     cap_size(out)
-    print(json.dumps({"out": out, "duration": round(dur, 2), "segments": [round(s, 2) for s in segs],
+    print(json.dumps({"out": out, "speed": sp, "final_duration": round(dur / sp, 2), "duration": round(dur, 2), "segments": [round(s, 2) for s in segs],
                       "bytes": os.path.getsize(out)}))
 
 

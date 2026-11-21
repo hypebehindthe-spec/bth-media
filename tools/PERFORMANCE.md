@@ -24,6 +24,7 @@ Updated by the daily run on Mondays and Thursdays from the Make "insights" pull.
 | # | Title | YouTube id | Link | Uploaded | Shorts pointing to it |
 |---|---|---|---|---|---|
 | long_001 | The Nirma Story: How a Bicycle Salesman Beat HUL | YLu389so9LY | https://youtu.be/YLu389so9LY | 2026-11-15 | p011, p012 (Related video to be set once the owner's YouTube verification clears) |
+| long_002 | F1 Banned Tech Explained: 6 Tricks Too Clever to Keep | X_nu1WJxYcU | https://youtu.be/X_nu1WJxYcU | 2026-11-21 | p017 (owner sets Related video) |
 
 ## Followers / subscribers (owner-reported)
 | Date | Instagram followers | YouTube subscribers | Note |

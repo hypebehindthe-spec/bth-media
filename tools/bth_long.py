@@ -27,7 +27,7 @@ from PIL import Image, ImageDraw, ImageFilter, ImageFont
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
 import bth_music  # noqa: E402
-from bth_reel import FD, INK, YEL, WHITE, wrap, segments  # noqa: E402
+from bth_reel import FD, INK, YEL, WHITE, wrap, segments, speed_up, SPEED  # noqa: E402
 from bth_reel2 import NUM, ease, fmt_like, pauses, word_times, chunks  # noqa: E402
 from bth_reel3 import art_image, soft_shadow, ease_back, paste_photo, PALETTE, ORDER, RED, whoosh, pop, tick, SR  # noqa: E402
 from scipy.io import wavfile  # noqa: E402
@@ -317,7 +317,11 @@ def build(spec_path):
     subprocess.run(["ffmpeg", "-v", "error", "-y", "-i", voice, "-i", music, "-i", sfx, "-i", video,
                     "-filter_complex", mix, "-map", "3:v", "-map", "[aout]", "-c:v", "copy", "-c:a", "aac",
                     "-b:a", "160k", "-ar", "48000", "-ac", "2", "-movflags", "+faststart", "-shortest", out], check=True)
-    # 5. subtitles + chapters
+    # 5. speed-up (owner, 21 Nov: 1.2x), then subtitles + chapters retimed to match
+    sp = speed_up(out, spec.get("speed", SPEED))
+    caps = [[(w, a / sp, b / sp) for w, a, b in c] for c in caps]
+    chapters = [(a / sp, n) for a, n in chapters]
+    total = total / sp
     base = os.path.splitext(out)[0]
     with open(base + ".srt", "w") as f:
         for i, c in enumerate(caps, 1):

@@ -183,12 +183,29 @@ def build(spec_path):
     subprocess.run(["ffmpeg", "-v", "error", "-y", "-i", voice, "-i", music, "-i", video, "-filter_complex", mix,
                     "-map", "2:v", "-map", "[aout]", "-c:v", "copy", "-c:a", "aac", "-b:a", "128k", "-ar", "48000",
                     "-ac", "2", "-movflags", "+faststart", "-shortest", out], check=True)
+    sp = speed_up(out, spec.get("speed", SPEED))   # durations below are before the speed-up
     cap_size(out)
-    print(json.dumps({"out": out, "duration": round(dur, 2), "segments": [round(s, 2) for s in segs],
+    print(json.dumps({"out": out, "speed": sp, "final_duration": round(dur / sp, 2), "duration": round(dur, 2), "segments": [round(s, 2) for s in segs],
                       "bytes": os.path.getsize(out)}))
 
 
 MAX_BYTES = 4_600_000  # Make's free plan refuses files over 5 MB
+
+
+SPEED = 1.2  # owner, 21 Nov: every video and Short plays at 1.2x (voice pitch kept); a spec can set "speed"
+
+
+def speed_up(path, factor=SPEED):
+    """Speed a finished mp4 up (video and audio together, pitch kept). Returns the factor applied."""
+    if not factor or abs(factor - 1) < 0.01:
+        return 1.0
+    tmp = path + ".speed.mp4"
+    subprocess.run(["ffmpeg", "-v", "error", "-y", "-i", path, "-filter_complex",
+                    f"[0:v]setpts=PTS/{factor}[v];[0:a]atempo={factor}[a]", "-map", "[v]", "-map", "[a]",
+                    "-c:v", "libx264", "-preset", "veryfast", "-crf", "21", "-pix_fmt", "yuv420p",
+                    "-c:a", "aac", "-b:a", "160k", "-ar", "48000", "-ac", "2", "-movflags", "+faststart", tmp], check=True)
+    os.replace(tmp, path)
+    return factor
 
 
 def cap_size(path):
