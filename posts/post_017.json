@@ -1,54 +1,193 @@
 {
  "out": "posts/post_017.mp4",
- "voice": "audio/post_017_vo.wav",
+ "voice": "audio/post_017_vo_v2.wav",
  "mood": "drive",
  "seed": 1717,
- "cuts": [7.1, 13.7, 18.55, 22.8, 29.7, 33.2],
+ "cuts": [
+  7.1,
+  13.7,
+  18.55,
+  22.8,
+  29.7,
+  33.2
+ ],
  "beats": [
   {
    "say": "You've never seen this F1 car race twice. It won by 34 seconds, then its own team pulled it. Why?",
-   "lines": [["F1 EXPLAINED #1", "Y"], ["Won its only race.", "y"], ["Then it vanished.", "w"], ["Formula 1, 1978", "s"]],
-   "art": ["🏎️", "🌀"],
+   "lines": [
+    [
+     "F1 EXPLAINED #1",
+     "Y"
+    ],
+    [
+     "Won its only race.",
+     "y"
+    ],
+    [
+     "Then it vanished.",
+     "w"
+    ],
+    [
+     "Formula 1, 1978",
+     "s"
+    ]
+   ],
+   "art": [
+    "🏎️",
+    "🌀"
+   ],
    "bg": "sky"
   },
   {
    "say": "Sweden, 1978. Brabham put a giant fan on the back. Officially, to cool the engine.",
-   "lines": [["Sweden, 1978", "Y"], ["A giant fan", "y"], ["\"to cool the engine\"", "w"], ["Brabham BT46B, designer Gordon Murray", "g"]],
-   "art": ["🌀", "🌡️"],
+   "lines": [
+    [
+     "Sweden, 1978",
+     "Y"
+    ],
+    [
+     "A giant fan",
+     "y"
+    ],
+    [
+     "\"to cool the engine\"",
+     "w"
+    ],
+    [
+     "Brabham BT46B, designer Gordon Murray",
+     "g"
+    ]
+   ],
+   "art": [
+    "🌀",
+    "🌡️"
+   ],
    "count": false,
    "bg": "mint"
   },
   {
    "say": "लेकिन असली काम कुछ और था। फैन कार के नीचे से हवा खींच लेता था।",
    "cap": "But its real job was different. It sucked the air from under the car.",
-   "lines": [["Real job:", "W"], ["suck the air", "y"], ["from under the car", "w"]],
-   "art": ["💨", "🏎️"],
+   "lines": [
+    [
+     "Real job:",
+     "W"
+    ],
+    [
+     "suck the air",
+     "y"
+    ],
+    [
+     "from under the car",
+     "w"
+    ]
+   ],
+   "art": [
+    "💨",
+    "🏎️"
+   ],
    "bg": "lilac"
   },
   {
    "say": "कार ट्रैक से चिपक गई। And Niki Lauda won, easily.",
    "cap": "The car stuck to the track. And Niki Lauda won, easily.",
-   "lines": [["Niki Lauda", "y"], ["wins the Swedish GP", "w"], ["by 34 seconds", "s"], ["17 June 1978", "g"]],
-   "art": ["🏆", "🏁"],
+   "lines": [
+    [
+     "Niki Lauda",
+     "y"
+    ],
+    [
+     "wins the Swedish GP",
+     "w"
+    ],
+    [
+     "by 34 seconds",
+     "s"
+    ],
+    [
+     "17 June 1978",
+     "g"
+    ]
+   ],
+   "art": [
+    "🏆",
+    "🏁"
+   ],
    "count": false,
    "bg": "sun"
   },
   {
    "say": "Rivals were furious. Brabham's boss, Bernie Ecclestone, needed their support, so he pulled it after one race.",
-   "lines": [["Rivals: furious", "W"], ["Pulled", "y"], ["after one race", "w"], ["The win still stands", "s"]],
-   "art": ["😠", "🚫"],
+   "lines": [
+    [
+     "Rivals: furious",
+     "W"
+    ],
+    [
+     "Pulled",
+     "y"
+    ],
+    [
+     "after one race",
+     "w"
+    ],
+    [
+     "The win still stands",
+     "s"
+    ]
+   ],
+   "art": [
+    "😠",
+    "🚫"
+   ],
    "bg": "coral"
   },
   {
    "say": "Genius, or cheating? Send this to your F1-mad friend.",
-   "lines": [["Genius", "y"], ["or cheating?", "w"], ["Send this to your F1-mad friend", "s"]],
-   "art": ["🧠", "⚖️"],
+   "lines": [
+    [
+     "Genius",
+     "y"
+    ],
+    [
+     "or cheating?",
+     "w"
+    ],
+    [
+     "Send this to your F1-mad friend",
+     "s"
+    ]
+   ],
+   "art": [
+    "🧠",
+    "⚖️"
+   ],
    "bg": "sky"
   },
   {
-   "say": "Every Tuesday, one F1 secret. Follow for number two. The full story is on our YouTube channel, Behind The Hype.",
-   "lines": [["Every Tuesday", "W"], ["one F1 secret", "y"], ["Full story: YouTube", "w"], ["Behind The Hype", "s"]],
-   "art": ["📺", "🏎️"],
+   "say": "One F1 secret, every week. Follow for number two. The full story is on our YouTube channel, Behind The Hype.",
+   "lines": [
+    [
+     "Every week",
+     "W"
+    ],
+    [
+     "one F1 secret",
+     "y"
+    ],
+    [
+     "Full story: YouTube",
+     "w"
+    ],
+    [
+     "Behind The Hype",
+     "s"
+    ]
+   ],
+   "art": [
+    "📺",
+    "🏎️"
+   ],
    "count": false,
    "bg": "mint"
   }
