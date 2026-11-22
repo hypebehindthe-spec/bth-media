@@ -19,6 +19,7 @@ Updated by the daily run on Mondays and Thursdays from the Make "insights" pull.
 | 014 | Above MRP: ₹100 restaurant water legal? | pre-series | illustrated | You + rupee number + "is that legal?" question | 57 WORKABLE | 35.8 | 164 | 142 | 11.1 | 43.4 | 0 | 0 | 0.00 | – (YouTube upload failed 17 Nov) | 2026-11-19 (36 h) · best so far, confirm at 48 h Monday |
 | 015 | Milk ₹76 now: who gets the extra? Amul, Mother Dairy | pre-series | illustrated | You + rupee number + "who gets it?" question | 74 STRONG | 35.6 | 146 | 114 | 9.2 | 48.7 | 0 | 0 | 0.00 | 17 | 2026-11-19 (12 h) |
 | 016 | Kailasa temple: 2 lakh tonnes of rock, cut by hand, roof first | India Built This #1 | illustrated + 2 Commons photos, Hindi mix voice (romanised) | You + impossible claim (cranes vs chisels) | 55 WORKABLE | 39.1 | – | – | – | – | – | – | – | – | made 19 Nov |
+| 018 | Chandrayaan-3 vs Luna-25: India landed for less than a Hollywood film | Space Money #1 | illustrated + 1 NASA photo, Hindi mix voice (Devanagari) | X vs Y money | 58 WORKABLE | 38.7 | – | – | – | – | – | – | – | – | made 22 Nov |
 
 ## Long videos (owner uploads by hand; include these ids in every insights pull)
 | # | Title | YouTube id | Link | Uploaded | Shorts pointing to it |
