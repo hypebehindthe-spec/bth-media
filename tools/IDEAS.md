@@ -228,7 +228,7 @@ Every idea needs its numbers verified (two sources) before it's made; reword or 
 **Space Money / other sports (alternate Sundays; space is a 4-reel test)**
 | # | Idea | Status |
 |---|---|---|
-| SP-1 | Chandrayaan-3 cost less than many films (ISRO's cost figure vs a film budget: verify both) | idea |
+| SP-1 | Chandrayaan-3 cost less than many films (ISRO's cost figure vs a film budget: verify both) | made (p018, 22 Nov): Space Money #1. Luna-25 ~₹1,600 cr reported, crashed 20 Aug 2023 (Tribune, Statesman, BI $200M); Chandrayaan-3 ~₹615 cr / ~$74M reported press figures, ISRO gave no breakdown (Tribune, Statesman, DH ₹613 cr, BI); landed 23 Aug near the south pole, first in that region (BI); Interstellar $165M (BI, Statesman); ₹615 cr ÷ 140 cr people = ₹4.39 each. Next Space Money (alternate Sunday 6 Dec slot is the carousel test, so space #2 on 13 Dec or later): SP-2 Mangalyaan |
 | SP-2 | Mangalyaan: Mars on a budget (cost per km: compute) | idea |
 | SP-3 | How ISRO earns money: NSIL commercial launches, e.g. the OneWeb satellites (verify contract value) | idea |
 | SP-4 | A day on Venus is longer than its year (NASA) + what it would cost to go | idea |
