@@ -116,6 +116,34 @@ Run with post_type "research" (about 60–80 credits). Score = views ÷ channel 
 4. Space is the weakest of the new pillars: test it every other Sunday with a money/India angle (ISRO costs), not general facts.
 5. Cricket business Shorts get little search on YouTube but big shares on Instagram. Lead cricket with Instagram-first angles: player and team money, who gets paid.
 
+## Scan 5 — 23 Nov 2026 (Instagram last ~25 posts; Shorts from India, last 45 days, by views)
+Run with post_type "research". Score = views ÷ channel subscribers for YouTube Shorts, likes ÷ the account's median likes for Instagram. (Data store housekeeping: 12 empty/stale research records deleted so every record fits in the 100-row list.)
+
+| Outlier | Views | Score | Pattern |
+|---|---|---|---|
+| YT "The 2,000-year-old dam that STILL works! Kallanai" (517 subs) | 148K | 286x | **India Built This**: our H-4, moved to this Thursday |
+| YT "400 saal pehle pahaad ke andar paani kaise pahunchate the? Ancient Indian engineering" (607 subs) | 214K | 352x | India's engineering marvels, Hindi, "how did they do it?" question |
+| YT "One mountain. One temple. Ellora" (877 subs) | 80K | 91x | Same topic as our p016 (113 IG views): the topic travels, our version's hook/visuals didn't |
+| YT "How does an F1 crew change four tyres in two seconds?" (202K subs) | 4.1M | 20x | F1 engineering, one question (still rising since scan 4): F1-2 this Tuesday, Qatar race week |
+| YT "Every IPL ball is worth ₹49 lakh? Dhandhe ka hisaab #2" (26 subs) | 1.2K | 45x | Cricket money per unit (our C-3, media rights per ball/match) |
+| YT "Kya IPL players ko sach me 25 cr milte hain?" (61 subs) | 5.4K | 88x | Who really gets the auction money (tax, instalments): auction week idea |
+| YT "IPL 2026 all 10 teams purse remaining" (380 subs) | 94K | 246x | Auction purse table: carousel cheat sheet before 16 Dec |
+| IG @untoldlessons_0: "IPL team bought ~$112M in 2008, sells ~₹16,600 cr in 2026" | 867K | 7.3x | Same idea as our p019 (made today) |
+| IG @untoldlessons_0: "₹7,000 flight ticket: what the airline keeps" | 2.6M | 12.7x | Who keeps what (W-1, still the account's top post) |
+| IG @labourlawadvisor: "Don't miss these IRCTC hacks" | 137K likes | 57x | Everyday system everyone uses |
+| IG @marketingmind.in: "GTA 6 made $3.79B on day one" | 40K likes | 38x | One huge launch-day money number (fresh news) |
+
+**Takeaways (scan 5)**
+1. India Built This: the topic pool is still the biggest (90–350x on tiny channels) even though p016 flopped for us. The winners ask a "how did they do it?" question with a number ("2,000-year-old", "400 years ago") and show the place. Give the test its full 4 reels; Kallanai next.
+2. Cricket money with a per-unit number (per ball, per match, per player) and auction-week angles is where small channels break out. The auction (16 Dec, Goa) is the cricket hook for the next three Mondays.
+3. F1 pit stop (one engineering question) keeps compounding: make it tomorrow.
+
+**Weekly checks (23 Nov)**
+- F1: Las Vegas GP done (22 Nov, Verstappen won); Qatar GP 27–29 Nov (Lusail), Abu Dhabi finale 6 Dec. Antonelli (Mercedes) has the 2026 title wrapped up per RacingNews365 (402 pts vs Verstappen 304 after Vegas, RaceFans). Business: Cadillac F1 stake talks (owner reportedly wants $3B+; Fenway's exclusive window lapsed, Front Office Sports 20 Nov) → idea F1-13.
+- Cricket: no India men's home match until Sri Lanka from 13 Dec; India are in New Zealand (2-Test series from 19 Nov: confirm dates before using). IPL 2027 auction 16 Dec, Goa; purse left ₹297.95 cr across 10 teams, 66 slots (LSG most ₹47.45 cr, GT least ₹8.75 cr; Esquire + News24).
+- Deals: APL Apollo Tubes to buy Tata Steel's tubes business (₹11,700 cr cash) and 100% of Tata Steel Colors (₹16,300 cr), ~₹28,000 cr total; Tata Steel board approved 22 Nov; needs CCI and shareholder approval (Business Standard, Upstox) → idea 51. Nothing else big in major press 16–23 Nov.
+- Results: no famous Indian company reports 23–29 Nov. US: Dell, HP, Workday, Deere this week (low India angle; skip).
+
 ## Idea matrix (6 subtopics × 6 formats)
 Subtopic 6, Deals (M&A), was added by the owner on 8 Nov: trending and lesser-known mergers and acquisitions, in India and globally. Rules are in the PLAYBOOK "Deals (M&A)" section.
 Subtopic 7, Results decoded, was added by the owner on 8 Nov: brief decodes of a famous company's latest quarterly or yearly results, made within 1–3 days of the results. Rules are in the PLAYBOOK "Results decoded" section. These are filled from the weekly results calendar, so they jump the queue when due.
@@ -164,6 +192,7 @@ Pruned 9 Nov (weak in the scans or too abstract): 12 railways, 14 iPhone India v
 | 48 | Deals (M&A) | F2 | ITC Infotech buys Happiest Minds: 25 shares for every 81, ITC ends with 73.4% (verify approvals) | idea |
 | 49 | Who earns more | F4 | IRCTC again: where your ₹ goes on a train ticket (only with public fare breakdown data) | idea |
 | 50 | Prices in India | F4 | Milk price hike (12 Nov 2026): who gets your extra ₹4? Amul ~80% / Mother Dairy 75-80% of sales to farmers | made (p015, illustrated reel: Mother Dairy full cream ₹70 early May, ₹72 on 14 May, ₹76 on 12 Nov; ~₹3 of ₹4 to farmers; petrol pump ₹4.47 callback to p013) |
+| 51 | Deals (M&A) | F2 | Tata Steel sells its tubes + Colors businesses to APL Apollo for ~₹28,000 cr (approved by Tata Steel's board 22 Nov; CCI pending): why sell? (verify multiple from filings) | idea (Wed slot candidate) |
 | 47 | Results decoded | F4 | IRCTC Q2 FY27 (12 Nov): sales +16%, profit -23% after a ₹116 cr Rail Neer GST provision; ticketing keeps ₹84 of every ₹100 vs food ₹10 | made (p010, illustrated reel) |
 
 Timely posts made outside the matrix (news hook + proven pattern):
@@ -178,7 +207,7 @@ Every idea needs its numbers verified (two sources) before it's made; reword or 
 | # | Angle | Idea | Status |
 |---|---|---|---|
 | F1-1 | Engineering | The fan car that won its only race and was withdrawn (Brabham BT46B, 1978): banned-tech Part 1 | made: long_002 chapter 2 (20 Nov); Saturday Short p017 |
-| F1-2 | Engineering | How a pit crew changes four tyres in about 2 seconds (record 1.80 s, McLaren, Qatar 2023: verify) | idea |
+| F1-2 | Engineering | How a pit crew changes four tyres in about 2 seconds (record 1.80 s, McLaren, Qatar 2023: verify) | **next: Tue 24 Nov** (Qatar GP week, scan 5 outlier still rising) |
 | F1-3 | Business | How F1 makes money: Liberty Media bought it for ~$8B in 2017; where the yearly revenue goes (verify from Liberty filings) | idea |
 | F1-4 | Present | Las Vegas GP: the race F1 promotes itself and built a pit building for (verify costs; time it to race week) | idea |
 | F1-5 | Rules | 2026 cars: about half the power is now electric. What changed and why (FIA 2026 regulations) | idea |
@@ -189,18 +218,21 @@ Every idea needs its numbers verified (two sources) before it's made; reword or 
 | F1-10 | History | Ferrari: the only team in every season since 1950 (verify) | idea |
 | F1-11 | Engineering | Banned-tech Part 2: Mercedes' DAS steering (2020) / Brawn's double diffuser (2009) | made: long_002 chapters 6-7 (20 Nov). A Short on the £1 Brawn team is still free for a later Tuesday |
 | F1-12 | Drivers | Senna vs Prost: the rivalry that ended in a crash two years running (1989–90) | idea |
+| F1-13 | Business | Cadillac's F1 team: in the sport for one season, owner reportedly asking $3B+ for a stake (Front Office Sports, Sportico; verify) | idea |
 
 **Cricket Money (Mondays)**
 | # | Angle | Idea | Status |
 |---|---|---|---|
 | C-1 | Who gets paid | When India tours abroad, who earns the TV money? Home boards keep it (scan 4 outlier: verify how ICC/BCCI revenue is split) | idea |
-| C-2 | Teams | An IPL team bought for ~$112M in 2008: what a team is worth now (old idea 19; verify any 2026 sale) | idea |
-| C-3 | Rights | IPL media rights ₹48,390 cr for 2023–27: what one match is worth (compute per match) | idea |
+| C-2 | Teams | An IPL team bought for ~$112M in 2008: what a team is worth now (old idea 19; verify any 2026 sale) | made (p019, 23 Nov): Cricket Money #1. RR $67M in 2008, cheapest (Wikipedia, CSR Journal, CricTracker), won IPL 2008; valued at $1.65B in May 2026, Mittal-led group (Reuters/TimesLive, Outlook Business, DH ₹15,600 cr) = 24.6x; RCB $111.6M in 2008 (CricTracker), ~$1.78B in March 2026 (Gulf News; ~$1.8B Bloomberg, ThePrint) = 16x |
+| C-3 | Rights | IPL media rights ₹48,390 cr for 2023–27: what one match (and one ball) is worth (compute; scan 5 "every ball ₹49 lakh" outlier) | next: Mon 30 Nov |
 | C-4 | Players | One Kohli Instagram post vs a full IPL season salary (old idea 20; verify both) | idea |
 | C-5 | WPL | Women's Premier League: five teams sold for ₹4,670 cr in 2023 (verify); what they earn | idea |
 | C-6 | History | 1983 World Cup: what the winners were paid, and how money was raised for them (verify) | idea |
 | C-7 | Rise & fall | Kochi Tuskers: the IPL team that lasted one season (old idea 23) | planned: long_003 (Fri 27 Nov, teased at the end of long_002). Kochi played only IPL 2011, terminated by BCCI; arbitration award / court ordered BCCI to pay (ESPN: ₹539 cr; verify) |
 | C-8 | Tech | What DRS/ball-tracking costs per match, and who pays (verify) | idea |
+| C-9 | Auction | Auction week: does a ₹25 cr player really get ₹25 cr? (tax, how it's paid; scan 5 outlier 88x) — make Mon 14 Dec, before the 16 Dec auction | idea |
+| C-10 | Auction | Carousel cheat sheet: every team's purse left for the 16 Dec auction (₹297.95 cr, 66 slots; refresh figures first) — candidate for a Sunday carousel slot | idea |
 
 **Who Keeps What (Wednesdays; the weekly 60–90 s deep reel)**
 | # | Idea | Status |
@@ -212,14 +244,15 @@ Every idea needs its numbers verified (two sources) before it's made; reword or 
 | W-5 | Your food-delivery order: restaurant, platform, delivery partner, GST (public filings only; owner OK) | idea |
 | W-6 | A cab ride: driver vs platform vs taxes (public data only) | idea |
 | W-7 | IRCTC again (old idea 49) / gold jewellery making charges / medicine MRP | idea |
+| W-8 | Winner remake of p014 ("is that legal?"): "You paid ₹X service charge. Was that legal?" or "Can a chemist sell above MRP?" Walk through who keeps what + what the rule says (CCPA guidelines, Delhi HC 2025; verify) | next: Wed 25 Nov |
 
 **India Built This (Thursdays; history test, 4 reels before a verdict)**
 | # | Idea | Status |
 |---|---|---|
-| H-1 | Ellora's Kailasa temple: carved top-down out of one rock (tonnes of rock removed: verify, ASI) | made (p016, 19 Nov: 2 lakh tonnes [Live History India, Lonely Planet], ~760 CE Krishna I, top-down, 33 m [Wikipedia, Sahapedia]; time taken 5.5 vs 150 years is the debate) |
+| H-1 | Ellora's Kailasa temple: carved top-down out of one rock (tonnes of rock removed: verify, ASI) | dud (113 IG views, 68.9% skip, 2 YT views at 85 h) · made (p016, 19 Nov: 2 lakh tonnes [Live History India, Lonely Planet], ~760 CE Krishna I, top-down, 33 m [Wikipedia, Sahapedia]; time taken 5.5 vs 150 years is the debate) |
 | H-2 | Delhi's iron pillar: about 1,600 years without rusting (IIT Kanpur study; verify) | idea |
 | H-3 | Rani ki Vav: the stepwell on the ₹100 note (UNESCO) | idea |
-| H-4 | Kallanai (Grand Anicut): a ~2,000-year-old dam still in use (verify) | idea |
+| H-4 | Kallanai (Grand Anicut): a ~2,000-year-old dam still in use (verify) | **next: Thu 26 Nov** (scan 5 outlier 286x). Open on the question, not the answer: "How does a 2,000-year-old dam still work?" |
 | H-5 | Mumbai's dabbawalas: a near-zero-error system with no app (old idea 7) | idea |
 | H-6 | Konark's wheels that tell the time (verify how) | idea |
 | H-7 | Pamban bridge: 1914 and its 2025 vertical-lift replacement | idea |
@@ -272,4 +305,4 @@ A post is a **winner** when, after 48 hours, its views are 2x+ the page's median
 | p007 PVR guess + X vs Y (illustrated) | YouTube 336 (2.7x the YouTube median) at 133 h; IG skip 70.2%, average | p013 is a guess reel on a new everyday number | pending |
 | p010 IRCTC Q2 (where your ₹ goes + culprit, illustrated) | IG skip 47.7% vs page avg 70.1%, avg watch 10.9 s vs 5.9 s, at 59 h (16 Nov) | p013 petrol pump: where your ₹102 goes (16 Nov) | pending |
 | p011 Nirma girl (story Short) | Watch: IG skip 44.6% at 109 h (confirmed 19 Nov; page avg 64.8%), avg watch 7.4 s | India Built This uses the same "thing you know, story you don't" opening (p016) | pending |
-| p014 Restaurant water above MRP | Best IG numbers yet at 36 h: 164 views, 142 reach, 43.4% skip, 11.1 s watch; confirm at 48 h+ Monday | Next: another "is that legal?" everyday rule inside Who Keeps What (e.g. W-7 medicine MRP) | pending |
+| p014 Restaurant water above MRP | **Confirmed 23 Nov (133 h): first reel past the test pool.** IG 306 views / 255 reach (2.4x median 128), YT 303 (3.1x median 97), 1 share, 54.2% skip | Wed 25 Nov Who Keeps What deep reel on the same "is that legal?" pattern: W-8 (service charge / medicine MRP) unless the APL Apollo deal (idea 51) is stronger | pending |

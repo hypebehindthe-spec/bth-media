@@ -4,22 +4,24 @@ Updated by the daily run on Mondays and Thursdays from the Make "insights" pull.
 
 | # | Title | Series | Style | Hook type | Hook score | Length s | IG views | Reach | Avg watch s | Skip rate % | Shares | Saves | Sends/reach % | YT views | Checked |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 002 | KKR bid ₹25.20 crore. Green gets ₹18 crore. Why? | pre-series | v1 slideshow | Shocking number + why | – | 48.8 | 123 | 109 | 5.1 | 75.9 | 0 | 0 | 0.00 | 29 | 2026-11-19 (293 h) |
-| 003 | India now moves ₹1 lakh crore a day on UPI | pre-series | v1 slideshow | Big number | – | 50.1 | 88 | 84 | 2.5 | 89.2 | 0 | 0 | 0.00 | 12 | 2026-11-19 (294 h) · dud |
-| 004 | ₹60,000 crore on Dhanteras gold. Same amount of gold. | pre-series | v1 slideshow | Big number + catch | – | 48.0 | 119 | 103 | 6.4 | 73.8 | 0 | 0 | 0.00 | 16 | 2026-11-19 (281 h) |
-| 005 | Guess: one town makes what % of India's Diwali crackers? | pre-series | v2 | Guess the number | – | 39.5 | 120 | 108 | 3.9 | 78.4 | 0 | 0 | 0.00 | 141 | 2026-11-19 (259 h) |
-| 006 | Tata Steel Q2: India made more profit than all of Tata Steel | pre-series | illustrated (1 of 3) | Shocking number + why | 58 WORKABLE | 39.3 | 120 | 108 | 5.3 | 71.2 | 0 | 0 | 0.00 | 255 | 2026-11-19 (228 h) |
-| 007 | Guess: PVR ticket or popcorn, which earns more per ₹100? | pre-series | illustrated (2 of 3) | Guess + X vs Y | 70 WORKABLE | 35.7 | 123 | 101 | 7.7 | 70.2 | 0 | 0 | 0.00 | 347 | 2026-11-19 (204 h) |
-| 008 | Kalyan Jewellers Q2: profit up 64%, but ₹73 cr came from land | pre-series | illustrated (3 of 3) | Shocking number + catch | 60 WORKABLE | 36.4 | 142 | 119 | 4.6 | 73.6 | 1 | 0 | 0.84 | 99 | 2026-11-19 (180 h) |
-| 009 | Tata Power Q2: profit +49%, solar & wind +8%, coal & hydro 2.6x | pre-series | illustrated (rebuilt from v2 on owner's note) | X vs Y (solar vs coal) + guess | 56 WORKABLE | 34.9 | 113 | 104 | 4.9 | 76.7 | 0 | 1 | 0.00 | 190 | 2026-11-19 (156 h) |
-| 010 | IRCTC Q2: sales +16%, profit -23%, blame the water | pre-series | illustrated | You + shocking number ("Where your ₹ goes" twist) | 60 WORKABLE | 37.3 | 143 | 107 | 10.8 | 47.7 | 0 | 0 | 0.00 | 125 | 2026-11-19 (130 h) · winner |
-| 011 | Nirma girl: the 1969 story behind the packet | pre-series | illustrated | "You never asked" question | 65 WORKABLE | 37.4 | 128 | 109 | 7.4 | 44.6 | 0 | 0 | 0.00 | 154 | 2026-11-19 (109 h) |
-| 012 | Nirma vs HUL: why Wheel was launched in 1988 | pre-series | illustrated | "You don't know" + named rivals | 61 WORKABLE | 35.8 | 125 | 108 | 8.1 | 61.5 | 0 | 0 | 0.00 | 43 | 2026-11-19 (66 h) |
-| 013 | Guess: of ₹102 petrol, how much does the pump keep? | pre-series | illustrated | Guess + you + rupee number | 75 STRONG | 36.3 | 140 | 119 | 7.8 | 52.1 | 0 | 0 | 0.00 | 92 | 2026-11-19 (60 h) |
-| 014 | Above MRP: ₹100 restaurant water legal? | pre-series | illustrated | You + rupee number + "is that legal?" question | 57 WORKABLE | 35.8 | 164 | 142 | 11.1 | 43.4 | 0 | 0 | 0.00 | – (YouTube upload failed 17 Nov) | 2026-11-19 (36 h) · best so far, confirm at 48 h Monday |
-| 015 | Milk ₹76 now: who gets the extra? Amul, Mother Dairy | pre-series | illustrated | You + rupee number + "who gets it?" question | 74 STRONG | 35.6 | 146 | 114 | 9.2 | 48.7 | 0 | 0 | 0.00 | 17 | 2026-11-19 (12 h) |
-| 016 | Kailasa temple: 2 lakh tonnes of rock, cut by hand, roof first | India Built This #1 | illustrated + 2 Commons photos, Hindi mix voice (romanised) | You + impossible claim (cranes vs chisels) | 55 WORKABLE | 39.1 | – | – | – | – | – | – | – | – | made 19 Nov |
-| 018 | Chandrayaan-3 vs Luna-25: India landed for less than a Hollywood film | Space Money #1 | illustrated + 1 NASA photo, Hindi mix voice (Devanagari) | X vs Y money | 58 WORKABLE | 38.7 | – | – | – | – | – | – | – | – | made 22 Nov |
+| 002 | KKR bid ₹25.20 crore. Green gets ₹18 crore. Why? | pre-series | v1 slideshow | Shocking number + why | – | 48.8 | 123 | 109 | 5.1 | 75.9 | 0 | 0 | 0.00 | 29 | 2026-11-23 (IG as of 16 Nov) |
+| 003 | India now moves ₹1 lakh crore a day on UPI | pre-series | v1 slideshow | Big number | – | 50.1 | 88 | 84 | 2.5 | 89.2 | 0 | 0 | 0.00 | 12 | 2026-11-23 (IG as of 16 Nov) · dud |
+| 004 | ₹60,000 crore on Dhanteras gold. Same amount of gold. | pre-series | v1 slideshow | Big number + catch | – | 48.0 | 119 | 103 | 6.4 | 73.8 | 0 | 0 | 0.00 | 16 | 2026-11-23 (IG as of 16 Nov) |
+| 005 | Guess: one town makes what % of India's Diwali crackers? | pre-series | v2 | Guess the number | – | 39.5 | 120 | 108 | 3.9 | 78.4 | 0 | 0 | 0.00 | 141 | 2026-11-23 (IG as of 16 Nov) |
+| 006 | Tata Steel Q2: India made more profit than all of Tata Steel | pre-series | illustrated (1 of 3) | Shocking number + why | 58 WORKABLE | 39.3 | 120 | 108 | 5.3 | 71.2 | 0 | 0 | 0.00 | 255 | 2026-11-23 (IG as of 19 Nov) |
+| 007 | Guess: PVR ticket or popcorn, which earns more per ₹100? | pre-series | illustrated (2 of 3) | Guess + X vs Y | 70 WORKABLE | 35.7 | 123 | 101 | 7.7 | 70.2 | 0 | 0 | 0.00 | 350 | 2026-11-23 (IG as of 19 Nov) |
+| 008 | Kalyan Jewellers Q2: profit up 64%, but ₹73 cr came from land | pre-series | illustrated (3 of 3) | Shocking number + catch | 60 WORKABLE | 36.4 | 142 | 119 | 4.6 | 73.6 | 1 | 0 | 0.84 | 99 | 2026-11-23 (IG as of 19 Nov) |
+| 009 | Tata Power Q2: profit +49%, solar & wind +8%, coal & hydro 2.6x | pre-series | illustrated (rebuilt from v2 on owner's note) | X vs Y (solar vs coal) + guess | 56 WORKABLE | 34.9 | 113 | 104 | 4.9 | 76.7 | 0 | 1 | 0.00 | 190 | 2026-11-23 (IG as of 19 Nov) |
+| 010 | IRCTC Q2: sales +16%, profit -23%, blame the water | pre-series | illustrated | You + shocking number ("Where your ₹ goes" twist) | 60 WORKABLE | 37.3 | 144 | 108 | 11.0 | 47.3 | 0 | 0 | 0.00 | 128 | 2026-11-23 (227 h) · winner |
+| 011 | Nirma girl: the 1969 story behind the packet | pre-series | illustrated | "You never asked" question | 65 WORKABLE | 37.4 | 131 | 110 | 7.4 | 45.1 | 0 | 0 | 0.00 | 174 | 2026-11-23 (205 h) |
+| 012 | Nirma vs HUL: why Wheel was launched in 1988 | pre-series | illustrated | "You don't know" + named rivals | 61 WORKABLE | 35.8 | 128 | 109 | 8.0 | 61.3 | 0 | 0 | 0.00 | 47 | 2026-11-23 (163 h) |
+| 013 | Guess: of ₹102 petrol, how much does the pump keep? | pre-series | illustrated | Guess + you + rupee number | 75 STRONG | 36.3 | 141 | 120 | 7.7 | 52.5 | 0 | 0 | 0.00 | 97 | 2026-11-23 (157 h) |
+| 014 | Above MRP: ₹100 restaurant water legal? | pre-series | illustrated | You + rupee number + "is that legal?" question | 57 WORKABLE | 35.8 | 306 | 255 | 9.6 | 54.2 | 1 | 0 | 0.39 | 303 | 2026-11-23 (133 h) · **winner: first reel past the test pool (2.4x IG median, 3.1x YT median)** |
+| 015 | Milk ₹76 now: who gets the extra? Amul, Mother Dairy | pre-series | illustrated | You + rupee number + "who gets it?" question | 74 STRONG | 35.6 | 149 | 117 | 9.0 | 49.2 | 0 | 0 | 0.00 | 32 | 2026-11-23 (109 h) |
+| 016 | Kailasa temple: 2 lakh tonnes of rock, cut by hand, roof first | India Built This #1 | illustrated + 2 Commons photos, Hindi mix voice (romanised) | You + impossible claim (cranes vs chisels) | 55 WORKABLE | 39.1 | 113 | 106 | 3.9 | 68.9 | 0 | 0 | 0.00 | 2 | 2026-11-23 (85 h) · dud |
+| 017 | F1's fan car: won its only race, then its own team pulled it | F1 Explained #1 | illustrated, Short from long_002 | You + mystery | 68 WORKABLE | 39.3 | 135 | 125 | 8.3 | 47.2 | 0 | 0 | 0.00 | 53 | 2026-11-23 (19 h, too early) |
+| 018 | Chandrayaan-3 vs Luna-25: India landed for less than a Hollywood film | Space Money #1 | illustrated + 1 NASA photo, Hindi mix voice (Devanagari) | X vs Y money | 58 WORKABLE | 38.7 | 150 | 123 | 5.7 | 63.6 | 1 | 0 | 0.81 | 18 | 2026-11-23 (13 h, too early) |
+| IG 21 Nov 17:02 | Unmapped reel (likely the owner's hand-posted long_002 Instagram Part 1) | F1 long | vertical long cut | – | – | – | 138 | 123 | 8.6 | 71.4 | 0 | 0 | 0.00 | – | 2026-11-23 (33 h) |
 
 ## Long videos (owner uploads by hand; include these ids in every insights pull)
 | # | Title | YouTube id | Link | Uploaded | Shorts pointing to it |
@@ -31,6 +33,13 @@ Updated by the daily run on Mondays and Thursdays from the Make "insights" pull.
 | Date | Instagram followers | YouTube subscribers | Note |
 |---|---|---|---|
 | 2026-11-14 | 1 (the owner) | 2 | After 10 posts / 9 Shorts. Views come entirely from non-followers. |
+
+## What's working / what isn't (23 Nov, 17 reels with numbers)
+- **p014 restaurant water is the first reel to leave the test pool**: 306 views, 255 reach (every other reel 84–125), and 303 YouTube views, the page's 2nd best Short. It is 2.4x the IG median (128) and 3.1x the YouTube median (97). Its pattern: a rule about money everyone pays ("is that legal?") with the answer held back.
+- Watching is holding: the last 7 reels average 56.7% skip vs 75.7% for the first 8. The best holds are still everyday-money and story hooks: p011 45.1%, p017 F1 fan car 47.2% (19 h), p010 47.3%, p015 49.2%.
+- Sends are still near zero: 3 shares in 2,009 reach across 17 reels (0.15%). p018 Space Money got 1 share in its first 13 h (0.81%), the best early rate so far.
+- History test start is weak: p016 Kailasa 113 views, 68.9% skip, 3.9 s watch, and only 2 YouTube views. One data point of four.
+- YouTube Shorts stay split: older brand/results Shorts keep climbing (p007 350, p014 303, p006 255), new ones start slow (p015 32, p016 2, p018 18). The long videos are at 5 views (long_001); long_002 wasn't in this pull's first 100 data-store rows.
 
 ## What's working / what isn't (19 Nov, 14 reels with numbers)
 - Still capped at the cold test pool: IG views 88–164 (median 124), total reach 1,535, 1 share and 1 save across all 14 reels (sends per reach 0.07%). No reel has had a second push.
