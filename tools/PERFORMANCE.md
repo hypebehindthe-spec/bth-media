@@ -21,6 +21,7 @@ Updated by the daily run on Mondays and Thursdays from the Make "insights" pull.
 | 016 | Kailasa temple: 2 lakh tonnes of rock, cut by hand, roof first | India Built This #1 | illustrated + 2 Commons photos, Hindi mix voice (romanised) | You + impossible claim (cranes vs chisels) | 55 WORKABLE | 39.1 | 113 | 106 | 3.9 | 68.9 | 0 | 0 | 0.00 | 2 | 2026-11-23 (85 h) · dud |
 | 017 | F1's fan car: won its only race, then its own team pulled it | F1 Explained #1 | illustrated, Short from long_002 | You + mystery | 68 WORKABLE | 39.3 | 135 | 125 | 8.3 | 47.2 | 0 | 0 | 0.00 | 53 | 2026-11-23 (19 h, too early) |
 | 018 | Chandrayaan-3 vs Luna-25: India landed for less than a Hollywood film | Space Money #1 | illustrated + 1 NASA photo, Hindi mix voice (Devanagari) | X vs Y money | 58 WORKABLE | 38.7 | 150 | 123 | 5.7 | 63.6 | 1 | 0 | 0.81 | 18 | 2026-11-23 (13 h, too early) |
+| 019 | Rajasthan Royals: cheapest IPL team in 2008 ($67M), valued at $1.65B in 2026 | Cricket Money #1 | illustrated, Hindi mix voice (Devanagari, accent-checked) | You + number + guess | 62 WORKABLE | 37.4 | – | – | – | – | – | – | – | – | made 23 Nov |
 | IG 21 Nov 17:02 | Unmapped reel (likely the owner's hand-posted long_002 Instagram Part 1) | F1 long | vertical long cut | – | – | – | 138 | 123 | 8.6 | 71.4 | 0 | 0 | 0.00 | – | 2026-11-23 (33 h) |
 
 ## Long videos (owner uploads by hand; include these ids in every insights pull)
