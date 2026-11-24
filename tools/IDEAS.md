@@ -207,7 +207,7 @@ Every idea needs its numbers verified (two sources) before it's made; reword or 
 | # | Angle | Idea | Status |
 |---|---|---|---|
 | F1-1 | Engineering | The fan car that won its only race and was withdrawn (Brabham BT46B, 1978): banned-tech Part 1 | made: long_002 chapter 2 (20 Nov); Saturday Short p017 |
-| F1-2 | Engineering | How a pit crew changes four tyres in about 2 seconds (record 1.80 s, McLaren, Qatar 2023: verify) | **next: Tue 24 Nov** (Qatar GP week, scan 5 outlier still rising) |
+| F1-2 | Engineering | How a pit crew changes four tyres in about 2 seconds (record 1.80 s, McLaren, Qatar 2023: verify) | made (p020, 24 Nov): F1 Explained #2. 1.80 s, McLaren/Norris, Qatar 8 Oct 2023 (formula1.com, Guinness); prev 1.82 s Red Bull Brazil 2019 (formula1.com, Motorsport.com); ~20 crew, 3 per wheel (Motorsport.com, Outlook India); one nut per wheel (Motorsport.com, Outlook India); gun ~9,000 rpm (Jalopnik ~9,000, Motorsport.com 10,000+); thousands of practice stops (Motorsport.com, Visa Cash App RB); still unbeaten (F1 2025 anatomy article, F1 2026 awards best 1.99 s). Next F1 Explained: F1-3 business (Liberty Media) or F1-13 Cadillac stake |
 | F1-3 | Business | How F1 makes money: Liberty Media bought it for ~$8B in 2017; where the yearly revenue goes (verify from Liberty filings) | idea |
 | F1-4 | Present | Las Vegas GP: the race F1 promotes itself and built a pit building for (verify costs; time it to race week) | idea |
 | F1-5 | Rules | 2026 cars: about half the power is now electric. What changed and why (FIA 2026 regulations) | idea |
