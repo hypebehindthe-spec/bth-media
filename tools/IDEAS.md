@@ -244,7 +244,7 @@ Every idea needs its numbers verified (two sources) before it's made; reword or 
 | W-5 | Your food-delivery order: restaurant, platform, delivery partner, GST (public filings only; owner OK) | idea |
 | W-6 | A cab ride: driver vs platform vs taxes (public data only) | idea |
 | W-7 | IRCTC again (old idea 49) / gold jewellery making charges / medicine MRP | idea |
-| W-8 | Winner remake of p014 ("is that legal?"): "You paid ₹X service charge. Was that legal?" or "Can a chemist sell above MRP?" Walk through who keeps what + what the rule says (CCPA guidelines, Delhi HC 2025; verify) | next: Wed 25 Nov |
+| W-8 | Winner remake of p014 ("is that legal?"): service charge | made (p021, 25 Nov): Who Keeps What #1 (deep reel, 55.8 s). ₹2,000 food + 5% GST ₹100 (ClearTax, Razorpay) + 10% service charge ₹200 ("generally 10%", PTI via ThePrint/Business Today 2022) + GST on it ₹10 = ₹2,310; CCPA 4 Jul 2022: no service charge by default, no GST on the total (Business Today, ThePrint); Delhi HC single judge 28 Mar 2025: voluntary, unfair trade practice, ₹1 lakh costs each on NRAI/FHRAI to CCPA (LiveLaw, SCC Online, News On AIR), no material it reaches staff (Business Standard, Bar and Bench); division bench 19 Nov 2026: no interim relief, appeal admitted (Business Standard, Bar and Bench); NCH 1915. Next Who Keeps What: W-1 flight ticket or W-3 LPG |
 
 **India Built This (Thursdays; history test, 4 reels before a verdict)**
 | # | Idea | Status |
