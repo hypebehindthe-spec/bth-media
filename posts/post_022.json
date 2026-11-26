@@ -1,38 +1,245 @@
 {
  "out": "posts/post_022.mp4",
- "voice": "audio/post_022_vo_c.wav",
+ "voice": "audio/post_022_silent.wav",
  "mood": "chill",
  "seed": 2611,
- "cuts": [],
+ "cuts": [
+  5.98,
+  10.72,
+  14.23,
+  18.35,
+  22.47,
+  26.8,
+  30.31,
+  34.64
+ ],
  "beats": [
-  {"say": "You'd need cement and steel to stop a river. A Chola king used only stones. Two thousand years later, it still works. How?",
-   "lines": [["INDIA BUILT THIS #2", "Y"], ["No cement.", "y"], ["No steel.", "w"], ["Still working, 2,000 years on", "s"]],
-   "art": ["🪨", "🌊"], "bg": "sky", "count": false},
-  {"say": "This is Kallanai, on the Kaveri near Trichy. Built by King Karikala Chola, around the second century.",
-   "lines": [["Kallanai, Tamil Nadu", "Y"], ["2nd century", "y"], ["King Karikala Chola · Kaveri river", "w"]],
-   "art": ["🏞️"], "photo": "img/kallanai_a.jpg", "credit": "Photo: Beckamrajeev, CC BY-SA 3.0, Wikimedia Commons", "count": false},
-  {"say": "329 metres लंबा, और एक भी पत्थर तराशा नहीं गया।",
+  {
+   "say": "You'd need cement and steel to stop a river. A Chola king used only stones. Two thousand years later, it still works. How?",
+   "lines": [
+    [
+     "INDIA BUILT THIS #2",
+     "Y"
+    ],
+    [
+     "No cement.",
+     "y"
+    ],
+    [
+     "No steel.",
+     "w"
+    ],
+    [
+     "Still working, 2,000 years on",
+     "s"
+    ]
+   ],
+   "art": [
+    "🪨",
+    "🌊"
+   ],
+   "bg": "sky",
+   "count": false
+  },
+  {
+   "say": "This is Kallanai, on the Kaveri near Trichy. Built by King Karikala Chola, around the second century.",
+   "lines": [
+    [
+     "Kallanai, Tamil Nadu",
+     "Y"
+    ],
+    [
+     "2nd century",
+     "y"
+    ],
+    [
+     "King Karikala Chola · Kaveri river",
+     "w"
+    ]
+   ],
+   "art": [
+    "🏞️"
+   ],
+   "photo": "img/kallanai_a.jpg",
+   "credit": "Photo: Beckamrajeev, CC BY-SA 3.0, Wikimedia Commons",
+   "count": false
+  },
+  {
+   "say": "329 metres लंबा, और एक भी पत्थर तराशा नहीं गया।",
    "cap": "329 metres long. And not one stone was cut to shape.",
-   "lines": [["The size", "Y"], ["329 m", "y"], ["long, 20 m wide, 5.4 m high", "w"], ["all unhewn stone", "s"]],
-   "art": ["🪨", "📏"], "bg": "sun"},
-  {"say": "The trick? Huge uncut boulders, sunk straight into the sandy riverbed, in running water.",
-   "lines": [["The trick", "Y"], ["Boulders in sand", "y"], ["sunk into the riverbed, in running water", "w"]],
-   "art": ["🪨"], "photo": "img/kallanai_b.jpg", "credit": "Photo: Ashwin Kumar, CC BY-SA 2.0, Wikimedia Commons", "pc": [0.05, 0.55, 0.55, 0.3], "count": false},
-  {"say": "It splits the Kaveri into four streams, and fed sixty-nine thousand acres of farms.",
-   "lines": [["1 river, 4 streams", "Y"], ["69,000 acres", "y"], ["of farms watered", "w"]],
-   "art": ["🌾", "🌊"], "bg": "mint"},
-  {"say": "Centuries later, British engineer Arthur Cotton studied it, and learned how to build on sand.",
-   "lines": [["Centuries later", "Y"], ["The British studied it", "y"], ["Arthur Cotton learned to build on sand", "w"]],
-   "art": ["📐", "📜"], "bg": "lilac", "count": false},
-  {"say": "सोचो, जो सिखाने आए थे, वो यहाँ से सीखकर गए।",
+   "lines": [
+    [
+     "The size",
+     "Y"
+    ],
+    [
+     "329 m",
+     "y"
+    ],
+    [
+     "long, 20 m wide, 5.4 m high",
+     "w"
+    ],
+    [
+     "all unhewn stone",
+     "s"
+    ]
+   ],
+   "art": [
+    "🪨",
+    "📏"
+   ],
+   "bg": "sun"
+  },
+  {
+   "say": "The trick? Huge uncut boulders, sunk straight into the sandy riverbed, in running water.",
+   "lines": [
+    [
+     "The trick",
+     "Y"
+    ],
+    [
+     "Boulders in sand",
+     "y"
+    ],
+    [
+     "sunk into the riverbed, in running water",
+     "w"
+    ]
+   ],
+   "art": [
+    "🪨"
+   ],
+   "photo": "img/kallanai_b.jpg",
+   "credit": "Photo: Ashwin Kumar, CC BY-SA 2.0, Wikimedia Commons",
+   "pc": [
+    0.2,
+    0.62,
+    0.45,
+    0.25
+   ],
+   "count": false
+  },
+  {
+   "say": "It splits the Kaveri into four streams, and fed sixty-nine thousand acres of farms.",
+   "lines": [
+    [
+     "1 river, 4 streams",
+     "Y"
+    ],
+    [
+     "69,000 acres",
+     "y"
+    ],
+    [
+     "of farms watered",
+     "w"
+    ]
+   ],
+   "art": [
+    "🌾",
+    "🌊"
+   ],
+   "bg": "mint"
+  },
+  {
+   "say": "Centuries later, British engineer Arthur Cotton studied it, and learned how to build on sand.",
+   "lines": [
+    [
+     "Centuries later",
+     "Y"
+    ],
+    [
+     "The British studied it",
+     "y"
+    ],
+    [
+     "Arthur Cotton learned to build on sand",
+     "w"
+    ]
+   ],
+   "art": [
+    "📐",
+    "📜"
+   ],
+   "bg": "lilac",
+   "count": false
+  },
+  {
+   "say": "सोचो, जो सिखाने आए थे, वो यहाँ से सीखकर गए।",
    "cap": "Think about it. They came to teach, and left having learned.",
-   "lines": [["Think about it", "Y"], ["Came to teach.", "y"], ["Left having learned.", "w"]],
-   "art": ["🎓"], "bg": "coral", "count": false},
-  {"say": "By the 1900s, it watered about ten lakh acres. India's oldest dam still in use.",
-   "lines": [["Early 1900s", "Y"], ["10 lakh acres", "y"], ["India's oldest dam still in use", "w"], ["Wikipedia, DT Next, ICE", "g"]],
-   "art": ["🌾", "🏆"], "bg": "sun"},
-  {"say": "Send this to the engineer friend who thinks old means weak. One Indian marvel every week. Follow for number three.",
-   "lines": [["INDIA BUILT THIS", "Y"], ["Old stone or concrete?", "y"], ["Which lasts longer?", "s"], ["Follow for #3", "W"]],
-   "art": ["🪨", "🏗️"], "bg": "mint", "count": false}
+   "lines": [
+    [
+     "Think about it",
+     "Y"
+    ],
+    [
+     "Came to teach.",
+     "y"
+    ],
+    [
+     "Left having learned.",
+     "w"
+    ]
+   ],
+   "art": [
+    "🎓"
+   ],
+   "bg": "coral",
+   "count": false
+  },
+  {
+   "say": "By the 1900s, it watered about ten lakh acres. India's oldest dam still in use.",
+   "lines": [
+    [
+     "Early 1900s",
+     "Y"
+    ],
+    [
+     "10 lakh acres",
+     "y"
+    ],
+    [
+     "India's oldest dam still in use",
+     "w"
+    ],
+    [
+     "Wikipedia, DT Next, ICE",
+     "g"
+    ]
+   ],
+   "art": [
+    "🌾",
+    "🏆"
+   ],
+   "bg": "sun"
+  },
+  {
+   "say": "Send this to the engineer friend who thinks old means weak. One Indian marvel every week. Follow for number three.",
+   "lines": [
+    [
+     "INDIA BUILT THIS",
+     "Y"
+    ],
+    [
+     "Old stone or concrete?",
+     "y"
+    ],
+    [
+     "Which lasts longer?",
+     "s"
+    ],
+    [
+     "Follow for #3",
+     "W"
+    ]
+   ],
+   "art": [
+    "🪨",
+    "🏗️"
+   ],
+   "bg": "mint",
+   "count": false
+  }
  ]
 }
