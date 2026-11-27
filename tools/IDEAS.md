@@ -229,7 +229,7 @@ Every idea needs its numbers verified (two sources) before it's made; reword or 
 | C-4 | Players | One Kohli Instagram post vs a full IPL season salary (old idea 20; verify both) | idea |
 | C-5 | WPL | Women's Premier League: five teams sold for ₹4,670 cr in 2023 (verify); what they earn | idea |
 | C-6 | History | 1983 World Cup: what the winners were paid, and how money was raised for them (verify) | idea |
-| C-7 | Rise & fall | Kochi Tuskers: the IPL team that lasted one season (old idea 23) | planned: long_003 (Fri 27 Nov, teased at the end of long_002). Kochi played only IPL 2011, terminated by BCCI; arbitration award / court ordered BCCI to pay (ESPN: ₹539 cr; verify) |
+| C-7 | Rise & fall | Kochi Tuskers: the IPL team that lasted one season (old idea 23) | made: long_003 (27 Nov, 3:55). $333.33M bid, 21 Mar 2010, second to Sahara's $370M Pune (ESPNcricinfo, Wikipedia); ~₹1,533 cr (Wikipedia); RR $67M in 2008 (p019 sources); Modi posts shareholding 11 Apr, Tharoor denies a personal stake, resigns 18 Apr, Pushkar gives up 4.7% sweat equity, Modi suspended 26 Apr (ESPNcricinfo timeline, Business Standard); 2011: 6 W 8 L, 8th of 10 (Wikipedia, Business Standard, ESPN, Onmanorama); terminated 19 Sep 2011, ₹153.34 cr guarantee cashed (Wikipedia, LiveLaw, Onmanorama); arbitration 2012, award 2015: KCPL ~₹385 cr (ESPN, WION), RSW ₹153.34 cr (LiveLaw, ESPN); Bombay HC Justice R I Chagla, Jun 2025, ₹538 cr, BCCI had kept accepting payments after the deadline (LiveLaw, Business Standard, ESPN); six weeks to appeal (ESPN, Onmanorama). Appeal hearing reported only by Fox Mandal: not used |
 | C-8 | Tech | What DRS/ball-tracking costs per match, and who pays (verify) | idea |
 | C-9 | Auction | Auction week: does a ₹25 cr player really get ₹25 cr? (tax, how it's paid; scan 5 outlier 88x) — make Mon 14 Dec, before the 16 Dec auction | idea |
 | C-10 | Auction | Carousel cheat sheet: every team's purse left for the 16 Dec auction (₹297.95 cr, 66 slots; refresh figures first) — candidate for a Sunday carousel slot | idea |
@@ -256,7 +256,7 @@ Every idea needs its numbers verified (two sources) before it's made; reword or 
 | H-5 | Mumbai's dabbawalas: a near-zero-error system with no app (old idea 7) | idea |
 | H-6 | Konark's wheels that tell the time (verify how) | idea |
 | H-7 | Pamban bridge: 1914 and its 2025 vertical-lift replacement | idea |
-| H-8 | How a trading company ended up ruling India: the East India Company's start (verify capital and dates) | idea |
+| H-8 | How a trading company ended up ruling India: the East India Company's start (verify capital and dates) | planned: long_004 (Fri 4 Dec, teased in long_003) |
 
 **Space Money / other sports (alternate Sundays; space is a 4-reel test)**
 | # | Idea | Status |
@@ -273,13 +273,14 @@ Every idea needs its numbers verified (two sources) before it's made; reword or 
 | OS-4 | Javelin: why the men's javelin was redesigned in 1986 (records got too long), the Neeraj Chopra link | idea |
 
 ## Long videos and their Shorts
-**long_002 finished 21 Nov (4:30).** Section 4 voiced as `long_002_s4_h` (English only, reworded) after 6 empty takes; built, pushed, upload guide ready for the owner.
+**long_003 finished 27 Nov (3:55).** Five voice sections; s3 needed 3 takes (2 empty). **long_002 finished 21 Nov (4:30).** Section 4 voiced as `long_002_s4_h` (English only, reworded) after 6 empty takes; built, pushed, upload guide ready for the owner.
 
 | Long | Topic | Shorts |
 |---|---|---|
 | long_001 (14 Nov) | Nirma story | p011, p012 |
 | long_002 (20 Nov) | F1's banned tricks: fan car, six wheels, mass damper, F-duct, £1 Brawn team, DAS, 2026 active aero | **made (p017), 21 Nov:** the fan car, "This F1 car won its only race. Then it vanished." Kicker "F1 EXPLAINED #1". Reuse audio/long_002_s2 lines where possible; ends "The full story is on our YouTube channel, Behind The Hype." Facts: Brabham BT46B, Gordon Murray, Swedish GP 17 Jun 1978, Lauda won, fan officially "for cooling", withdrawn by Ecclestone after one race (FOCA politics), win stood (Wikipedia BT46, Motor Sport, The Race). Next Tuesday's F1 Explained takes F1-2 (pit stop). |
-| long_003 (27 Nov, planned) | Cricket: Kochi Tuskers, the one-season IPL team | — |
+| long_003 (27 Nov) | Cricket: Kochi Tuskers, the one-season IPL team (3:55; IG Parts 1–2) | **Short DUE Sat 28 Nov (p023):** the twist, "This IPL team played 14 matches. The BCCI was told to pay ₹538 crore." Kicker "CRICKET MONEY #2"; reuse audio/long_003_s4.wav + s5 lines where possible (BCCI kept accepting payments after the deadline; ₹38 crore per match played); ends "The full story is on our YouTube channel, Behind The Hype." Facts and sources: C-7 row |
+| long_004 (Fri 4 Dec, planned) | History: how the East India Company, a trading company, ended up ruling India (H-8; teased at the end of long_003) | — |
 
 ## Story reel queue (from 14 Nov; person + turning point + twist; verify everything)
 | # | Story | Hook draft | Status |

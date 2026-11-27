@@ -1,0 +1,367 @@
+{
+ "out": "long/long_003_ig_p2.mp4",
+ "voice": "long/long_003_ig_p2_voice.wav",
+ "mood": "dark",
+ "seed": 305,
+ "cuts": [
+  7.24,
+  14.6,
+  21.35,
+  30.71,
+  37.03,
+  47.2,
+  53.41,
+  59.55,
+  65.79,
+  76.38,
+  82.66,
+  87.36,
+  94.88,
+  99.65,
+  106.76,
+  113.99
+ ],
+ "beats": [
+  {
+   "say": "But Kochi's owners didn't walk away. In 2012, they took the BCCI to arbitration.",
+   "lines": [
+    [
+     "KOCHI TUSKERS · PART 2",
+     "Y"
+    ],
+    [
+     "2012",
+     "W"
+    ],
+    [
+     "Kochi fights back",
+     "y"
+    ]
+   ],
+   "art": [
+    "⚖️"
+   ],
+   "count": false,
+   "bg": "lilac"
+  },
+  {
+   "say": "Arbitration is like a private court. An arbitrator hears both sides, and the decision binds them both.",
+   "lines": [
+    [
+     "Arbitration",
+     "W"
+    ],
+    [
+     "a private court",
+     "y"
+    ],
+    [
+     "the decision binds both sides",
+     "s"
+    ]
+   ],
+   "art": [
+    "📜",
+    "⚖️"
+   ],
+   "bg": "lilac"
+  },
+  {
+   "say": "In 2015, the arbitrator ruled for Kochi. The BCCI had been wrong to end the contract.",
+   "lines": [
+    [
+     "2015",
+     "W"
+    ],
+    [
+     "Kochi wins",
+     "y"
+    ]
+   ],
+   "art": [
+    "📜",
+    "✅"
+   ],
+   "count": false,
+   "bg": "lilac"
+  },
+  {
+   "say": "Kochi Cricket was awarded about three hundred and eighty-five crore rupees. And Rendezvous was to get back the one hundred and fifty-three crore from the cashed guarantee.",
+   "lines": [
+    [
+     "₹385 crore",
+     "y"
+    ],
+    [
+     "to Kochi Cricket",
+     "s"
+    ],
+    [
+     "+ ₹153 crore to Rendezvous",
+     "w"
+    ]
+   ],
+   "art": [
+    "coin:₹",
+    "🏛️"
+   ],
+   "bg": "lilac"
+  },
+  {
+   "say": "लेकिन BCCI ने हार नहीं मानी। Award को court में challenge किया... और case ten साल चला।",
+   "lines": [
+    [
+     "BCCI challenged it",
+     "W"
+    ],
+    [
+     "10 more years",
+     "y"
+    ]
+   ],
+   "art": [
+    "⏳",
+    "⚖️"
+   ],
+   "cap": "But the BCCI didn't give up. It challenged the award in court... and the case ran for ten years.",
+   "bg": "lilac"
+  },
+  {
+   "say": "June 2025. At the Bombay High Court, Justice R I Chagla dismissed the BCCI's challenge. The total: five hundred and thirty-eight crore rupees.",
+   "lines": [
+    [
+     "June 2025",
+     "W"
+    ],
+    [
+     "₹538 crore",
+     "y"
+    ],
+    [
+     "Bombay High Court",
+     "s"
+    ]
+   ],
+   "art": [
+    "⚖️",
+    "coin:₹"
+   ],
+   "circle": 1,
+   "bg": "lilac"
+  },
+  {
+   "say": "The judge said a court can't re-weigh the evidence in an arbitration. Its job here is very limited.",
+   "lines": [
+    [
+     "\"Very limited\"",
+     "W"
+    ],
+    [
+     "the court won't re-weigh evidence",
+     "s"
+    ]
+   ],
+   "art": [
+    "🔍"
+   ],
+   "bg": "lilac"
+  },
+  {
+   "say": "And here's the twist. The BCCI had kept accepting Kochi's payments after the deadline had passed.",
+   "lines": [
+    [
+     "The twist",
+     "W"
+    ],
+    [
+     "BCCI kept taking payments",
+     "y"
+    ],
+    [
+     "after the deadline",
+     "s"
+    ]
+   ],
+   "art": [
+    "coin:₹",
+    "📅"
+   ],
+   "circle": 1,
+   "bg": "lilac"
+  },
+  {
+   "say": "मतलब, जिस rule पर team निकाली गई... उसी rule को BCCI ने ख़ुद ढीला छोड़ दिया था।",
+   "lines": [
+    [
+     "The same rule",
+     "W"
+    ],
+    [
+     "it had let slide",
+     "y"
+    ]
+   ],
+   "art": [
+    "📜",
+    "🤷"
+   ],
+   "cap": "Meaning: the rule used to throw the team out... the BCCI had let slide itself.",
+   "bg": "lilac"
+  },
+  {
+   "say": "Do the maths. Five hundred and thirty-eight crore rupees, for a team that played fourteen matches. That's over thirty-eight crore rupees for every match it ever played.",
+   "lines": [
+    [
+     "₹538 cr ÷ 14 matches",
+     "W"
+    ],
+    [
+     "₹38 crore a match",
+     "y"
+    ]
+   ],
+   "art": [
+    "🧮",
+    "coin:₹"
+   ],
+   "bg": "sun"
+  },
+  {
+   "say": "And the BCCI was given six weeks to appeal. So even now, the last word may not be said.",
+   "lines": [
+    [
+     "6 weeks to appeal",
+     "W"
+    ],
+    [
+     "the last word?",
+     "y"
+    ]
+   ],
+   "art": [
+    "⏳"
+   ],
+   "bg": "sun"
+  },
+  {
+   "say": "सोचो, अगर Kochi आज भी IPL में होती... तो उसकी value कितनी होती?",
+   "lines": [
+    [
+     "Still in the IPL?",
+     "W"
+    ],
+    [
+     "worth how much today?",
+     "y"
+    ]
+   ],
+   "art": [
+    "🐘",
+    "❓"
+   ],
+   "cap": "Think: if Kochi were still in the IPL today... what would it be worth?",
+   "bg": "sun"
+  },
+  {
+   "say": "Rajasthan Royals, the sixty-seven million dollar team from 2008, was valued at one point six five billion dollars this year.",
+   "lines": [
+    [
+     "RR: $67M to $1.65B",
+     "y"
+    ],
+    [
+     "2008 to 2026",
+     "s"
+    ]
+   ],
+   "art": [
+    "📈"
+   ],
+   "bg": "sun"
+  },
+  {
+   "say": "Kochi ने RR से five गुना पैसा दिया था... पर ये जानने का मौक़ा ही नहीं मिला।",
+   "lines": [
+    [
+     "Kochi paid 5x",
+     "W"
+    ],
+    [
+     "never got to find out",
+     "y"
+    ]
+   ],
+   "art": [
+    "🐘",
+    "🚪"
+   ],
+   "cap": "Kochi had paid five times RR's price... but never got the chance to find out.",
+   "bg": "sun"
+  },
+  {
+   "say": "So here's the question. Was the BCCI right to throw Kochi out, or should it have let them stay? Tell us in the comments.",
+   "lines": [
+    [
+     "Right call",
+     "W"
+    ],
+    [
+     "or a ₹538 crore mistake?",
+     "y"
+    ],
+    [
+     "tell us in the comments",
+     "s"
+    ]
+   ],
+   "art": [
+    "💬"
+   ],
+   "bg": "sun"
+  },
+  {
+   "say": "Next week, a history story: how a company that came to trade ended up ruling India. Subscribe so you don't miss it.",
+   "lines": [
+    [
+     "Next week",
+     "W"
+    ],
+    [
+     "the company that ruled India",
+     "y"
+    ],
+    [
+     "Subscribe",
+     "s"
+    ]
+   ],
+   "art": [
+    "🚢",
+    "👑"
+   ],
+   "bg": "sun"
+  },
+  {
+   "say": "Full video on YouTube: Behind The Hype.",
+   "lines": [
+    [
+     "FULL VIDEO ON YOUTUBE",
+     "Y"
+    ],
+    [
+     "Behind The Hype",
+     "y"
+    ],
+    [
+     "link in bio",
+     "s"
+    ]
+   ],
+   "art": [
+    "▶️"
+   ],
+   "count": false,
+   "bg": "sun"
+  }
+ ]
+}

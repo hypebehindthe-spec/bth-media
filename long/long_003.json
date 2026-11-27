@@ -1,0 +1,843 @@
+{
+ "out": "long/long_003.mp4",
+ "title_bar": {
+  "brand": "BEHIND THE HYPE",
+  "line1": "ONE SEASON.",
+  "line2": "₹538 CRORE.",
+  "sub": "Kochi Tuskers Kerala · 2010–2025"
+ },
+ "mood": "dark",
+ "seed": 303,
+ "ig_tag": "KOCHI TUSKERS · PART {n}",
+ "sections": [
+  {
+   "chapter": "One season, ₹538 crore",
+   "bg": "sky",
+   "voice": "audio/long_003_s1.wav",
+   "beats": [
+    {
+     "say": "In 2010, a group of companies paid more than fifteen hundred crore rupees for an IPL team from Kerala.",
+     "lines": [
+      [
+       "CRICKET MONEY",
+       "Y"
+      ],
+      [
+       "₹1,533 crore",
+       "y"
+      ],
+      [
+       "for one IPL team",
+       "w"
+      ],
+      [
+       "Kochi · 2010",
+       "s"
+      ]
+     ],
+     "art": [
+      "🏏",
+      "coin:₹"
+     ]
+    },
+    {
+     "say": "It played just fourteen matches. Then the BCCI threw it out.",
+     "lines": [
+      [
+       "14 matches",
+       "y"
+      ],
+      [
+       "then thrown out",
+       "W"
+      ]
+     ],
+     "art": [
+      "🏟️",
+      "🚪"
+     ]
+    },
+    {
+     "say": "Fifteen साल बाद, court ने फ़ैसला सुनाया: BCCI को देने होंगे five hundred and thirty-eight crore rupees.",
+     "lines": [
+      [
+       "₹538 crore",
+       "y"
+      ],
+      [
+       "the BCCI was told to pay",
+       "w"
+      ],
+      [
+       "Bombay High Court · 2025",
+       "s"
+      ]
+     ],
+     "art": [
+      "⚖️",
+      "coin:₹"
+     ],
+     "cap": "Fifteen years later, the court ruled: the BCCI must pay 538 crore rupees."
+    },
+    {
+     "say": "This is the story of Kochi Tuskers Kerala. The IPL team that lasted one season, and the fight that lasted fifteen years.",
+     "lines": [
+      [
+       "Kochi Tuskers Kerala",
+       "W"
+      ],
+      [
+       "1 season",
+       "y"
+      ],
+      [
+       "a 15-year fight",
+       "w"
+      ]
+     ],
+     "art": [
+      "🐘",
+      "⏳"
+     ],
+     "circle": 0,
+     "count": false
+    },
+    {
+     "say": "March 2010. The IPL was selling two new teams. Sahara paid three hundred and seventy million dollars for Pune.",
+     "lines": [
+      [
+       "2 new teams",
+       "W"
+      ],
+      [
+       "Pune: $370M",
+       "y"
+      ],
+      [
+       "Sahara · March 2010",
+       "s"
+      ]
+     ],
+     "art": [
+      "📝",
+      "🏏"
+     ]
+    },
+    {
+     "say": "A consortium of five companies, called Rendezvous Sports World, bid three hundred and thirty-three million dollars for Kochi. That's about fifteen hundred and thirty-three crore rupees.",
+     "lines": [
+      [
+       "Kochi: $333M",
+       "y"
+      ],
+      [
+       "about ₹1,533 crore",
+       "w"
+      ],
+      [
+       "Rendezvous Sports World, 5 companies",
+       "s"
+      ]
+     ],
+     "art": [
+      "🐘",
+      "coin:₹"
+     ]
+    },
+    {
+     "say": "सोचो। दो साल पहले Rajasthan Royals सिर्फ़ sixty-seven million dollars में बिकी थी। Kochi ने उसका five गुना दिया।",
+     "lines": [
+      [
+       "RR in 2008: $67M",
+       "W"
+      ],
+      [
+       "Kochi paid 5x",
+       "y"
+      ]
+     ],
+     "art": [
+      "📈"
+     ],
+     "cap": "Think about it. Two years earlier, Rajasthan Royals sold for just 67 million dollars. Kochi paid five times that."
+    },
+    {
+     "say": "And there was a catch. The owners also had to give the BCCI a bank guarantee: ten per cent of the price. About one hundred and fifty-three crore rupees. Remember that number.",
+     "lines": [
+      [
+       "The catch",
+       "W"
+      ],
+      [
+       "a 10% bank guarantee",
+       "w"
+      ],
+      [
+       "₹153 crore",
+       "y"
+      ]
+     ],
+     "art": [
+      "🏛️",
+      "coin:₹"
+     ],
+     "circle": 0
+    }
+   ],
+   "cuts": [
+    7.87,
+    12.45,
+    19.91,
+    28.66,
+    36.03,
+    45.9,
+    53.19
+   ]
+  },
+  {
+   "chapter": "The tweet",
+   "bg": "coral",
+   "voice": "audio/long_003_s2.wav",
+   "beats": [
+    {
+     "say": "Then, just three weeks after the bid, came a tweet.",
+     "lines": [
+      [
+       "3 weeks later",
+       "W"
+      ],
+      [
+       "one tweet",
+       "y"
+      ]
+     ],
+     "art": [
+      "📱"
+     ]
+    },
+    {
+     "say": "On the eleventh of April, IPL commissioner Lalit Modi posted Kochi's list of shareholders online.",
+     "lines": [
+      [
+       "11 April 2010",
+       "W"
+      ],
+      [
+       "the owners list, posted online",
+       "w"
+      ],
+      [
+       "by IPL commissioner Lalit Modi",
+       "s"
+      ]
+     ],
+     "art": [
+      "📱",
+      "📋"
+     ],
+     "count": false
+    },
+    {
+     "say": "One name on it was Sunanda Pushkar, a close friend of Shashi Tharoor, then a union minister. She held what's called sweat equity: a stake given for work, not cash. It was reported at four point seven per cent.",
+     "lines": [
+      [
+       "Sweat equity",
+       "W"
+      ],
+      [
+       "4.7%",
+       "y"
+      ],
+      [
+       "a stake for work, not cash",
+       "s"
+      ]
+     ],
+     "art": [
+      "📄",
+      "coin:%"
+     ]
+    },
+    {
+     "say": "Tharoor said he had no personal stake in the team. But the storm kept growing.",
+     "lines": [
+      [
+       "\"No personal stake\"",
+       "W"
+      ],
+      [
+       "Tharoor's reply",
+       "s"
+      ]
+     ],
+     "art": [
+      "🌪️"
+     ]
+    },
+    {
+     "say": "एक tweet... और eighteen April को minister ने resign कर दिया।",
+     "lines": [
+      [
+       "18 April",
+       "W"
+      ],
+      [
+       "the minister resigned",
+       "y"
+      ]
+     ],
+     "art": [
+      "🪑"
+     ],
+     "cap": "One tweet... and on 18 April, the minister resigned.",
+     "count": false
+    },
+    {
+     "say": "The same day, Pushkar gave up the stake. And eight days later, right after the IPL final, the BCCI suspended Lalit Modi himself.",
+     "lines": [
+      [
+       "26 April",
+       "W"
+      ],
+      [
+       "Modi suspended",
+       "y"
+      ],
+      [
+       "after the IPL final",
+       "s"
+      ]
+     ],
+     "art": [
+      "🏆",
+      "🚫"
+     ],
+     "count": false
+    },
+    {
+     "say": "सोचो। Team ने अभी एक भी ball नहीं खेली थी... और पूरा देश उसी की बात कर रहा था।",
+     "lines": [
+      [
+       "0 balls played",
+       "y"
+      ],
+      [
+       "and all of India talking",
+       "w"
+      ]
+     ],
+     "art": [
+      "🏏",
+      "📰"
+     ],
+     "cap": "Think about it. The team hadn't played a single ball... and the whole country was talking about it."
+    }
+   ],
+   "cuts": [
+    4.08,
+    11.23,
+    26.39,
+    31.82,
+    36.0,
+    45.26
+   ]
+  },
+  {
+   "chapter": "Fourteen matches",
+   "bg": "mint",
+   "voice": "audio/long_003_s3_c.wav",
+   "beats": [
+    {
+     "say": "Kochi finally took the field in 2011. And on paper, the team looked strong.",
+     "lines": [
+      [
+       "IPL 2011",
+       "W"
+      ],
+      [
+       "finally on the field",
+       "w"
+      ]
+     ],
+     "art": [
+      "🏟️",
+      "🏏"
+     ],
+     "count": false
+    },
+    {
+     "say": "The captain was Mahela Jayawardene. The squad had Brendon McCullum, VVS Laxman, Muttiah Muralitharan, Sreesanth, and a young Ravindra Jadeja.",
+     "lines": [
+      [
+       "Captain: Jayawardene",
+       "W"
+      ],
+      [
+       "McCullum · Laxman · Murali",
+       "s"
+      ],
+      [
+       "Sreesanth · Jadeja",
+       "s"
+      ]
+     ],
+     "art": [
+      "🧢",
+      "🏏"
+     ]
+    },
+    {
+     "say": "Kerala को पहली बार अपनी IPL team मिली थी।",
+     "lines": [
+      [
+       "Kerala's first",
+       "W"
+      ],
+      [
+       "IPL team",
+       "y"
+      ]
+     ],
+     "art": [
+      "🐘",
+      "🌴"
+     ],
+     "cap": "Kerala had its own IPL team for the first time."
+    },
+    {
+     "say": "Fourteen matches. Six wins, eight losses. Eighth out of ten teams.",
+     "lines": [
+      [
+       "6 wins · 8 losses",
+       "y"
+      ],
+      [
+       "8th of 10",
+       "W"
+      ]
+     ],
+     "art": [
+      "📊"
+     ]
+    },
+    {
+     "say": "Not great. Not a disaster either. The real trouble was off the field.",
+     "lines": [
+      [
+       "The real trouble",
+       "W"
+      ],
+      [
+       "off the field",
+       "y"
+      ]
+     ],
+     "art": [
+      "🏢"
+     ]
+    },
+    {
+     "say": "The owners were fighting among themselves. And the next bank guarantee, the one due for the coming season, never arrived.",
+     "lines": [
+      [
+       "Owners fighting",
+       "W"
+      ],
+      [
+       "next guarantee",
+       "w"
+      ],
+      [
+       "never arrived",
+       "y"
+      ]
+     ],
+     "art": [
+      "🏛️",
+      "✋"
+     ]
+    },
+    {
+     "say": "BCCI ने इंतज़ार किया, फिर nineteen September 2011 को Kochi का contract ख़त्म कर दिया।",
+     "lines": [
+      [
+       "19 Sept 2011",
+       "W"
+      ],
+      [
+       "contract terminated",
+       "y"
+      ]
+     ],
+     "art": [
+      "✂️",
+      "📜"
+     ],
+     "cap": "The BCCI waited... then on 19 September 2011, it terminated Kochi's contract.",
+     "count": false
+    },
+    {
+     "say": "It also cashed the guarantee it already held: one hundred and fifty-three crore rupees. And just like that, Kochi Tuskers Kerala was gone.",
+     "lines": [
+      [
+       "Guarantee cashed",
+       "W"
+      ],
+      [
+       "₹153 crore",
+       "y"
+      ],
+      [
+       "one season, then gone",
+       "s"
+      ]
+     ],
+     "art": [
+      "🏛️",
+      "coin:₹"
+     ]
+    }
+   ],
+   "cuts": [
+    5.61,
+    15.75,
+    19.12,
+    24.18,
+    28.87,
+    35.98,
+    42.43
+   ]
+  },
+  {
+   "chapter": "The fight back",
+   "bg": "lilac",
+   "voice": "audio/long_003_s4.wav",
+   "beats": [
+    {
+     "say": "But Kochi's owners didn't walk away. In 2012, they took the BCCI to arbitration.",
+     "lines": [
+      [
+       "2012",
+       "W"
+      ],
+      [
+       "Kochi fights back",
+       "y"
+      ]
+     ],
+     "art": [
+      "⚖️"
+     ],
+     "count": false
+    },
+    {
+     "say": "Arbitration is like a private court. An arbitrator hears both sides, and the decision binds them both.",
+     "lines": [
+      [
+       "Arbitration",
+       "W"
+      ],
+      [
+       "a private court",
+       "y"
+      ],
+      [
+       "the decision binds both sides",
+       "s"
+      ]
+     ],
+     "art": [
+      "📜",
+      "⚖️"
+     ]
+    },
+    {
+     "say": "In 2015, the arbitrator ruled for Kochi. The BCCI had been wrong to end the contract.",
+     "lines": [
+      [
+       "2015",
+       "W"
+      ],
+      [
+       "Kochi wins",
+       "y"
+      ]
+     ],
+     "art": [
+      "📜",
+      "✅"
+     ],
+     "count": false
+    },
+    {
+     "say": "Kochi Cricket was awarded about three hundred and eighty-five crore rupees. And Rendezvous was to get back the one hundred and fifty-three crore from the cashed guarantee.",
+     "lines": [
+      [
+       "₹385 crore",
+       "y"
+      ],
+      [
+       "to Kochi Cricket",
+       "s"
+      ],
+      [
+       "+ ₹153 crore to Rendezvous",
+       "w"
+      ]
+     ],
+     "art": [
+      "coin:₹",
+      "🏛️"
+     ]
+    },
+    {
+     "say": "लेकिन BCCI ने हार नहीं मानी। Award को court में challenge किया... और case ten साल चला।",
+     "lines": [
+      [
+       "BCCI challenged it",
+       "W"
+      ],
+      [
+       "10 more years",
+       "y"
+      ]
+     ],
+     "art": [
+      "⏳",
+      "⚖️"
+     ],
+     "cap": "But the BCCI didn't give up. It challenged the award in court... and the case ran for ten years."
+    },
+    {
+     "say": "June 2025. At the Bombay High Court, Justice R I Chagla dismissed the BCCI's challenge. The total: five hundred and thirty-eight crore rupees.",
+     "lines": [
+      [
+       "June 2025",
+       "W"
+      ],
+      [
+       "₹538 crore",
+       "y"
+      ],
+      [
+       "Bombay High Court",
+       "s"
+      ]
+     ],
+     "art": [
+      "⚖️",
+      "coin:₹"
+     ],
+     "circle": 1
+    },
+    {
+     "say": "The judge said a court can't re-weigh the evidence in an arbitration. Its job here is very limited.",
+     "lines": [
+      [
+       "\"Very limited\"",
+       "W"
+      ],
+      [
+       "the court won't re-weigh evidence",
+       "s"
+      ]
+     ],
+     "art": [
+      "🔍"
+     ]
+    },
+    {
+     "say": "And here's the twist. The BCCI had kept accepting Kochi's payments after the deadline had passed.",
+     "lines": [
+      [
+       "The twist",
+       "W"
+      ],
+      [
+       "BCCI kept taking payments",
+       "y"
+      ],
+      [
+       "after the deadline",
+       "s"
+      ]
+     ],
+     "art": [
+      "coin:₹",
+      "📅"
+     ],
+     "circle": 1
+    },
+    {
+     "say": "मतलब, जिस rule पर team निकाली गई... उसी rule को BCCI ने ख़ुद ढीला छोड़ दिया था।",
+     "lines": [
+      [
+       "The same rule",
+       "W"
+      ],
+      [
+       "it had let slide",
+       "y"
+      ]
+     ],
+     "art": [
+      "📜",
+      "🤷"
+     ],
+     "cap": "Meaning: the rule used to throw the team out... the BCCI had let slide itself."
+    }
+   ],
+   "cuts": [
+    7.24,
+    14.6,
+    21.35,
+    30.71,
+    37.03,
+    47.2,
+    53.41,
+    59.55
+   ]
+  },
+  {
+   "chapter": "What's left",
+   "bg": "sun",
+   "voice": "audio/long_003_s5.wav",
+   "beats": [
+    {
+     "say": "Do the maths. Five hundred and thirty-eight crore rupees, for a team that played fourteen matches. That's over thirty-eight crore rupees for every match it ever played.",
+     "lines": [
+      [
+       "₹538 cr ÷ 14 matches",
+       "W"
+      ],
+      [
+       "₹38 crore a match",
+       "y"
+      ]
+     ],
+     "art": [
+      "🧮",
+      "coin:₹"
+     ]
+    },
+    {
+     "say": "And the BCCI was given six weeks to appeal. So even now, the last word may not be said.",
+     "lines": [
+      [
+       "6 weeks to appeal",
+       "W"
+      ],
+      [
+       "the last word?",
+       "y"
+      ]
+     ],
+     "art": [
+      "⏳"
+     ]
+    },
+    {
+     "say": "सोचो, अगर Kochi आज भी IPL में होती... तो उसकी value कितनी होती?",
+     "lines": [
+      [
+       "Still in the IPL?",
+       "W"
+      ],
+      [
+       "worth how much today?",
+       "y"
+      ]
+     ],
+     "art": [
+      "🐘",
+      "❓"
+     ],
+     "cap": "Think: if Kochi were still in the IPL today... what would it be worth?"
+    },
+    {
+     "say": "Rajasthan Royals, the sixty-seven million dollar team from 2008, was valued at one point six five billion dollars this year.",
+     "lines": [
+      [
+       "RR: $67M to $1.65B",
+       "y"
+      ],
+      [
+       "2008 to 2026",
+       "s"
+      ]
+     ],
+     "art": [
+      "📈"
+     ]
+    },
+    {
+     "say": "Kochi ने RR से five गुना पैसा दिया था... पर ये जानने का मौक़ा ही नहीं मिला।",
+     "lines": [
+      [
+       "Kochi paid 5x",
+       "W"
+      ],
+      [
+       "never got to find out",
+       "y"
+      ]
+     ],
+     "art": [
+      "🐘",
+      "🚪"
+     ],
+     "cap": "Kochi had paid five times RR's price... but never got the chance to find out."
+    },
+    {
+     "say": "So here's the question. Was the BCCI right to throw Kochi out, or should it have let them stay? Tell us in the comments.",
+     "lines": [
+      [
+       "Right call",
+       "W"
+      ],
+      [
+       "or a ₹538 crore mistake?",
+       "y"
+      ],
+      [
+       "tell us in the comments",
+       "s"
+      ]
+     ],
+     "art": [
+      "💬"
+     ]
+    },
+    {
+     "say": "Next week, a history story: how a company that came to trade ended up ruling India. Subscribe so you don't miss it.",
+     "lines": [
+      [
+       "Next week",
+       "W"
+      ],
+      [
+       "the company that ruled India",
+       "y"
+      ],
+      [
+       "Subscribe",
+       "s"
+      ]
+     ],
+     "art": [
+      "🚢",
+      "👑"
+     ]
+    }
+   ],
+   "cuts": [
+    10.29,
+    16.57,
+    21.27,
+    28.79,
+    33.56,
+    40.67
+   ]
+  }
+ ]
+}
