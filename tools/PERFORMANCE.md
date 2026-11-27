@@ -35,6 +35,7 @@ Updated by the daily run on Mondays and Thursdays from the Make "insights" pull.
 |---|---|---|---|---|---|
 | long_001 | The Nirma Story: How a Bicycle Salesman Beat HUL | YLu389so9LY | https://youtu.be/YLu389so9LY | 2026-11-15 | p011, p012 (Related video to be set once the owner's YouTube verification clears) |
 | long_002 | F1 Banned Tech Explained: 6 Tricks Too Clever to Keep | X_nu1WJxYcU | https://youtu.be/X_nu1WJxYcU | 2026-11-21 | p017 (owner sets Related video) |
+| long_003 | Kochi Tuskers: The IPL Team That Played Just 14 Matches | (waiting for owner's link) | — | ready 2026-11-27 | p023 (Sat 28 Nov, owner sets Related video) |
 
 ## Followers / subscribers (owner-reported)
 | Date | Instagram followers | YouTube subscribers | Note |
