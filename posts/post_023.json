@@ -1,0 +1,230 @@
+{
+ "out": "posts/post_023.mp4",
+ "voice": "audio/post_023_vo_fit.wav",
+ "mood": "drive",
+ "seed": 2311,
+ "cuts": [
+  9.4,
+  15.34,
+  19.49,
+  25.4,
+  29.85,
+  37.1,
+  41.27
+ ],
+ "beats": [
+  {
+   "say": "You think the BCCI never loses? This IPL team played fourteen matches. Then the BCCI was ordered to pay it 538 crore. How?",
+   "lines": [
+    [
+     "CRICKET MONEY #2",
+     "Y"
+    ],
+    [
+     "14 matches.",
+     "y"
+    ],
+    [
+     "₹538 crore bill.",
+     "w"
+    ],
+    [
+     "the IPL team that beat the BCCI",
+     "s"
+    ]
+   ],
+   "art": [
+    "🏏",
+    "⚖️"
+   ],
+   "bg": "sun",
+   "count": false
+  },
+  {
+   "say": "Kochi Tuskers Kerala. Bought in 2010 for about 1,533 crore rupees.",
+   "lines": [
+    [
+     "2010",
+     "Y"
+    ],
+    [
+     "₹1,533 crore",
+     "y"
+    ],
+    [
+     "Kochi Tuskers Kerala",
+     "s"
+    ],
+    [
+     "$333M bid, second only to Pune",
+     "g"
+    ]
+   ],
+   "art": [
+    "🐘",
+    "🏏"
+   ],
+   "bg": "mint"
+  },
+  {
+   "say": "2011 में बस एक season खेला। Six wins, eight losses.",
+   "cap": "2011: they played just one season. Six wins, eight losses.",
+   "lines": [
+    [
+     "2011",
+     "Y"
+    ],
+    [
+     "1 season",
+     "y"
+    ],
+    [
+     "6 wins, 8 losses",
+     "w"
+    ],
+    [
+     "8th of 10 teams",
+     "g"
+    ]
+   ],
+   "art": [
+    "🏏",
+    "🏟️"
+   ],
+   "bg": "sky",
+   "count": false
+  },
+  {
+   "say": "Then a bank guarantee was late. The BCCI threw Kochi out, and cashed the old one: 153 crore.",
+   "lines": [
+    [
+     "Sept 2011",
+     "Y"
+    ],
+    [
+     "Thrown out.",
+     "y"
+    ],
+    [
+     "guarantee cashed: ₹153 crore",
+     "s"
+    ],
+    [
+     "the next bank guarantee was late",
+     "g"
+    ]
+   ],
+   "art": [
+    "📜",
+    "coin:₹"
+   ],
+   "bg": "coral",
+   "count": false
+  },
+  {
+   "say": "लेकिन Kochi ने हार नहीं मानी। 2015 में arbitration जीत गई।",
+   "cap": "But Kochi didn't give up. In 2015, it won the arbitration.",
+   "lines": [
+    [
+     "2015",
+     "Y"
+    ],
+    [
+     "Kochi wins.",
+     "y"
+    ],
+    [
+     "arbitrator: the BCCI was wrong to end the contract",
+     "s"
+    ]
+   ],
+   "art": [
+    "⚖️",
+    "🏏"
+   ],
+   "bg": "lilac",
+   "count": false
+  },
+  {
+   "say": "June 2025. The Bombay High Court backed it. 538 crore. Over 38 crore for every match played.",
+   "lines": [
+    [
+     "June 2025",
+     "Y"
+    ],
+    [
+     "₹538 crore",
+     "y"
+    ],
+    [
+     "Bombay High Court upholds the award",
+     "s"
+    ],
+    [
+     "= over ₹38 crore per match played",
+     "W"
+    ]
+   ],
+   "art": [
+    "⚖️",
+    "coin:₹"
+   ],
+   "bg": "sun"
+  },
+  {
+   "say": "और twist? Deadline के बाद भी BCCI, Kochi के payments लेता रहा।",
+   "cap": "The twist? The BCCI kept accepting Kochi's payments after the deadline.",
+   "lines": [
+    [
+     "The twist",
+     "Y"
+    ],
+    [
+     "Payments taken",
+     "y"
+    ],
+    [
+     "after the deadline",
+     "w"
+    ],
+    [
+     "Bombay High Court, June 2025",
+     "g"
+    ]
+   ],
+   "art": [
+    "⏰",
+    "coin:₹"
+   ],
+   "bg": "mint",
+   "count": false
+  },
+  {
+   "say": "Send this to the friend who says the BCCI never loses. The full story is on our YouTube channel, Behind The Hype.",
+   "lines": [
+    [
+     "BCCI right or wrong?",
+     "Y"
+    ],
+    [
+     "Send this",
+     "y"
+    ],
+    [
+     "to the friend who says the BCCI never loses",
+     "s"
+    ],
+    [
+     "Full story: YouTube, Behind The Hype",
+     "W"
+    ]
+   ],
+   "art": [
+    "🏏",
+    "⚖️"
+   ],
+   "bg": "sky",
+   "count": false
+  }
+ ]
+}
